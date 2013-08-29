@@ -1,0 +1,52 @@
+<skeleton name="fight_skill_4999" frameRate="24" version="2.1">
+ <armatures>
+  <armature name="fight_skill_4999">
+   <b name="4" x="19.65" y="-12.55" kX="3.95" kY="3.95" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="skill4999parts-1" pX="112" pY="38.55"/>
+    <d name="skill4999parts-2" pX="123.1" pY="57.95"/>
+    <d name="skill4999parts-3" pX="108.05" pY="49.8"/>
+    <d name="skill4999parts-4" pX="79.6" pY="45.1"/>
+   </b>
+   <b name="3" x="24.4" y="-59.35" kX="122.03" kY="122.03" cX="0.79" cY="0.79" pX="0" pY="0" z="1">
+    <d name="skill4999parts-5" pX="84.2" pY="66.75"/>
+    <d name="skill4999parts-6" pX="118.2" pY="94.75"/>
+    <d name="skill4999parts-7" pX="115.2" pY="91.75"/>
+    <d name="skill4999parts-8" pX="119.2" pY="95.75"/>
+    <d name="skill4999parts-9" pX="84.05" pY="85.25"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="fight_skill_4999">
+   <mov name="1" dr="9" to="0" drTW="9" lp="0" twE="NaN">
+    <b name="4" sc="1" dl="0">
+     <f x="19.65" y="-12.55" cocos2d_x="19.65" cocos2d_y="-12.55" kX="3.95" kY="3.95" cX="1" cY="1" bd="8" pX="0" pY="0" z="0" dI="0" dr="2"/>
+     <f x="19.65" y="-12.55" cocos2d_x="19.65" cocos2d_y="-12.55" kX="3.95" kY="3.95" cX="1" cY="1" bd="8" pX="0" pY="0" z="0" dI="1" dr="2"/>
+     <f x="19.65" y="-12.55" cocos2d_x="19.65" cocos2d_y="-12.55" kX="3.95" kY="3.95" cX="1" cY="1" bd="8" pX="0" pY="0" z="0" dI="2" dr="2"/>
+     <f x="19.65" y="-12.55" cocos2d_x="19.65" cocos2d_y="-12.55" kX="3.95" kY="3.95" cX="1" cY="1" bd="8" pX="0" pY="0" z="0" dI="3" evt="after" dr="2"/>
+     <f dr="1" dI="-1"/>
+    </b>
+    <b name="3" sc="1" dl="0">
+     <f dr="1" dI="-1"/>
+     <f x="24.4" y="-59.35" cocos2d_x="24.4" cocos2d_y="-59.35" kX="122.03" kY="122.03" cX="0.79" cY="0.79" bd="8" pX="0" pY="0" z="1" dI="0" evt="start" dr="1"/>
+     <f x="24.4" y="-59.35" cocos2d_x="24.4" cocos2d_y="-59.35" kX="122.03" kY="122.03" cX="0.79" cY="0.79" bd="8" pX="0" pY="0" z="1" dI="1" evt="attack1" dr="1"/>
+     <f x="24.4" y="-59.35" cocos2d_x="24.4" cocos2d_y="-59.35" kX="122.03" kY="122.03" cX="0.79" cY="0.79" bd="8" pX="0" pY="0" z="1" dI="2" dr="1"/>
+     <f x="24.4" y="-59.35" cocos2d_x="24.4" cocos2d_y="-59.35" kX="122.03" kY="122.03" cX="0.79" cY="0.79" bd="8" pX="0" pY="0" z="1" dI="3" dr="1"/>
+     <f x="46.6" y="-77.5" cocos2d_x="46.6" cocos2d_y="-77.5" kX="122.03" kY="122.03" cX="0.79" cY="0.79" bd="8" pX="0" pY="0" z="1" dI="4" dr="1"/>
+     <f dr="3" dI="-1"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="fight_skill_4999" width="512" height="512">
+  <SubTexture name="skill4999parts-9" width="96" height="177" cocos2d_pX="84.05" cocos2d_pY="85.25" x="138" y="126"/>
+  <SubTexture name="skill4999parts-8" width="122" height="176" cocos2d_pX="119.2" cocos2d_pY="95.75" x="236" y="206"/>
+  <SubTexture name="skill4999parts-7" width="123" height="171" cocos2d_pX="115.2" cocos2d_pY="91.75" x="360" y="206"/>
+  <SubTexture name="skill4999parts-6" width="136" height="174" cocos2d_pX="118.2" cocos2d_pY="94.75" x="0" y="126"/>
+  <SubTexture name="skill4999parts-5" width="126" height="135" cocos2d_pX="84.2" cocos2d_pY="66.75" x="0" y="302"/>
+  <SubTexture name="skill4999parts-4" width="224" height="62" cocos2d_pX="79.6" cocos2d_pY="45.1" x="128" y="384"/>
+  <SubTexture name="skill4999parts-3" width="242" height="95" cocos2d_pX="108.05" cocos2d_pY="49.8" x="255" y="0"/>
+  <SubTexture name="skill4999parts-2" width="253" height="124" cocos2d_pX="123.1" cocos2d_pY="57.95" x="0" y="0"/>
+  <SubTexture name="skill4999parts-1" width="209" height="107" cocos2d_pX="112" cocos2d_pY="38.55" x="255" y="97"/>
+ </TextureAtlas>
+</skeleton>

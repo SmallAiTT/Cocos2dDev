@@ -1,0 +1,106 @@
+<skeleton name="fight_skill_4508" frameRate="24" version="2.1">
+  <armatures>
+    <armature name="fight_skill_4508">
+      <b name="5" x="-117.95" y="-176" kX="-119.07" kY="-119.07" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="skill4508parts-b" pX="28" pY="138"/>
+      </b>
+      <b name="4" x="-142.4" y="-60.35" kX="0" kY="0" cX="2" cY="2" pX="10.3" pY="0" z="1">
+        <d name="skill4508parts-ji01" pX="57.2" pY="37.25"/>
+        <d name="skill4508parts-ji02" pX="81.2" pY="44.75"/>
+        <d name="skill4508parts-ji03" pX="109.95" pY="46.25"/>
+        <d name="skill4508parts-ji04" pX="111.25" pY="44.5"/>
+        <d name="skill4508parts-ji05" pX="80" pY="37"/>
+        <d name="skill4508parts-ji06" pX="48" pY="36"/>
+      </b>
+      <b name="3" x="184" y="-21.85" kX="56.13" kY="56.13" cX="1" cY="1" pX="0" pY="0" z="2">
+        <d name="skill4508parts-b" pX="28" pY="138"/>
+      </b>
+      <b name="2" x="129.5" y="-173.35" kX="180" kY="180" cX="2" cY="2" pX="10.3" pY="0" z="3">
+        <d name="skill4508parts-ji01" pX="57.2" pY="37.25"/>
+        <d name="skill4508parts-ji02" pX="81.2" pY="44.75"/>
+        <d name="skill4508parts-ji03" pX="109.95" pY="46.25"/>
+        <d name="skill4508parts-ji04" pX="111.25" pY="44.5"/>
+        <d name="skill4508parts-ji05" pX="80" pY="37"/>
+        <d name="skill4508parts-ji06" pX="48" pY="36"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="fight_skill_4508">
+      <mov name="1" dr="20" to="0" drTW="20" lp="0" twE="NaN">
+        <b name="5" sc="1" dl="0">
+          <f x="-117.95" y="-176" cocos2d_x="-117.95" cocos2d_y="-176" kX="-119.07" kY="-119.07" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0.99" evt="shake" dr="4">
+            <colorTransform a="0" r="0" g="0" b="0" aM="20" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-143" y="-250.6" cocos2d_x="-143" cocos2d_y="-250.6" kX="-96.56" kY="-96.56" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="2"/>
+          <f x="-139.35" y="-197.05" cocos2d_x="-139.35" cocos2d_y="-197.05" kX="-109.04" kY="-109.04" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f x="-59.35" y="-129.7" cocos2d_x="-59.35" cocos2d_y="-129.7" kX="-144.41" kY="-144.41" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f x="48" y="-125.45" cocos2d_x="48" cocos2d_y="-125.45" kX="178.24" kY="178.24" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f x="123.3" y="-148.3" cocos2d_x="123.3" cocos2d_y="-148.3" kX="150.94" kY="150.94" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f x="165.85" y="-170.95" cocos2d_x="165.85" cocos2d_y="-170.95" kX="134.13" kY="134.13" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f x="179.75" y="-179.95" cocos2d_x="179.75" cocos2d_y="-179.95" kX="128.58" kY="128.58" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f x="199.65" y="-194.05" cocos2d_x="199.65" cocos2d_y="-194.05" kX="126.33" kY="126.33" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="67" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="218.85" y="-209.25" cocos2d_x="218.85" cocos2d_y="-209.25" kX="124.08" kY="124.08" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="33" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="237" y="-225.6" cocos2d_x="237" cocos2d_y="-225.6" kX="119.86" kY="119.86" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="5" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="5" dI="-1"/>
+        </b>
+        <b name="4" sc="1" dl="0">
+          <f dr="7" dI="-1"/>
+          <f x="-142.4" y="-60.35" cocos2d_x="-163" cocos2d_y="-60.35" kX="0" kY="0" cX="2" cY="2" bd="8" pX="10.3" pY="0" z="1" dI="0" dr="1"/>
+          <f x="-105" y="-43.35" cocos2d_x="-105" cocos2d_y="-43.35" kX="0" kY="0" cX="2" cY="2" bd="8" pX="0" pY="0" z="1" dI="1" dr="1"/>
+          <f x="-50.5" y="-38.35" cocos2d_x="-50.5" cocos2d_y="-38.35" kX="0" kY="0" cX="2" cY="2" bd="8" pX="0" pY="0" z="1" dI="2" evt="attack1" dr="1"/>
+          <f x="42" y="-52.85" cocos2d_x="42" cocos2d_y="-52.85" kX="0" kY="0" cX="2" cY="2" bd="8" pX="0" pY="0" z="1" dI="3" dr="1"/>
+          <f x="101.5" y="-66.85" cocos2d_x="101.5" cocos2d_y="-66.85" kX="0" kY="0" cX="2" cY="2" bd="8" pX="0" pY="0" z="1" dI="4" dr="1"/>
+          <f x="117" y="-72.85" cocos2d_x="145.5" cocos2d_y="-72.85" kX="0" kY="0" cX="2" cY="2" bd="8" pX="-14.25" pY="0" z="1" dI="5" dr="1"/>
+          <f dr="7" dI="-1"/>
+        </b>
+        <b name="3" sc="1" dl="0">
+          <f dr="10" dI="-1"/>
+          <f x="184" y="-21.85" cocos2d_x="184" cocos2d_y="-21.85" kX="56.13" kY="56.13" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="68.1" y="-88.8" cocos2d_x="68.1" cocos2d_y="-88.8" kX="21.79" kY="21.79" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1"/>
+          <f x="-39.2" y="-104.75" cocos2d_x="-39.2" cocos2d_y="-104.75" kX="-5.02" kY="-5.02" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1"/>
+          <f x="-119.75" y="-88.45" cocos2d_x="-119.75" cocos2d_y="-88.45" kX="-25.31" kY="-25.31" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+          <f x="-169.4" y="-66.8" cocos2d_x="-169.4" cocos2d_y="-66.8" kX="-38.85" kY="-38.85" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+          <f x="-192.25" y="-53.9" cocos2d_x="-192.25" cocos2d_y="-53.9" kX="-45.37" kY="-45.37" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f x="-218.3" y="-36.95" cocos2d_x="-218.3" cocos2d_y="-36.95" kX="-45.62" kY="-45.62" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="67" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-243.4" y="-18.45" cocos2d_x="-243.4" cocos2d_y="-18.45" kX="-45.87" kY="-45.87" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" evt="after" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="33" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-267.25" y="1.45" cocos2d_x="-267.25" cocos2d_y="1.45" kX="-46.1" kY="-46.1" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="1" dI="-1"/>
+        </b>
+        <b name="2" sc="1" dl="0">
+          <f dr="11" dI="-1"/>
+          <f x="129.5" y="-173.35" cocos2d_x="150.1" cocos2d_y="-173.35" kX="180" kY="180" cX="2" cY="2" bd="8" pX="10.3" pY="0" z="3" dI="0" dr="1"/>
+          <f x="92.1" y="-190.35" cocos2d_x="92.1" cocos2d_y="-190.35" kX="180" kY="180" cX="2" cY="2" bd="8" pX="0" pY="0" z="3" dI="1" dr="1"/>
+          <f x="37.6" y="-195.35" cocos2d_x="37.6" cocos2d_y="-195.35" kX="180" kY="180" cX="2" cY="2" bd="8" pX="0" pY="0" z="2" dI="2" dr="1"/>
+          <f x="-54.9" y="-180.85" cocos2d_x="-54.9" cocos2d_y="-180.85" kX="180" kY="180" cX="2" cY="2" bd="8" pX="0" pY="0" z="2" dI="3" dr="1"/>
+          <f x="-114.4" y="-166.85" cocos2d_x="-114.4" cocos2d_y="-166.85" kX="180" kY="180" cX="2" cY="2" bd="8" pX="0" pY="0" z="1" dI="4" dr="1"/>
+          <f x="-129.9" y="-160.85" cocos2d_x="-158.4" cocos2d_y="-160.85" kX="180" kY="180" cX="2" cY="2" bd="8" pX="-14.25" pY="0" z="1" dI="5" dr="1"/>
+          <f dr="3" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="fight_skill_4508" width="512" height="512">
+    <SubTexture name="skill4508parts-ji06" width="100" height="76" cocos2d_pX="48" cocos2d_pY="36" x="120" y="178"/>
+    <SubTexture name="skill4508parts-ji05" width="164" height="78" cocos2d_pX="80" cocos2d_pY="37" x="0" y="98"/>
+    <SubTexture name="skill4508parts-ji04" width="226" height="92" cocos2d_pX="111.25" cocos2d_pY="44.5" x="225" y="0"/>
+    <SubTexture name="skill4508parts-ji03" width="223" height="96" cocos2d_pX="109.95" cocos2d_pY="46.25" x="0" y="0"/>
+    <SubTexture name="skill4508parts-ji02" width="166" height="92" cocos2d_pX="81.2" cocos2d_pY="44.75" x="285" y="94"/>
+    <SubTexture name="skill4508parts-ji01" width="118" height="78" cocos2d_pX="57.2" cocos2d_pY="37.25" x="0" y="178"/>
+    <SubTexture name="skill4508parts-b" width="58" height="243" cocos2d_pX="28" cocos2d_pY="138" x="225" y="94"/>
+  </TextureAtlas>
+</skeleton>

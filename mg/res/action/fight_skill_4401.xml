@@ -1,0 +1,46 @@
+<skeleton name="fight_skill_4401" frameRate="24" version="2.1">
+ <armatures>
+  <armature name="fight_skill_4401">
+   <b name="3" x="4" y="145.8" kX="0" kY="0" cX="1" cY="1.5" pX="0" pY="0" z="0">
+    <d name="skill4401parts-s" pX="95.1" pY="73.05"/>
+   </b>
+   <b name="2" x="0" y="90.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.15" z="1">
+    <d name="skill4401parts-g" pX="115.45" pY="75.55"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="fight_skill_4401">
+   <mov name="1" dr="10" to="0" drTW="10" lp="0" twE="NaN">
+    <b name="3" sc="1" dl="0">
+     <f x="4" y="145.8" cocos2d_x="4" cocos2d_y="145.8" kX="0" kY="0" cX="1" cY="1.5" bd="8" pX="0" pY="0" z="0" dI="0" twE="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="60" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="4" y="27.8" cocos2d_x="4" cocos2d_y="27.8" kX="0" kY="0" cX="1" cY="2.18" bd="8" pX="0" pY="0" z="0" dI="0" twE="0" dr="3"/>
+     <f x="4" y="-34.2" cocos2d_x="4" cocos2d_y="-34.2" kX="0" kY="0" cX="1" cY="1.6" bd="8" pX="0" pY="0" z="0" dI="0" twE="0" dr="3"/>
+     <f x="4" y="-69.2" cocos2d_x="4" cocos2d_y="-69.2" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="0" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="4" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="1" dI="-1"/>
+    </b>
+    <b name="2" sc="1" dl="0">
+     <f x="0" y="90.35" cocos2d_x="0" cocos2d_y="90.5" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="-0.15" z="1" dI="0" twE="1" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="60" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="0" y="-49.65" cocos2d_x="0" cocos2d_y="-49.5" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="-0.15" z="1" dI="0" twE="0" evt="attack1" dr="3"/>
+     <f x="0" y="-61.65" cocos2d_x="0" cocos2d_y="-61.5" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="-0.15" z="1" dI="0" twE="0" dr="3">
+      <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="0" y="-69.65" cocos2d_x="0" cocos2d_y="-69.5" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="-0.15" z="1" dI="0" evt="after" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="4" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="1" dI="-1"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="fight_skill_4401" width="512" height="256">
+  <SubTexture name="skill4401parts-g" width="233" height="147" cocos2d_pX="115.45" cocos2d_pY="75.55" x="183" y="0"/>
+  <SubTexture name="skill4401parts-s" width="181" height="201" cocos2d_pX="95.1" cocos2d_pY="73.05" x="0" y="0"/>
+ </TextureAtlas>
+</skeleton>

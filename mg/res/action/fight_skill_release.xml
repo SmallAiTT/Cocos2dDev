@@ -1,0 +1,138 @@
+<skeleton name="fight_skill_release" frameRate="24" version="2.1">
+ <armatures>
+  <armature name="fight_skill_release">
+   <b name="6" x="0" y="0" kX="-90" kY="-90" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="skillreleaseparts-1" pX="66" pY="66"/>
+    <d name="skillreleaseparts-2" pX="89" pY="88"/>
+    <d name="skillreleaseparts-3" pX="95" pY="95"/>
+    <d name="skillreleaseparts-4" pX="94" pY="94"/>
+    <d name="skillreleaseparts-5" pX="94" pY="94"/>
+    <d name="skillreleaseparts-6" pX="95" pY="95"/>
+    <d name="skillreleaseparts-7" pX="92" pY="93"/>
+    <d name="skillreleaseparts-8" pX="90" pY="89"/>
+   </b>
+   <b name="5" x="0" y="0" kX="180" kY="180" cX="1" cY="1" pX="0" pY="0" z="1">
+    <d name="skillreleaseparts-1" pX="66" pY="66"/>
+    <d name="skillreleaseparts-2" pX="89" pY="88"/>
+    <d name="skillreleaseparts-3" pX="95" pY="95"/>
+    <d name="skillreleaseparts-4" pX="94" pY="94"/>
+    <d name="skillreleaseparts-5" pX="94" pY="94"/>
+    <d name="skillreleaseparts-6" pX="95" pY="95"/>
+    <d name="skillreleaseparts-7" pX="92" pY="93"/>
+    <d name="skillreleaseparts-8" pX="90" pY="89"/>
+   </b>
+   <b name="4" x="0" y="0" kX="90" kY="90" cX="1" cY="1" pX="0" pY="0" z="2">
+    <d name="skillreleaseparts-1" pX="66" pY="66"/>
+    <d name="skillreleaseparts-2" pX="89" pY="88"/>
+    <d name="skillreleaseparts-3" pX="95" pY="95"/>
+    <d name="skillreleaseparts-4" pX="94" pY="94"/>
+    <d name="skillreleaseparts-5" pX="94" pY="94"/>
+    <d name="skillreleaseparts-6" pX="95" pY="95"/>
+    <d name="skillreleaseparts-7" pX="92" pY="93"/>
+    <d name="skillreleaseparts-8" pX="90" pY="89"/>
+   </b>
+   <b name="3" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3">
+    <d name="skillreleaseparts-1" pX="66" pY="66"/>
+    <d name="skillreleaseparts-2" pX="89" pY="88"/>
+    <d name="skillreleaseparts-3" pX="95" pY="95"/>
+    <d name="skillreleaseparts-4" pX="94" pY="94"/>
+    <d name="skillreleaseparts-5" pX="94" pY="94"/>
+    <d name="skillreleaseparts-6" pX="95" pY="95"/>
+    <d name="skillreleaseparts-7" pX="92" pY="93"/>
+    <d name="skillreleaseparts-8" pX="90" pY="89"/>
+   </b>
+   <b name="2" x="0.35" y="-6.15" kX="0" kY="0" cX="1.3" cY="1.3" pX="0" pY="0" z="4">
+    <d name="skillreleaseparts-9" pX="44.5" pY="34.1"/>
+    <d name="skillreleaseparts-10" pX="69.5" pY="63.1"/>
+    <d name="skillreleaseparts-11" pX="88.5" pY="88.1"/>
+    <d name="skillreleaseparts-12" pX="98.5" pY="97.1"/>
+    <d name="skillreleaseparts-13" pX="105.5" pY="104.1"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="fight_skill_release">
+   <mov name="act" dr="12" to="0" drTW="12" lp="0" twE="NaN">
+    <b name="6" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="-90" kY="-90" cX="1" cY="1" bd="8" pX="0" pY="0" z="0" dI="0" dr="1"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="-90" kY="-90" cX="1" cY="1" bd="8" pX="0" pY="0" z="0" dI="1" dr="1"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="-90" kY="-90" cX="1" cY="1" bd="8" pX="0" pY="0" z="0" dI="2" dr="1"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="-90" kY="-90" cX="1" cY="1" bd="8" pX="0" pY="0" z="0" dI="3" dr="1"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="-90" kY="-90" cX="1" cY="1" bd="8" pX="0" pY="0" z="0" dI="4" dr="1"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="-90" kY="-90" cX="1" cY="1" bd="8" pX="0" pY="0" z="0" dI="5" dr="1"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="-90" kY="-90" cX="1" cY="1" bd="8" pX="0" pY="0" z="0" dI="6" dr="1"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="-90" kY="-90" cX="1" cY="1" bd="8" pX="0" pY="0" z="0" dI="7" twE="0" dr="3"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="-90" kY="-90" cX="1" cY="1" bd="8" pX="0" pY="0" z="0" dI="7" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="10" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="1" dI="-1"/>
+    </b>
+    <b name="5" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="180" kY="180" cX="1" cY="1" bd="8" pX="0" pY="0" z="1" dI="0" dr="1"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="180" kY="180" cX="1" cY="1" bd="8" pX="0" pY="0" z="1" dI="1" dr="1"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="180" kY="180" cX="1" cY="1" bd="8" pX="0" pY="0" z="1" dI="2" dr="1"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="180" kY="180" cX="1" cY="1" bd="8" pX="0" pY="0" z="1" dI="3" dr="1"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="180" kY="180" cX="1" cY="1" bd="8" pX="0" pY="0" z="1" dI="4" dr="1"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="180" kY="180" cX="1" cY="1" bd="8" pX="0" pY="0" z="1" dI="5" dr="1"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="180" kY="180" cX="1" cY="1" bd="8" pX="0" pY="0" z="1" dI="6" dr="1"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="180" kY="180" cX="1" cY="1" bd="8" pX="0" pY="0" z="1" dI="7" twE="0" dr="3"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="180" kY="180" cX="1" cY="1" bd="8" pX="0" pY="0" z="1" dI="7" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="10" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="1" dI="-1"/>
+    </b>
+    <b name="4" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="90" kY="90" cX="1" cY="1" bd="8" pX="0" pY="0" z="2" dI="0" dr="1"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="90" kY="90" cX="1" cY="1" bd="8" pX="0" pY="0" z="2" dI="1" dr="1"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="90" kY="90" cX="1" cY="1" bd="8" pX="0" pY="0" z="2" dI="2" dr="1"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="90" kY="90" cX="1" cY="1" bd="8" pX="0" pY="0" z="2" dI="3" dr="1"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="90" kY="90" cX="1" cY="1" bd="8" pX="0" pY="0" z="2" dI="4" dr="1"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="90" kY="90" cX="1" cY="1" bd="8" pX="0" pY="0" z="2" dI="5" dr="1"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="90" kY="90" cX="1" cY="1" bd="8" pX="0" pY="0" z="2" dI="6" dr="1"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="90" kY="90" cX="1" cY="1" bd="8" pX="0" pY="0" z="2" dI="7" twE="0" dr="3"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="90" kY="90" cX="1" cY="1" bd="8" pX="0" pY="0" z="2" dI="7" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="10" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="1" dI="-1"/>
+    </b>
+    <b name="3" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="3" dI="0" dr="1"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="3" dI="1" dr="1"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="3" dI="2" dr="1"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="3" dI="3" dr="1"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="3" dI="4" dr="1"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="3" dI="5" dr="1"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="3" dI="6" dr="1"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="3" dI="7" twE="0" dr="3"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="3" dI="7" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="10" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="1" dI="-1"/>
+    </b>
+    <b name="2" sc="1" dl="0">
+     <f x="0.35" y="-6.15" cocos2d_x="0.35" cocos2d_y="-6.15" kX="0" kY="0" cX="1.3" cY="1.3" bd="8" pX="0" pY="0" z="4" dI="0" dr="2"/>
+     <f x="0.35" y="-6.15" cocos2d_x="0.35" cocos2d_y="-6.15" kX="0" kY="0" cX="1.3" cY="1.3" bd="8" pX="0" pY="0" z="4" dI="1" dr="2"/>
+     <f x="0.35" y="-6.15" cocos2d_x="0.35" cocos2d_y="-6.15" kX="0" kY="0" cX="1.3" cY="1.3" bd="8" pX="0" pY="0" z="4" dI="2" dr="2"/>
+     <f x="0.35" y="-6.15" cocos2d_x="0.35" cocos2d_y="-6.15" kX="0" kY="0" cX="1.3" cY="1.3" bd="8" pX="0" pY="0" z="4" dI="3" dr="2"/>
+     <f x="0.35" y="-6.15" cocos2d_x="0.35" cocos2d_y="-6.15" kX="0" kY="0" cX="1.3" cY="1.3" bd="8" pX="0" pY="0" z="4" dI="4" dr="2"/>
+     <f dr="2" dI="-1"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="fight_skill_release" width="512" height="512">
+  <SubTexture name="skillreleaseparts-13" width="212" height="210" cocos2d_pX="105.5" cocos2d_pY="104.1" x="0" y="0"/>
+  <SubTexture name="skillreleaseparts-12" width="199" height="197" cocos2d_pX="98.5" cocos2d_pY="97.1" x="214" y="0"/>
+  <SubTexture name="skillreleaseparts-11" width="180" height="179" cocos2d_pX="88.5" cocos2d_pY="88.1" x="214" y="199"/>
+  <SubTexture name="skillreleaseparts-10" width="137" height="133" cocos2d_pX="69.5" cocos2d_pY="63.1" x="0" y="212"/>
+  <SubTexture name="skillreleaseparts-9" width="85" height="78" cocos2d_pX="44.5" cocos2d_pY="34.1" x="277" y="380"/>
+  <SubTexture name="skillreleaseparts-8" width="90" height="89" cocos2d_pX="90" cocos2d_pY="89" x="94" y="347"/>
+  <SubTexture name="skillreleaseparts-7" width="92" height="93" cocos2d_pX="92" cocos2d_pY="93" x="0" y="347"/>
+  <SubTexture name="skillreleaseparts-6" width="95" height="95" cocos2d_pX="95" cocos2d_pY="95" x="415" y="97"/>
+  <SubTexture name="skillreleaseparts-5" width="94" height="94" cocos2d_pX="94" cocos2d_pY="94" x="415" y="194"/>
+  <SubTexture name="skillreleaseparts-4" width="94" height="94" cocos2d_pX="94" cocos2d_pY="94" x="396" y="290"/>
+  <SubTexture name="skillreleaseparts-3" width="95" height="95" cocos2d_pX="95" cocos2d_pY="95" x="415" y="0"/>
+  <SubTexture name="skillreleaseparts-2" width="89" height="88" cocos2d_pX="89" cocos2d_pY="88" x="186" y="380"/>
+  <SubTexture name="skillreleaseparts-1" width="66" height="66" cocos2d_pX="66" cocos2d_pY="66" x="139" y="212"/>
+ </TextureAtlas>
+</skeleton>

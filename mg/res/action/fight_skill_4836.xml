@@ -1,0 +1,71 @@
+<skeleton name="fight_skill_4836" frameRate="24" version="2.1">
+ <armatures>
+  <armature name="fight_skill_4836">
+   <b name="2" x="-3.1" y="-12.7" kX="0" kY="0" cX="0.59" cY="0.59" pX="0" pY="0" z="0">
+    <d name="skill4836parts-x4" pX="66.5" pY="49.15"/>
+    <d name="skill4836parts-x5" pX="65" pY="62.35"/>
+    <d name="skill4836parts-x6" pX="73" pY="62.3"/>
+    <d name="skill4836parts-x1" pX="73.5" pY="66.55"/>
+    <d name="skill4836parts-x2" pX="72.5" pY="60.1"/>
+    <d name="skill4836parts-x3" pX="70" pY="56.15"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="fight_skill_4836">
+   <mov name="1" dr="20" to="0" drTW="20" lp="0" twE="NaN">
+    <b name="2" sc="1" dl="0">
+     <f x="-3.1" y="-12.7" cocos2d_x="-3.1" cocos2d_y="-12.7" kX="0" kY="0" cX="0.59" cY="0.59" bd="8" pX="0" pY="0" z="0" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="-3.15" y="-17" cocos2d_x="-3.15" cocos2d_y="-17" kX="0" kY="0" cX="0.67" cY="0.67" bd="8" pX="0" pY="0" z="0" dI="1" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="66" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="-3.2" y="-21.45" cocos2d_x="-3.2" cocos2d_y="-21.45" kX="0" kY="0" cX="0.74" cY="0.74" bd="8" pX="0" pY="0" z="0" dI="2" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="82" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="-3.15" y="-23.6" cocos2d_x="-3.15" cocos2d_y="-23.6" kX="0" kY="0" cX="0.78" cY="0.78" bd="8" pX="0" pY="0" z="0" dI="3" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="90" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="-3.15" y="-25.8" cocos2d_x="-3.15" cocos2d_y="-25.8" kX="0" kY="0" cX="0.82" cY="0.82" bd="8" pX="0" pY="0" z="0" dI="4" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="98" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="-3.15" y="-26.4" cocos2d_x="-3.15" cocos2d_y="-26.4" kX="0" kY="0" cX="0.83" cY="0.83" bd="8" pX="0" pY="0" z="0" dI="5" evt="shake" dr="1"/>
+     <f x="-3.15" y="-27.55" cocos2d_x="-3.15" cocos2d_y="-27.55" kX="0" kY="0" cX="0.85" cY="0.85" bd="8" pX="0" pY="0" z="0" dI="0" twE="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="93" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="-3.15" y="-29.9" cocos2d_x="-3.15" cocos2d_y="-29.9" kX="0" kY="0" cX="0.89" cY="0.89" bd="8" pX="0" pY="0" z="0" dI="1" twE="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="80" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="-3.15" y="-32.25" cocos2d_x="-3.15" cocos2d_y="-32.25" kX="0" kY="0" cX="0.93" cY="0.93" bd="8" pX="0" pY="0" z="0" dI="2" twE="0" evt="attack1" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="67" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="-3.15" y="-34.55" cocos2d_x="-3.15" cocos2d_y="-34.55" kX="0" kY="0" cX="0.97" cY="0.97" bd="8" pX="0" pY="0" z="0" dI="3" twE="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="54" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="-3.1" y="-36.95" cocos2d_x="-3.1" cocos2d_y="-36.95" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="0" dI="4" twE="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="40" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="-3.1" y="-39.25" cocos2d_x="-3.1" cocos2d_y="-39.25" kX="0" kY="0" cX="1.04" cY="1.04" bd="8" pX="0" pY="0" z="0" dI="5" twE="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="27" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="-3.1" y="-41.55" cocos2d_x="-3.1" cocos2d_y="-41.55" kX="0" kY="0" cX="1.08" cY="1.08" bd="8" pX="0" pY="0" z="0" dI="0" evt="after" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="14" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="-3.1" y="-42.7" cocos2d_x="-3.1" cocos2d_y="-42.7" kX="0" kY="0" cX="1.1" cY="1.1" bd="8" pX="0" pY="0" z="0" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="7" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="1" dI="-1"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="fight_skill_4836" width="512" height="256">
+  <SubTexture name="skill4836parts-x3" width="140" height="82" cocos2d_pX="70" cocos2d_pY="56.15" x="0" y="121"/>
+  <SubTexture name="skill4836parts-x2" width="141" height="106" cocos2d_pX="72.5" cocos2d_pY="60.1" x="289" y="0"/>
+  <SubTexture name="skill4836parts-x1" width="143" height="119" cocos2d_pX="73.5" cocos2d_pY="66.55" x="0" y="0"/>
+  <SubTexture name="skill4836parts-x6" width="142" height="108" cocos2d_pX="73" cocos2d_pY="62.3" x="145" y="0"/>
+  <SubTexture name="skill4836parts-x5" width="140" height="100" cocos2d_pX="65" cocos2d_pY="62.35" x="289" y="108"/>
+  <SubTexture name="skill4836parts-x4" width="141" height="82" cocos2d_pX="66.5" cocos2d_pY="49.15" x="145" y="110"/>
+ </TextureAtlas>
+</skeleton>

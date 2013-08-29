@@ -1,0 +1,43 @@
+<skeleton name="new" frameRate="24" version="2.1">
+ <armatures>
+  <armature name="new">
+   <b name="4" x="-2.35" y="-1.9" kX="0" kY="0" cX="1.4" cY="1.4" pX="0" pY="0" z="0">
+    <d name="new1-n2" pX="51.2" pY="51.2"/>
+   </b>
+   <b name="3" x="-2.05" y="-0.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+    <d name="new1-n1" pX="75.1" pY="78.4"/>
+   </b>
+   <b name="2" x="-0.2" y="0.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+    <d name="new1-n" pX="44.5" pY="18.5"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="new">
+   <mov name="1" dr="59" to="0" drTW="59" lp="0" twE="NaN">
+    <b name="4" sc="1" dl="0">
+     <f x="-2.35" y="-1.9" cocos2d_x="-2.35" cocos2d_y="-1.9" kX="0" kY="0" cX="1.4" cY="1.4" bd="8" pX="0" pY="0" z="0" dI="0" twE="0" dr="28"/>
+     <f x="-2.35" y="8.1" cocos2d_x="-2.35" cocos2d_y="8.1" kX="0" kY="0" cX="1.4" cY="1.4" bd="8" pX="0" pY="0" z="0" dI="0" twE="0" dr="28"/>
+     <f x="-2.35" y="-1.9" cocos2d_x="-2.35" cocos2d_y="-1.9" kX="0" kY="0" cX="1.4" cY="1.4" bd="8" pX="0" pY="0" z="0" dI="0" dr="3"/>
+    </b>
+    <b name="3" sc="1" dl="0">
+     <f x="-2.05" y="-0.1" cocos2d_x="-2.05" cocos2d_y="-0.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="28"/>
+     <f x="-2.05" y="9.9" cocos2d_x="-2.05" cocos2d_y="9.9" kX="170.96" kY="170.96" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="28"/>
+     <f x="-2.05" y="-0.1" cocos2d_x="-2.05" cocos2d_y="-0.1" kX="-18.28" kY="-18.28" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="1"/>
+     <f x="-2.05" y="-0.1" cocos2d_x="-2.05" cocos2d_y="-0.1" kX="-12.06" kY="-12.06" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="1"/>
+     <f x="-2.05" y="-0.1" cocos2d_x="-2.05" cocos2d_y="-0.1" kX="-6.03" kY="-6.03" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="1"/>
+    </b>
+    <b name="2" sc="1" dl="0">
+     <f x="-0.2" y="0.15" cocos2d_x="-0.2" cocos2d_y="0.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="28"/>
+     <f x="-0.2" y="10.15" cocos2d_x="-0.2" cocos2d_y="10.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="28"/>
+     <f x="-0.2" y="0.15" cocos2d_x="-0.2" cocos2d_y="0.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="3"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="new" width="256" height="512">
+  <SubTexture name="new1-n" width="89" height="37" cocos2d_pX="44.5" cocos2d_pY="18.5" x="152" y="0"/>
+  <SubTexture name="new1-n1" width="150" height="152" cocos2d_pX="75.1" cocos2d_pY="78.4" x="0" y="0"/>
+  <SubTexture name="new1-n2" width="106" height="106" cocos2d_pX="51.2" cocos2d_pY="51.2" x="0" y="154"/>
+ </TextureAtlas>
+</skeleton>

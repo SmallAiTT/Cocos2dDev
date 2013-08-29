@@ -1,0 +1,100 @@
+<skeleton name="weapon_is_max" frameRate="24" version="2.1">
+ <armatures>
+  <armature name="weapon_is_max">
+   <b name="8" x="379.95" y="-314.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="weaponismax-b" pX="103.05" pY="108.55"/>
+   </b>
+   <b name="6" x="380.3" y="-317.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+    <d name="weaponismax-q" pX="90.5" pY="27.15"/>
+   </b>
+   <b name="5" x="380.3" y="-317.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+    <d name="weaponismax-q1" pX="90.5" pY="27.15"/>
+   </b>
+   <b name="4" x="301.5" y="-332.9" kX="0" kY="0" cX="0.9" cY="0.9" pX="0" pY="0" z="3">
+    <d name="weaponismax-x" pX="37.75" pY="37.75"/>
+   </b>
+   <b name="3" x="382.5" y="-307.4" kX="0" kY="0" cX="0.47" cY="0.47" pX="0" pY="0" z="4">
+    <d name="weaponismax-x" pX="37.75" pY="37.75"/>
+   </b>
+   <b name="2" x="462.25" y="-326.4" kX="0" kY="0" cX="0.65" cY="0.65" pX="0" pY="0" z="5">
+    <d name="weaponismax-x" pX="37.75" pY="37.75"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="weapon_is_max">
+   <mov name="1" dr="60" to="0" drTW="60" lp="1" twE="NaN">
+    <b name="8" sc="1" dl="0">
+     <f x="379.95" y="-314.9" cocos2d_x="379.95" cocos2d_y="-314.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="29">
+      <colorTransform a="0" r="0" g="0" b="0" aM="60" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="379.95" y="-318.9" cocos2d_x="379.95" cocos2d_y="-318.9" kX="174.19" kY="174.19" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="29"/>
+     <f x="379.95" y="-314.9" cocos2d_x="379.95" cocos2d_y="-314.9" kX="-12.01" kY="-12.01" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="61" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="379.95" y="-314.9" cocos2d_x="379.95" cocos2d_y="-314.9" kX="-5.81" kY="-5.81" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="60" rM="100" gM="100" bM="100"/>
+     </f>
+    </b>
+    <b name="6" sc="1" dl="0">
+     <f x="380.3" y="-317.1" cocos2d_x="380.3" cocos2d_y="-317.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="29"/>
+     <f x="380.3" y="-312.1" cocos2d_x="380.3" cocos2d_y="-312.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="30"/>
+     <f x="380.3" y="-316.85" cocos2d_x="380.3" cocos2d_y="-316.85" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+    </b>
+    <b name="5" sc="1" dl="0">
+     <f x="380.3" y="-317.1" cocos2d_x="380.3" cocos2d_y="-317.1" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="2" dI="0" twE="0" dr="29">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="380.3" y="-312.1" cocos2d_x="380.3" cocos2d_y="-312.1" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="2" dI="0" twE="0" dr="30">
+      <colorTransform a="0" r="0" g="0" b="0" aM="40" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="380.3" y="-316.85" cocos2d_x="380.3" cocos2d_y="-316.85" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="2" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="1" rM="100" gM="100" bM="100"/>
+     </f>
+    </b>
+    <b name="4" sc="1" dl="0">
+     <f dr="4" dI="-1"/>
+     <f x="301.5" y="-332.9" cocos2d_x="301.5" cocos2d_y="-332.9" kX="0" kY="0" cX="0.9" cY="0.9" bd="8" pX="0" pY="0" z="3" dI="0" twE="0" dr="3">
+      <colorTransform a="0" r="0" g="0" b="0" aM="20" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="301.5" y="-332.9" cocos2d_x="301.5" cocos2d_y="-332.9" kX="45.88" kY="45.88" cX="1.2" cY="1.2" bd="8" pX="0" pY="0" z="3" dI="0" twE="0" dr="3"/>
+     <f x="301.5" y="-332.9" cocos2d_x="301.5" cocos2d_y="-332.9" kX="107.8" kY="107.8" cX="1.3" cY="1.3" bd="8" pX="0" pY="0" z="3" dI="0" twE="0" dr="6"/>
+     <f x="301.5" y="-332.9" cocos2d_x="301.5" cocos2d_y="-332.9" kX="-164.2" kY="-164.2" cX="0.8" cY="0.8" bd="8" pX="0" pY="0" z="3" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="10" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="43" dI="-1"/>
+    </b>
+    <b name="3" sc="1" dl="0">
+     <f dr="9" dI="-1"/>
+     <f x="382.5" y="-307.4" cocos2d_x="382.5" cocos2d_y="-307.4" kX="0" kY="0" cX="0.47" cY="0.47" bd="8" pX="0" pY="0" z="4" dI="0" twE="0" dr="3">
+      <colorTransform a="0" r="0" g="0" b="0" aM="20" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="382.5" y="-307.4" cocos2d_x="382.5" cocos2d_y="-307.4" kX="45.88" kY="45.88" cX="0.62" cY="0.62" bd="8" pX="0" pY="0" z="4" dI="0" twE="0" dr="3"/>
+     <f x="382.5" y="-307.4" cocos2d_x="382.5" cocos2d_y="-307.4" kX="107.8" kY="107.8" cX="0.67" cY="0.67" bd="8" pX="0" pY="0" z="3" dI="0" twE="0" dr="6"/>
+     <f x="382.5" y="-307.4" cocos2d_x="382.5" cocos2d_y="-307.4" kX="-164.2" kY="-164.2" cX="0.41" cY="0.41" bd="8" pX="0" pY="0" z="3" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="10" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="38" dI="-1"/>
+    </b>
+    <b name="2" sc="1" dl="0">
+     <f dr="14" dI="-1"/>
+     <f x="462.25" y="-326.4" cocos2d_x="462.25" cocos2d_y="-326.4" kX="0" kY="0" cX="0.65" cY="0.65" bd="8" pX="0" pY="0" z="5" dI="0" twE="0" dr="3">
+      <colorTransform a="0" r="0" g="0" b="0" aM="20" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="462.25" y="-326.4" cocos2d_x="462.25" cocos2d_y="-326.4" kX="45.88" kY="45.88" cX="0.87" cY="0.87" bd="8" pX="0" pY="0" z="4" dI="0" twE="0" dr="3"/>
+     <f x="462.25" y="-326.4" cocos2d_x="462.25" cocos2d_y="-326.4" kX="107.8" kY="107.8" cX="0.94" cY="0.94" bd="8" pX="0" pY="0" z="3" dI="0" twE="0" dr="6"/>
+     <f x="462.25" y="-326.4" cocos2d_x="462.25" cocos2d_y="-326.4" kX="-164.2" kY="-164.2" cX="0.58" cY="0.58" bd="8" pX="0" pY="0" z="3" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="10" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="33" dI="-1"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="weapon_is_max" width="512" height="256">
+  <SubTexture name="weaponismax-x" width="78" height="78" cocos2d_pX="37.75" cocos2d_pY="37.75" x="393" y="0"/>
+  <SubTexture name="weaponismax-q1" width="182" height="55" cocos2d_pX="90.5" cocos2d_pY="27.15" x="209" y="57"/>
+  <SubTexture name="weaponismax-q" width="182" height="55" cocos2d_pX="90.5" cocos2d_pY="27.15" x="209" y="0"/>
+  <SubTexture name="weaponismax-b" width="207" height="216" cocos2d_pX="103.05" cocos2d_pY="108.55" x="0" y="0"/>
+ </TextureAtlas>
+</skeleton>

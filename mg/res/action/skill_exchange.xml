@@ -1,0 +1,74 @@
+<skeleton name="skill_exchange" frameRate="24" version="2.1">
+  <armatures>
+    <armature name="skill_exchange">
+      <b name="4" x="239.95" y="-399" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="skillexchange-g" pX="161" pY="169"/>
+      </b>
+      <b name="skill" x="239.45" y="-398" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="skillexchange-skill" pX="0" pY="0"/>
+      </b>
+      <b name="additiveskill" x="239.45" y="-398" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+        <d name="skillexchange-additiveskill" pX="0" pY="0"/>
+      </b>
+      <b name="1" x="238.45" y="-301" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3">
+        <d name="skillexchange-w" pX="76" pY="24"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="skill_exchange">
+      <mov name="1" dr="27" to="0" drTW="27" lp="0" twE="NaN">
+        <b name="4" sc="1" dl="0">
+          <f x="239.95" y="-399" cocos2d_x="239.95" cocos2d_y="-399" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="30" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="239.95" y="-410.55" cocos2d_x="239.95" cocos2d_y="-410.55" kX="17.28" kY="17.28" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="16"/>
+          <f x="239.95" y="-465.9" cocos2d_x="239.95" cocos2d_y="-465.9" kX="100.29" kY="100.29" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="7"/>
+          <f x="239.95" y="-489" cocos2d_x="239.95" cocos2d_y="-489" kX="135" kY="135" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="skill" sc="1" dl="0">
+          <f x="239.45" y="-398" cocos2d_x="239.45" cocos2d_y="-398" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" evt="skill" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="20" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="239.45" y="-409.55" cocos2d_x="239.45" cocos2d_y="-409.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="16"/>
+          <f x="239.45" y="-464.95" cocos2d_x="239.45" cocos2d_y="-464.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="7"/>
+          <f x="239.45" y="-488" cocos2d_x="239.45" cocos2d_y="-488" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="additiveskill" sc="1" dl="0">
+          <f x="239.45" y="-398" cocos2d_x="239.45" cocos2d_y="-398" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="2" dI="0" twE="0" evt="additiveskill" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="20" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="239.45" y="-409.55" cocos2d_x="239.45" cocos2d_y="-409.55" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="2" dI="0" twE="0" dr="16">
+            <colorTransform a="0" r="0" g="0" b="0" aM="60" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="239.45" y="-464.95" cocos2d_x="239.45" cocos2d_y="-464.95" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="2" dI="0" twE="0" dr="7">
+            <colorTransform a="0" r="0" g="0" b="0" aM="30" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="239.45" y="-488" cocos2d_x="239.45" cocos2d_y="-488" kX="0" kY="0" cX="1" cY="1" bd="8" pX="0" pY="0" z="2" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="1" sc="1" dl="0">
+          <f x="238.45" y="-301" cocos2d_x="238.45" cocos2d_y="-301" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="0" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="20" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="238.45" y="-312.55" cocos2d_x="238.45" cocos2d_y="-312.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="0" dr="16"/>
+          <f x="238.45" y="-367.95" cocos2d_x="238.45" cocos2d_y="-367.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="0" dr="7"/>
+          <f x="238.45" y="-391" cocos2d_x="238.45" cocos2d_y="-391" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="skill_exchange" width="512" height="512">
+    <SubTexture name="skillexchange-w" width="152" height="48" cocos2d_pX="76" cocos2d_pY="24" x="324" y="0"/>
+    <SubTexture name="skillexchange-additiveskill" width="1" height="1" cocos2d_pX="0" cocos2d_pY="0" x="481" y="0"/>
+    <SubTexture name="skillexchange-skill" width="1" height="1" cocos2d_pX="0" cocos2d_pY="0" x="478" y="0"/>
+    <SubTexture name="skillexchange-g" width="322" height="336" cocos2d_pX="161" cocos2d_pY="169" x="0" y="0"/>
+  </TextureAtlas>
+</skeleton>

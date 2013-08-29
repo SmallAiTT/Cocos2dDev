@@ -1,0 +1,31 @@
+<skeleton name="friend_add_shake_phone" frameRate="24" version="2.1">
+  <armatures>
+    <armature name="friend_add_shake_phone">
+      <b name="2" x="74" y="-384.95" kX="0" kY="0" cX="1" cY="1" pX="-51" pY="72" z="0">
+        <d name="friendaddshakephone-s" pX="81.5" pY="93"/>
+        <d name="friendaddshakephone-s1" pX="92.35" pY="104.5"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="friend_add_shake_phone">
+      <mov name="1" dr="25" to="0" drTW="25" lp="1" twE="NaN">
+        <b name="2" sc="1" dl="0">
+          <f x="74" y="-384.95" cocos2d_x="125" cocos2d_y="-456.95" kX="0" kY="0" cX="1" cY="1" pX="-51" pY="72" z="0" dI="0" twE="0" dr="1"/>
+          <f x="83" y="-378.7" cocos2d_x="140.4" cocos2d_y="-445.75" kX="5.26" kY="5.26" cX="1" cY="1" pX="-51.05" pY="72.1" z="0" dI="1" twE="0" dr="3"/>
+          <f x="110" y="-359.95" cocos2d_x="183.55" cocos2d_y="-408.7" kX="21.19" kY="21.19" cX="1" cY="1" pX="-51" pY="72.05" z="0" dI="0" twE="0" dr="1"/>
+          <f x="102.85" y="-364.95" cocos2d_x="172.4" cocos2d_y="-419.15" kX="16.82" kY="16.82" cX="1" cY="1" pX="-50.95" pY="72.05" z="0" dI="1" twE="0" dr="4"/>
+          <f x="74" y="-384.95" cocos2d_x="125" cocos2d_y="-456.95" kX="0" kY="0" cX="1" cY="1" pX="-51" pY="72" z="0" dI="0" twE="0" dr="1"/>
+          <f x="83" y="-378.7" cocos2d_x="140.4" cocos2d_y="-445.75" kX="5.26" kY="5.26" cX="1" cY="1" pX="-51.05" pY="72.1" z="0" dI="1" twE="0" dr="3"/>
+          <f x="110" y="-359.95" cocos2d_x="183.55" cocos2d_y="-408.7" kX="21.19" kY="21.19" cX="1" cY="1" pX="-51" pY="72.05" z="0" dI="0" twE="0" dr="1"/>
+          <f x="102.85" y="-364.95" cocos2d_x="172.4" cocos2d_y="-419.15" kX="16.82" kY="16.82" cX="1" cY="1" pX="-50.95" pY="72.05" z="0" dI="1" twE="0" dr="4"/>
+          <f x="74" y="-384.95" cocos2d_x="125" cocos2d_y="-456.95" kX="0" kY="0" cX="1" cY="1" pX="-51" pY="72" z="0" dI="0" dr="7"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="friend_add_shake_phone" width="512" height="256">
+    <SubTexture name="friendaddshakephone-s1" width="186" height="211" cocos2d_pX="92.35" cocos2d_pY="104.5" x="0" y="0"/>
+    <SubTexture name="friendaddshakephone-s" width="163" height="186" cocos2d_pX="81.5" cocos2d_pY="93" x="188" y="0"/>
+  </TextureAtlas>
+</skeleton>

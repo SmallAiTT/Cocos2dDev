@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist
+PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+       "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+ <dict>
+  <key>9</key>
+  <array>
+   <string>哎哟喂，在我们家主公地盘上还敢来抢劫咱，兄弟们抄家伙！！</string>
+  </array>
+  <key>10</key>
+  <array>
+   <string>吃了体力包，从此腰不酸了，腿不疼了，一口气能翻五座奇遇谷，真给力哟~</string>
+  </array>
+  <key>11</key>
+  <array>
+   <string>艾玛，命真好，竟然捡到钱啦！你说我是上交主公呢，还是上交主公呢，还是真的上交主公呢？</string>
+  </array>
+  <key>12</key>
+  <array>
+   <string>艾玛，那金光闪闪快亮瞎我这氪金双眼的到底是什么，是宝箱啊！大宝箱啊！金光闪闪的大宝箱有木有！</string>
+   <string>哟哟，嘿喂够~出门捡个金宝箱哟，金宝箱里出熊猫哟~哟哟，出熊猫哟~</string>
+  </array>
+  <key>13</key>
+  <array>
+   <string>哎哟我去，今天这是多好的命啊，出门就捡东西，还是这么大一箱子！</string>
+  </array>
+  <key>default</key>
+  <array>
+   <string>主公叫我来巡山那~我巡完了南山就去巡北山那~！！（快快巡完回去吃我的烤羊腿）</string>
+   <string>据张麻子的二姐夫的表姨的亲侄子的某麻子说，金宝箱里竟然塞了一只熊猫，也不知是真是假...</string>
+  </array>
+  <key>14</key>
+  <array>
+   <string>恩！前面是分叉口哎，这可咋办，走哪条路好捏，还是先看看有啥好东东吧！</string>
+  </array>
+ </dict>
+</plist>
