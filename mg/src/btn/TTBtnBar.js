@@ -12,6 +12,7 @@ tt.BtnBar = cc.Node.extend({
     _bgSp : null,
 
     _btnInfos : [],
+    _cust : null,
 
     setBg : function(bg){
         this._bg = bg;
@@ -19,8 +20,15 @@ tt.BtnBar = cc.Node.extend({
     setBtnInfos : function(btnInfos){
         this._btnInfos = btnInfos;
     },
+    setCust : function(cust){
+        this._cust = cust;
+    },
     init : function(){
         this._super();
+        if(this._cust) {
+            this._cust(this, this._bg, this._btnInfos);
+            return true;
+        }
         this._bgSp = cc.Sprite.create(this._bg);
         this.addChild(this._bgSp);
         this.setContentSize(this._bgSp.getContentSize());
@@ -34,9 +42,6 @@ tt.BtnBar = cc.Node.extend({
 
     _initBtns : function(){
         this._btnInfos.forEach(function(value, index){
-
-            if(value.cust) return value.cust(this, value, index);
-
             var btnBg = cc.Scale9Sprite.create(value.btns[0]);
             var btnHlBg = cc.Scale9Sprite.create(value.btns.length > 1 ? value.btns[1] : value.btns[0]);
 
@@ -58,5 +63,6 @@ tt.BtnBar.create = function(args){
     var bar = new tt.BtnBar();
     bar.setBg(args.bg);
     bar.setBtnInfos(args.btnInfos);
+    bar.setCust(args.cust);
     return bar.init() ? bar : null;
 };

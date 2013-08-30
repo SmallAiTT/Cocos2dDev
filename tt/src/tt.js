@@ -109,26 +109,28 @@ tt._mergeJsArr = function(target, arr, store){
  * Desc: get the res for loading.
  * @param loadResName
  * @param store
+ * @param isTest
  * @returns {Array}
  */
-tt.getLoadRes = function(loadResName, store){
+tt.getLoadRes = function(loadResName, store, isTest){
     if(loadResName == null) return [];
     if(typeof loadResName != "string") throw "Argument should be String!"
     var loadRes = tt.cfg[loadResName];
     var resArr = [];
     store = store || {};
-    if(loadRes != null){
+    if(loadRes){
         if(loadRes.ref != null){
             loadRes.ref.forEach(function(value, index){
                 if(typeof value == "string"){
                     if(store[value]) return;
-                    tt._mergeResArr(resArr, tt.getLoadRes(value, store), {});
+                    tt._mergeResArr(resArr, tt.getLoadRes(value, store, isTest), {});
                 }else if(value instanceof Array){
                     tt._mergeResArr(resArr, value, store);
                 }
             });
         }
-        if(loadRes.res != null) tt._mergeResArr(resArr, loadRes.res, store);
+        if(loadRes.res) tt._mergeResArr(resArr, loadRes.res, store);
+        if(isTest && loadRes.testRes) tt._mergeResArr(resArr, loadRes.testRes, store);
     }
     if(loadResName.length > 5
         && loadResName.substring(loadResName.length - 5).toLowerCase() == ".ccbi"
@@ -261,7 +263,7 @@ tt.testSprite = function(cfgName){
     };
     var cfg = ResCfg[cfgName];
     cfg.args = cfg.args || {};
-    cc.LoaderScene.preload(tt.getLoadRes(cfgName), function(){
+    cc.LoaderScene.preload(tt.getLoadRes(cfgName, null, true), function(){
         var scene = cc.Scene.create();
         var clazz = tt.getClazz(cfg.sprite);
         scene.addChild(tt.Layer4Test.create(clazz, cfg.args || {}));
@@ -271,7 +273,7 @@ tt.testSprite = function(cfgName){
 tt.testLayer = function(cfgName){
     var cfg = ResCfg[cfgName];
     cfg.args = cfg.args || {};
-    cc.LoaderScene.preload(tt.getLoadRes(cfgName), function(){
+    cc.LoaderScene.preload(tt.getLoadRes(cfgName, null, true), function(){
         var scene = cc.Scene.create();
         var clazz = tt.getClazz(cfg.layer);
         scene.addChild(clazz.create(cfg.args || {}));
@@ -281,7 +283,7 @@ tt.testLayer = function(cfgName){
 tt.testScene = function(cfgName){
     var cfg = ResCfg[cfgName];
     cfg.args = cfg.args || {};
-    cc.LoaderScene.preload(tt.getLoadRes(cfgName), function(){
+    cc.LoaderScene.preload(tt.getLoadRes(cfgName, null, true), function(){
         var clazz = tt.getClazz(cfg.scene);
         var scene = clazz.create(cfg.args || {});
         cc.Director.getInstance().replaceScene(scene);
@@ -290,7 +292,7 @@ tt.testScene = function(cfgName){
 tt.testCCBI = function(cfgName){
     var cfg = ResCfg[cfgName];
     cfg.args = cfg.args || {};
-    cc.LoaderScene.preload(tt.getLoadRes(cfgName), function(){
+    cc.LoaderScene.preload(tt.getLoadRes(cfgName, null, true), function(){
         var node = cc.BuilderReader.load(cfgName);
         var scene = cc.Scene.create();
         if(node != null) scene.addChild(node);

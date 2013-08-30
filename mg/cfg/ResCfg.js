@@ -11,7 +11,7 @@ var tt = tt || {};
 tt.cfg = ResCfg;
 
 ResCfg[Res.TTBtnBar_js] = {
-    res : [
+    testRes : [
         Res.background_014_png,
         Res.button_062_png,
         Res.button_064_png,
