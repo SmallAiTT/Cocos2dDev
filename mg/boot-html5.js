@@ -15,11 +15,11 @@
         frameRate : 60,
         tag : "gameCanvas",
         renderMode:1,       //Choose of RenderMode: 0(default), 1(Canvas only), 2(WebGL only)
-        engineDir : "../../HT/cocos2d/",
+        engineDir : "../../123G/HTML5/cocos2d/",
 //        engineDir : "../../../123G/HTML5Test/cocos2d/",
 
         runMode : "test",
-        testCfg : Res.TTBtnBar_js
+        testCfg : "a"
     };
 
     window.addEventListener("DOMContentLoaded", function(){

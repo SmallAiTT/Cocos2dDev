@@ -324,4 +324,6 @@ tt.initBase = function(){
     tt.ANCHOR_POINT_BL = cc.p(0, 0);
     tt.ANCHOR_POINT_B = cc.p(0.5, 0);
     tt.ANCHOR_POINT_BR = cc.p(1, 0);
+
+    tt.WIN_SIZE = cc.Director.getInstance().getWinSize();
 };

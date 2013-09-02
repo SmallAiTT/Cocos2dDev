@@ -53,7 +53,6 @@ tt.BtnBar = cc.Node.extend({
             button.setAnchorPoint(tt.ANCHOR_POINT_C);
             button.setPreferredSize(cc.size(62, 69));
             button.setPosition(value.pos);
-            window.test = button;
             this.addChild(button);
         }.bind(this));
     }

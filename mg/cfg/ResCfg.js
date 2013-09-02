@@ -33,3 +33,12 @@ ResCfg[Res.TTBtnBar_js] = {
         ]
     }
 };
+
+ResCfg["a"] = {
+    testRes : [
+        Res.btnbg_004_1_png, Res.btnbg_004_2_png, Res.btnbg_004_3_png, Res.background_1000_png,
+        Res.background_072_jpg
+    ],
+    testFiles : [Res.DMLoginLayer_js],
+    layer : "dm.LoginLayer"
+};

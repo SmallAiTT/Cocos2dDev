@@ -2302,5 +2302,6 @@ Res = {
     particle_levelup_plist : 'res/particle/particle_levelup.plist',
     zuoqi_shengding_plist : 'res/particle/zuoqi_shengding.plist',
     zuoqi_shengxingxing_plist : 'res/particle/zuoqi_shengxingxing.plist',
-    TTBtnBar_js : 'src/btn/TTBtnBar.js'
+    TTBtnBar_js : 'src/btn/TTBtnBar.js',
+    DMLoginLayer_js : 'test/layer/DMLoginLayer.js'
 };
