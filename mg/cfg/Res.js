@@ -2303,5 +2303,8 @@ Res = {
     zuoqi_shengding_plist : 'res/particle/zuoqi_shengding.plist',
     zuoqi_shengxingxing_plist : 'res/particle/zuoqi_shengxingxing.plist',
     TTBtnBar_js : 'src/btn/TTBtnBar.js',
-    DMLoginLayer_js : 'test/layer/DMLoginLayer.js'
+    TTHeroListItem_js : 'src/hero/TTHeroListItem.js',
+    TTHeroListLayer_js : 'src/hero/TTHeroListLayer.js',
+    DMLoginLayer_js : 'test/layer/DMLoginLayer.js',
+    DMTableView_js : 'test/layer/DMTableView.js'
 };

@@ -19,7 +19,7 @@
 //        engineDir : "../../../123G/HTML5Test/cocos2d/",
 
         runMode : "test",
-        testCfg : "a"
+        testCfg : Res.TTHeroListLayer_js
     };
 
     window.addEventListener("DOMContentLoaded", function(){

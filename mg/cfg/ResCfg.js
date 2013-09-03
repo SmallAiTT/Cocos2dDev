@@ -34,11 +34,26 @@ ResCfg[Res.TTBtnBar_js] = {
     }
 };
 
-ResCfg["a"] = {
+ResCfg["DMLoginLayer"] = {
     testRes : [
         Res.btnbg_004_1_png, Res.btnbg_004_2_png, Res.btnbg_004_3_png, Res.background_1000_png,
         Res.background_072_jpg
     ],
     testFiles : [Res.DMLoginLayer_js],
     layer : "dm.LoginLayer"
+};
+
+ResCfg["DMTableView"] = {
+    testRes : [],
+    testFiles : [Res.DMTableView_js],
+    layer : "dm.TableView"
+};
+ResCfg[Res.TTHeroListItem_js] = {
+    res : [Res.background_022_png],
+    sprite : "tt.HeroListItem"
+};
+
+ResCfg[Res.TTHeroListLayer_js] = {
+    ref : [Res.TTHeroListItem_js],
+    layer : "tt.HeroListLayer"
 };

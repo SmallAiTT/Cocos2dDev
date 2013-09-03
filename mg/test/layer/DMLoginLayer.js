@@ -7,6 +7,8 @@
  */
 
 dm.LoginLayer = cc.Layer.extend({
+    _flag : true,
+    _t : null,
 
     init : function(){
         this._super();
@@ -34,7 +36,25 @@ dm.LoginLayer = cc.Layer.extend({
             null, null, cc.p(100, 550), this
         );
 
+        var t1 = cc.Sprite.create(Res.background_1000_png);
+        this.addChild(t1);
+        t1.setPosition(200, 200);
+        var t2 = cc.Sprite.create(Res.btnbg_004_1_png);
+        t1.addChild(t2);
+        this._t = t1;
+
+        this.setMouseEnabled(true);
         return true;
+    },
+    onMouseUp : function(event){
+        if(this._flag) {
+            this._t.removeFromParent();
+            this._flag = false;
+        }else{
+            this.addChild(this._t);
+            this._t.setPosition(200, 200);
+            this._flag = true;
+        }
     },
     createCtrlBtn : function(bg1, bg2, bg3, titleInfo, anchorPoint, size, pos, parent){
         var btnBg1 = cc.Scale9Sprite.create(bg1);
