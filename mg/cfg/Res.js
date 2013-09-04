@@ -2305,6 +2305,9 @@ Res = {
     TTBtnBar_js : 'src/btn/TTBtnBar.js',
     TTHeroListItem_js : 'src/hero/TTHeroListItem.js',
     TTHeroListLayer_js : 'src/hero/TTHeroListLayer.js',
+    TTCacheLayer_js : 'src/layer/TTCacheLayer.js',
+    TTDragLayer_js : 'src/layer/TTDragLayer.js',
+    TTPageLayer_js : 'src/layer/TTPageLayer.js',
     DMLoginLayer_js : 'test/layer/DMLoginLayer.js',
-    DMTableView_js : 'test/layer/DMTableView.js'
+    TTDragLayerTest_js : 'test/layer/TTDragLayerTest.js'
 };

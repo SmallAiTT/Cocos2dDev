@@ -1,0 +1,88 @@
+<!DOCTYPE HTML>
+<html>
+<body>
+<canvas id="canvas" width="400"height="600">
+    <p>Your browserdoes not support the canvas element!</p>
+</canvas>
+<button onclick="cleanNow()">Cleanup</button>
+
+<script type="text/javascript">
+    function drawShape(){
+        // get the canvas element using the DOM
+        var canvas = document.getElementById('canvas');
+
+        // Make sure we don't execute when canvas isn't supported
+        if (canvas.getContext){
+
+            // use getContext to use the canvas for drawing
+            var ctx = canvas.getContext('2d');
+
+            //  draw a rectangle with default settings
+            ctx.beginPath();
+            ctx.rect(50, 50, 10, 10);
+            ctx.clip();
+            ctx.closePath();
+            ctx.fillStyle = 'black' ;
+            ctx.fillRect(0,0,150,150);
+//            //  Save the default state
+//            // (1)
+//            ctx.save();
+//
+//            // Make changes to the settings
+//            ctx.fillStyle = 'blue'
+//            ctx.fillRect( 15,15,120,120);
+//            // Save the current state
+//            //(2)
+//            ctx.save();
+//
+//            // Make the new changes to the settings
+//            ctx.fillStyle = 'white';
+//            ctx.globalAlpha = 0.5;
+//            ctx.fillRect(30,30,90,90);
+//
+//            // Restore previous state
+//            //restore (2)
+//            ctx.restore();
+//            // Draw a rectangle with restored settings
+//            ctx.fillRect(45,45,60,60);
+//
+//            // Restore original state
+//            //restore (1)
+//            ctx.restore();
+//            // Draw a rectangle with restored settings
+//            ctx.fillRect(55,55,45,45);
+
+        } else {
+            alert('You need Safari or Firefox 1.5+ to see this demo.');
+        }
+    }
+    i = 0;
+    png = null;
+    function cleanNow(){
+//        _canvasBufferContext.scale(0.5, 0.5)
+        context2D.clearRect(0, 0, canvas.width, canvas.height);
+        context2D.drawImage(img,0 + 0.5 * i, 0  + 0.5 * i);
+        context2D.fillStyle = 'black' ;
+        i += 10;
+        context2D.fillRect(i, i,150,150);
+    }
+    window.onload = function() {
+        canvas =document.getElementById("canvas");
+        _canvasBuffer = document.createElement('canvas');
+        _canvasBuffer.width = canvas.width;
+        _canvasBuffer.height = canvas.height;
+        _canvasBufferContext = _canvasBuffer.getContext('2d');
+        context2D =canvas.getContext("2d");
+        var pic = new Image();
+        pic.onload=function(){
+            _canvasBufferContext.drawImage(pic, 0, 0);
+            img = document.createElement('img');
+            png = _canvasBuffer.toDataURL("png");
+            img.src = png;
+            context2D.drawImage(img,0, 0);
+        }
+        pic.src ="mg/res/graph/background/background-001.png";
+    }
+</script>
+</body>
+</html>

@@ -57,3 +57,13 @@ ResCfg[Res.TTHeroListLayer_js] = {
     ref : [Res.TTHeroListItem_js],
     layer : "tt.HeroListLayer"
 };
+
+ResCfg[Res.TTDragLayer_js] = {
+    testFiles : [Res.TTDragLayerTest_js],
+    testRes : [Res.background_001_png],
+    layer : "dm.DragLayerTest"
+};
+ResCfg[Res.TTCacheLayer_js] = {
+    testRes : [Res.map_background_001_jpg, Res.hero_border_1_png],
+    layer : "tt.CacheLayer"
+};
