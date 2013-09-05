@@ -43,11 +43,6 @@ ResCfg["DMLoginLayer"] = {
     layer : "dm.LoginLayer"
 };
 
-ResCfg["DMTableView"] = {
-    testRes : [],
-    testFiles : [Res.DMTableView_js],
-    layer : "dm.TableView"
-};
 ResCfg[Res.TTHeroListItem_js] = {
     res : [Res.background_022_png],
     sprite : "tt.HeroListItem"

@@ -14,7 +14,7 @@ cc.DIRTY_STATE_POLLUTE = 2;//污染
 
 cc.Node = cc.Class.extend({
     _drawMode : null,//绘图模式
-    _isRedraw : true,
+    _isRecache : true,
     _dirtyState : null,
     _bottomImg : null,
     _topImg : null,
@@ -51,7 +51,7 @@ cc.Node = cc.Class.extend({
 
         var bottomArr = [], topArr = [], bottomAppendArr = [], topAppendArr = [], bottomDirtyArr = [], topDirtyArr = [];
 
-        if(this._isRedraw){//TODO 第一次也要redraw，进行初始化
+        if(this._isRecache){//TODO 第一次也要redraw，进行初始化
             //TODO 遍历bottomArr  非dirtySrc   ===>bottomImg || null
             //TODO 画自身
             //TODO 遍历topArr  非dirtySrc   ====>topImg || null
