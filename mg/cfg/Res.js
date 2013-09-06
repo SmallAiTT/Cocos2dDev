@@ -2306,9 +2306,11 @@ Res = {
     TTHeroListItem_js : 'src/hero/TTHeroListItem.js',
     TTHeroListLayer_js : 'src/hero/TTHeroListLayer.js',
     TTCacheLayer_js : 'src/layer/TTCacheLayer.js',
+    TTCacheNode_js : 'src/layer/TTCacheNode.js',
     TTCacheNodeTest_js : 'src/layer/TTCacheNodeTest.js',
     TTDragLayer_js : 'src/layer/TTDragLayer.js',
     TTPageLayer_js : 'src/layer/TTPageLayer.js',
+    DMCacheNodeTest_js : 'test/layer/DMCacheNodeTest.js',
     DMLoginLayer_js : 'test/layer/DMLoginLayer.js',
     TTDragLayerTest_js : 'test/layer/TTDragLayerTest.js'
 };

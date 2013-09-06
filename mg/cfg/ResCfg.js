@@ -67,3 +67,9 @@ ResCfg[Res.TTCacheNodeTest_js] = {
     testRes : [Res.map_background_001_jpg, Res.hero_border_1_png],
     layer : "tt.CacheLayer"
 };
+
+ResCfg[Res.TTCacheNode_js] = {
+    testFiles : [Res.DMCacheNodeTest_js],
+    testRes : [Res.map_background_jpg, Res.hero_border_1_png],
+    layer : "dm.CacheNodeTestLayer1"
+};
