@@ -20,6 +20,7 @@ cc.hasParentCacheStack = [];
 cc.CacheNode = cc.Sprite.extend({
     _isRefresh : true,
     _isCacheNode : false,
+    _needToRefreshImg : false,
     _dirtyState : null,
     _dirtyType : null,
     _cacheCanvas : null,
@@ -29,7 +30,7 @@ cc.CacheNode = cc.Sprite.extend({
     setDirtySrc : function(){
         if(this._dirtyType == cc.DIRTY_TYPE_SRC) return;
         this._dirtyType = cc.DIRTY_TYPE_SRC;
-        this._isRefresh = true;
+        this.isRefresh = true;
         var parent = this.getParent();
         if(parent && parent.refresh) parent.refresh(cc.DIRTY_TYPE_POLLUTE);
     },
@@ -45,12 +46,12 @@ cc.CacheNode = cc.Sprite.extend({
         }
         if(flag) this._dirtyType = cc.DIRTY_TYPE_POLLUTE;
         else this._dirtyType = cc.DIRTY_TYPE_NO;
-        this._isRefresh = true;
+        this.isRefresh = true;
         var parent = this.getParent();
         if(parent && parent.refresh) parent.refresh(cc.DIRTY_TYPE_NO);
     },
     refresh : function(type){
-        this._isRefresh = true;
+        this.isRefresh = true;
         if(this._dirtyType == cc.DIRTY_TYPE_SRC) return;//已经通知过一次了
         if(type == cc.DIRTY_TYPE_POLLUTE){
             this._dirtyType = cc.DIRTY_TYPE_POLLUTE;
@@ -70,7 +71,7 @@ cc.CacheNode = cc.Sprite.extend({
         if(parent && parent.refresh) parent.refresh(type);
     },
     setIsCacheNode : function(b){
-        this._isCacheNode = b;
+        this.isCacheNode = b;
         if(!this._cacheContext){
             this._cacheCanvas = document.createElement('canvas');
             this._cacheContext = this._cacheCanvas.getContext('2d');
@@ -113,7 +114,6 @@ cc.CacheNode = cc.Sprite.extend({
         }
     },
     _drawDirty : function(ctx){
-//        cc.log("++++++++++_drawDirty++++++++++++");
         this.sortAllChildren();
         var children = this._children, l = children.length, i = 0;
         for(; i < l; ++i){
@@ -129,38 +129,34 @@ cc.CacheNode = cc.Sprite.extend({
             if(child.isPolluted && child.isPolluted()) child.visit(ctx);
         }
     },
-    _drawCache : function(ctx){
-//        cc.log("++++++++++_drawCache++++++++++++");
-        if(this._isRefresh){
-            console.time("1111");
-            this.sortAllChildren();
-            var buffCtx = this._cacheContext, buffCanvas = this._cacheCanvas, img = this._img;
-            buffCtx.clearRect(0, 0, buffCanvas.width, -buffCanvas.height);
-//            buffCtx.save();
-//            buffCtx.translate(this._anchorPointInPoints.x, -(this._anchorPointInPoints.y ));
-            var children = this._children, l = children.length, i = 0;
+    _initCache : function(ctx, flag){
+        this.sortAllChildren();
+        var buffCtx = ctx, buffCanvas = this._cacheCanvas, img = this._img;
+        if(flag) buffCtx.clearRect(0, 0, buffCanvas.width, -buffCanvas.height);
+        var children = this._children, l = children.length, i = 0;
 
-            for(; i < l; ++i){
-                var child = children[i];
-                if(!child) continue;
-                if(child._zOrder >= 0) break;
-                if(!child.getDirtyType || child.getDirtyType() != cc.DIRTY_TYPE_SRC) child.visit(buffCtx);
-            }
-            if(this._dirtyType != cc.DIRTY_TYPE_SRC) this.draw(buffCtx);//只有自身不是污染源的时候才会画
-            for(; i < l; ++i){
-                var child = children[i];
-                if(!child) continue;
-                if(!child.getDirtyType || child.getDirtyType() != cc.DIRTY_TYPE_SRC) child.visit(buffCtx);
-            }
-            console.time("11112");
-            img.src = this._cacheCanvas.toDataURL("png");
-            console.timeEnd("11112");
-//            buffCtx.restore();
-            this._isRefresh = false;
-
-            console.timeEnd("1111");
+        for(; i < l; ++i){
+            var child = children[i];
+            if(!child) continue;
+            if(child._zOrder >= 0) break;
+            if(!child.getDirtyType || child.getDirtyType() != cc.DIRTY_TYPE_SRC) child.visit(buffCtx);
         }
-        ctx.drawImage(this._img, 0, -1 * this._cacheCanvas.height);
+        if(this._dirtyType != cc.DIRTY_TYPE_SRC) this.draw(buffCtx);//只有自身不是污染源的时候才会画
+        for(; i < l; ++i){
+            var child = children[i];
+            if(!child) continue;
+            if(!child.getDirtyType || child.getDirtyType() != cc.DIRTY_TYPE_SRC) child.visit(buffCtx);
+        }
+    },
+    _drawCache : function(ctx){
+        if(this.isRefresh){
+            this._initCache(ctx);
+            this._initCache(this._cacheContext, true);
+            this.isRefresh = false;
+            this._needToRefreshImg = true;
+        }else{
+            ctx.drawImage(this._img, 0, -1 * this._cacheCanvas.height);
+        }
         cc.g_NumberOfDraws++;
     },
     _visitOld:function (ctx) {
@@ -202,7 +198,7 @@ cc.CacheNode = cc.Sprite.extend({
 
         var isDirty = this._dirtyType == cc.DIRTY_TYPE_SRC || this._dirtyType == cc.DIRTY_TYPE_POLLUTE,
             hasCacheParent = cc.hasParentCacheStack.length > 0,
-            isCacheNode = this._isCacheNode, children = this._children, l = children.length;
+            isCacheNode = this.isCacheNode, children = this._children, l = children.length;
         if(isCacheNode) cc.hasParentCacheStack.push(true);
 
         if(!isDirty && !isCacheNode && !hasCacheParent){//TODO ctx只会是实时ctx
@@ -246,6 +242,10 @@ cc.CacheNode = cc.Sprite.extend({
         this._orderOfArrival = 0;
         context.restore();
         if(isCacheNode) cc.hasParentCacheStack.pop();
+        if(isCacheNode && this._needToRefreshImg) {
+            this._img.src = this._cacheCanvas.toDataURL("png");
+            this._needToRefreshImg = false;
+        }
     }
 });
 cc.CacheNode.create = function (fileName, rect) {

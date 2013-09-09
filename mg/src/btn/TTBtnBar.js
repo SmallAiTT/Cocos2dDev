@@ -37,23 +37,25 @@ tt.BtnBar = cc.Node.extend({
 
         this._initBtns();
 
+        this.setIsCacheNode(true);
+
         return true;
     },
 
     _initBtns : function(){
         this._btnInfos.forEach(function(value, index){
             var btnBg = cc.Scale9Sprite.create(value.btns[0]);
-            var btnHlBg = cc.Scale9Sprite.create(value.btns.length > 1 ? value.btns[1] : value.btns[0]);
-
-            var title = cc.LabelTTF.create(value.title || "", value.fnt || "Marker Felt", value.fntSize || 12);
-
-            var button = cc.ControlButton.create(title, btnBg);
-            button.setBackgroundSpriteForState(btnHlBg, cc.CONTROL_STATE_HIGHLIGHTED);
-            button.setTitleColorForState(cc.WHITE, cc.CONTROL_STATE_HIGHLIGHTED);
-            button.setAnchorPoint(tt.ANCHOR_POINT_C);
-            button.setPreferredSize(cc.size(62, 69));
-            button.setPosition(value.pos);
-            this.addChild(button);
+//            var btnHlBg = cc.Scale9Sprite.create(value.btns.length > 1 ? value.btns[1] : value.btns[0]);
+//
+//            var title = cc.LabelTTF.create(value.title || "", value.fnt || "Marker Felt", value.fntSize || 12);
+//
+//            var button = cc.ControlButton.create(title, btnBg);
+//            button.setBackgroundSpriteForState(btnHlBg, cc.CONTROL_STATE_HIGHLIGHTED);
+//            button.setTitleColorForState(cc.WHITE, cc.CONTROL_STATE_HIGHLIGHTED);
+//            button.setAnchorPoint(tt.ANCHOR_POINT_C);
+//            button.setPreferredSize(cc.size(62, 69));
+//            button.setPosition(value.pos);
+            this.addChild(btnBg);
         }.bind(this));
     }
 });

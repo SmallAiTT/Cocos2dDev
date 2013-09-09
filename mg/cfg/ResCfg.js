@@ -68,8 +68,32 @@ ResCfg[Res.TTCacheNodeTest_js] = {
     layer : "tt.CacheLayer"
 };
 
-ResCfg[Res.TTCacheNode_js] = {
+ResCfg[Res.TTCacheNodeAgent_js] = {
     testFiles : [Res.DMCacheNodeTest_js],
-    testRes : [Res.map_background_jpg, Res.hero_border_1_png],
+    testRes :[
+        Res.map_background_jpg,
+        Res.hero_border_1_png,
+        Res.button_062_png,
+        Res.button_064_png,
+        Res.button_065_png,
+        Res.button_063_png,
+        Res.button_066_png,
+        Res.button_067_png
+    ],
     layer : "dm.CacheNodeTestLayer1"
+};
+
+
+ResCfg[Res.TTHomeLayer_js] = {
+    res : [
+        Res.background_014_png,
+        Res.button_062_png,
+        Res.button_064_png,
+        Res.button_065_png,
+        Res.button_063_png,
+        Res.button_066_png,
+        Res.button_067_png
+    ],
+    ref : [Res.TTCacheNodeAgent_js, Res.TTBtnBar_js],
+    layer : "tt.HomeLayer"
 };

@@ -77,11 +77,11 @@ cc.CacheNode = cc.Node.extend({
         }
     },
     setIsCacheNode : function(b){
-        this._isCacheNode = b;
+        this.isCacheNode = b;
         if(b == true) this.setDrawMode(cc.DRAW_MODE_CACHE);
     },
     isCacheNode : function(){
-        return this._isCacheNode || false;
+        return this.isCacheNode || false;
     },
     getDirtyType : function(){
         return this._dirtyType;
@@ -191,7 +191,7 @@ cc.CacheNode = cc.Node.extend({
             }*/
         }
 
-        if(this._isCacheNode && this._isRecache){//TODO 第一次也要redraw，进行初始化
+        if(this.isCacheNode && this._isRecache){//TODO 第一次也要redraw，进行初始化
             //TODO 目前先做只有上层dirty的情况
             //TODO 先将相对于当前节点不动层画作一个img
             this._img = this._img || document.createElement("img");
@@ -259,10 +259,10 @@ cc.CacheNode = cc.Node.extend({
 
         var l = this._children.length;
         if(this._drawMode == cc.DRAW_MODE_CACHE ){//如果是cache模式
-            if(l > 0 && this._isCacheNode)this._visit4Cache(ctx);
+            if(l > 0 && this.isCacheNode)this._visit4Cache(ctx);
             else if(l == 0){
                 this._super(ctx);
-            }else if(l > 0 && !this._isCacheNode){
+            }else if(l > 0 && !this.isCacheNode){
                 if(this._dirtyType == cc.DIRTY_TYPE_SRC) this._super(ctx);
             }
         }else if(!ctx.isCache){
