@@ -16,15 +16,19 @@ dm.CanvasTimeTestLayer = cc.Layer.extend({
         this.addChild(n);
         n.setAnchorPoint(tt.ANCHOR_POINT_BL);
 
-        for(var i = 0; i < 1; ++i){
-            for(var j = 0; j < 1; ++j){
+        for(var i = 0; i < 100; ++i){
+            for(var j = 0; j < 100; ++j){
                 var sprite = cc.Sprite.create(Res.hero_border_1_png);
                 n.addChild(sprite);
                 sprite.setPosition(j * 20, i * 30);
                 sprite.setAnchorPoint(tt.ANCHOR_POINT_BL);
+
+                var s = cc.Sprite.create(Res.hero_border_1_png);
+                sprite.addChild(s);
+                s.setScale(0.5);
             }
         }
-//        n.setIsCacheNode(true);
+        n.setIsCacheNode(true);
         this.isRecordTime = 10;
         return true;
     }
