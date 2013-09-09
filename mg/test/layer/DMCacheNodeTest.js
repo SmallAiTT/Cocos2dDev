@@ -45,7 +45,7 @@ dm.CacheNodeTestLayer1 = cc.Layer.extend({
         button.setTitleColorForState(cc.WHITE, cc.CONTROL_STATE_HIGHLIGHTED);
         button.setAnchorPoint(tt.ANCHOR_POINT_C);
         button.setPreferredSize(cc.size(62, 69));
-        button.setPosition(0, 0);
+        button.setPosition(100, 100);
         n.addChild(button);
 
 

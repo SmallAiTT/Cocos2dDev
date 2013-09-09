@@ -97,3 +97,85 @@ ResCfg[Res.TTHomeLayer_js] = {
     ref : [Res.TTCacheNodeAgent_js, Res.TTBtnBar_js],
     layer : "tt.HomeLayer"
 };
+
+ResCfg[Res.TTHeroLayer_js] = {
+    res : [
+        Res.background_029_jpg,
+        Res.background_010_png,
+        Res.shape_011_png,
+        Res.hero_camp_1_png,
+
+        Res.button_038_png,
+
+        Res.skin_hero_18_png,
+        Res.background_016_png,
+
+        Res.btnbg_001_1_png,
+        Res.btnbg_001_2_png,
+        Res.btnbg_001_3_png,
+
+        Res.background_030_png,
+
+        Res.progress_005_png,
+        Res.progress_006_png,
+        Res.button_049_png,
+        Res.arms_full_1_png,
+        Res.shape_006_png,
+
+        Res.background_014_png,
+        Res.button_062_png,
+        Res.button_064_png,
+        Res.button_065_png,
+        Res.button_063_png,
+        Res.button_066_png,
+        Res.button_067_png
+    ],
+    ref : [Res.TTCacheNodeAgent_js, Res.TTBtnBar_js],
+    layer : "tt.HeroLayer"
+};
+
+
+
+ResCfg[Res.TTHeroLayer2_js] = {
+    res : [
+        Res.background_029_jpg,
+        Res.background_010_png,
+        Res.shape_011_png,
+        Res.hero_camp_1_png,
+
+        Res.button_038_png,
+
+        Res.skin_hero_18_png,
+        Res.background_016_png,
+
+        Res.btnbg_001_1_png,
+        Res.btnbg_001_2_png,
+        Res.btnbg_001_3_png,
+
+        Res.background_030_png,
+
+        Res.progress_005_png,
+        Res.progress_006_png,
+        Res.button_049_png,
+        Res.arms_full_1_png,
+        Res.shape_006_png,
+
+        Res.background_014_png,
+        Res.button_062_png,
+        Res.button_064_png,
+        Res.button_065_png,
+        Res.button_063_png,
+        Res.button_066_png,
+        Res.button_067_png
+    ],
+    ref : [Res.TTCacheNodeAgent_js, Res.TTBtnBar_js],
+    layer : "tt.HeroLayer"
+};
+
+ResCfg["CanvasTimeTest"] = {
+    ref : [Res.TTCacheNodeAgent_js],
+    testFiles : [Res.DMCanvasTimeTest_js],
+    testRes : [Res.map_background_jpg, Res.hero_border_1_png],
+    layer : "dm.CanvasTimeTestLayer"
+
+}
