@@ -8,6 +8,7 @@
 
 
 tt.HeroListItem = cc.Node.extend({
+    className : 'tt_HeroListItem',
     init : function(){
         this._super();
         this.setContentSize(cc.size(450, 110));

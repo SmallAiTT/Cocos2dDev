@@ -8,6 +8,7 @@
 
 
 tt.BtnBar = cc.Node.extend({
+    className : 'tt_BtnBar',
     _bg : null,
     _bgSp : null,
 

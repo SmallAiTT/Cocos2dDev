@@ -7,6 +7,7 @@
  */
 
 tt.DragLayer = cc.Layer.extend({
+    className : 'tt_DragLayer',
 
     /** start position */
     _startPos : null,
@@ -75,6 +76,7 @@ tt.DragLayer = cc.Layer.extend({
 });
 
 var Ta = cc.Class.extend({
+    className : 'Ta',
     onDidLoadFromCCB : function(){
     }
 });

@@ -11,6 +11,7 @@ cc.DIRTY_STATE_LONG = 2;//持续污染
 cc.DIRTY_STATE_HAND = 3;//手动污染
 cc.hasParentCacheStack = [];
 cc.CacheNodeAgent = cc.Class.extend({
+    className : 'cc_CacheNodeAgent',
     isRefresh : true,
     isCacheNode : false,
     dirtyState : null,

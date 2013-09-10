@@ -7,6 +7,7 @@
  */
 
 var cocos2dApp = cc.Application.extend({
+    className : 'cocos2dApp',
     config : document['ccConfig'],
     ctor : function(){
         this._super();

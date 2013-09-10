@@ -7,6 +7,7 @@
  */
 
 tt.HeroListLayer = cc.Layer.extend({
+    className : 'tt_HeroListLayer',
     _viewSize : null,
 
     setViewSize : function(w, h){

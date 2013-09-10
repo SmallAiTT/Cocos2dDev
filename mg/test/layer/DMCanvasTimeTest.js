@@ -8,6 +8,7 @@
 
 
 dm.CanvasTimeTestLayer = cc.Layer.extend({
+    className : 'dm_CanvasTimeTestLayer',
 
     init : function(){
         this._super();

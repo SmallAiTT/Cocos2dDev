@@ -10,6 +10,7 @@
 tt.PAGE_LAYER_ZORDER_BG = -10;
 tt.PAGE_LAYER_ZORDER_MI = 10;
 tt.PageLayer = tt.DragLayer.extend({
+    className : 'tt_PageLayer',
     /** size of one page */
     _pageSize : null,
 

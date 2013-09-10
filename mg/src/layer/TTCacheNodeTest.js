@@ -22,6 +22,7 @@ cc.DIRTY_STATE_HAND = 3;//手动污染
 
 
 cc.CacheNode = cc.Node.extend({
+    className : 'cc_CacheNode',
     _drawMode : null,//绘图模式
     _isRecache : true,
     _isCacheNode : false,
@@ -274,6 +275,7 @@ cc.CacheNode = cc.Node.extend({
 });
 
 tt.CacheLayer = cc.CacheNode.extend({
+    className : 'tt_CacheLayer',
 
     _flag : 1,
     init : function(){

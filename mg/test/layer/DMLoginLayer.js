@@ -7,6 +7,7 @@
  */
 
 dm.LoginLayer = cc.Layer.extend({
+    className : 'dm_LoginLayer',
     _flag : true,
     _t : null,
 

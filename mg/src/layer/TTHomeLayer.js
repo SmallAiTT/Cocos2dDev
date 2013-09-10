@@ -7,6 +7,7 @@
  */
 
 tt.HomeLayer = cc.Layer.extend({
+    className : 'tt_HomeLayer',
     btnBar : null,
     init : function(){
         this._super();

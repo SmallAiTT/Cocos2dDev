@@ -7,6 +7,7 @@
  */
 
 tt.HeroLayer = cc.Layer.extend({
+    className : 'tt_HeroLayer',
     init : function(){
         this._super();
 

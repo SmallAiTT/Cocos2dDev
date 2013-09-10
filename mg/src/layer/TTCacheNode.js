@@ -18,6 +18,7 @@ cc.DIRTY_STATE_LONG = 2;//持续污染
 cc.DIRTY_STATE_HAND = 3;//手动污染
 cc.hasParentCacheStack = [];
 cc.CacheNode = cc.Sprite.extend({
+    className : 'cc_CacheNode',
     _isRefresh : true,
     _isCacheNode : false,
     _needToRefreshImg : false,

@@ -7,6 +7,7 @@
  */
 
 dm.CacheNode = cc.Node.extend({
+    className : 'dm_CacheNode',
 
     _cacheCanvas: null,
     _cacheContext: null,
@@ -101,6 +102,7 @@ dm.CacheNode.create = function(args){
     return node.init() ? node : null;
 };
 dm.DragLayerTest = tt.DragLayer.extend({
+    className : 'dm_DragLayerTest',
 
     _initRes : function(){
         this._super();

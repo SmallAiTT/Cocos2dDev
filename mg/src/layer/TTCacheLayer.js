@@ -7,6 +7,7 @@
  */
 
 tt.CacheLayer = cc.Layer.extend({
+    className : 'tt_CacheLayer',
     _cacheCanvas: null,
     _cacheContext: null,
     _img : null,

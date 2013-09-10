@@ -7,6 +7,7 @@
  */
 
 dm.CacheNodeTestLayer1 = cc.Layer.extend({
+    className : 'dm_CacheNodeTestLayer1',
     _mvSp : null,
     init : function(){
         this._super();
