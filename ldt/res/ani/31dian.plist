@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>31dian</key>
+	<array>
+		<string>0.05</string>
+		<string>effect/31/31-dian1.png</string>
+		<string>effect/31/31-dian2.png</string>
+		<string>effect/31/31-dian3.png</string>
+		<string>effect/31/31-dian4.png</string>
+		<string>effect/31/31-dian5.png</string>
+	</array>
+</dict>
+</plist>

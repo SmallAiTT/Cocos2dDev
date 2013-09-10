@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>home-jiesuoguangquan</key>
+	<array>
+		<string>0.05</string>
+		<string>effect/ui/jiesuoguangquan1.png</string>
+		<string>effect/ui/jiesuoguangquan2.png</string>
+		<string>effect/ui/jiesuoguangquan3.png</string>
+		<string>effect/ui/jiesuoguangquan4.png</string>
+		<string>effect/ui/jiesuoguangquan5.png</string>
+		<string>effect/ui/jiesuoguangquan6.png</string>
+		<string>effect/ui/jiesuoguangquan7.png</string>
+		<string>effect/ui/jiesuoguangquan8.png</string>
+	</array>
+</dict>
+</plist>

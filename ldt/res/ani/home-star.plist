@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>home-star</key>
+	<array>
+		<string>0.1</string>
+		<string>effect/home/star/s01.png</string>
+		<string>effect/home/star/s02.png</string>
+		<string>effect/home/star/s03.png</string>
+		<string>effect/home/star/s04.png</string>
+		<string>effect/home/star/s05.png</string>
+		<string>effect/home/star/s06.png</string>
+		<string>effect/home/star/s07.png</string>
+	</array>
+</dict>
+</plist>

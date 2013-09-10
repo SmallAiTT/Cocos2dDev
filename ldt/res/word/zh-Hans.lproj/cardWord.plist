@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>times</key>
+	<string>可赐福次数：</string>
+	<key>cleanTime</key>
+	<string>每日重置时间：凌晨0点。</string>
+	<key>rule</key>
+	<string>满足下列条件之一即可获得一次赐福：
+再消耗@钻石
+再消耗@金币
+再进行@次副本</string>
+	<key>endTime</key>
+	<string>离活动结束还剩：</string>
+</dict>
+</plist>

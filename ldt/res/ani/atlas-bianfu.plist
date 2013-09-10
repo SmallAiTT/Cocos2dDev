@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>atlas-bianfu</key>
+	<array>
+		<string>0.1</string>
+		<string>effect/atlas/bianfu1.png</string>
+		<string>effect/atlas/bianfu2.png</string>
+		<string>effect/atlas/bianfu3.png</string>
+		<string>effect/atlas/bianfu4.png</string>
+		<string>effect/atlas/bianfu5.png</string>
+		<string>effect/atlas/bianfu6.png</string>
+		<string>effect/atlas/bianfu7.png</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actTimeTitle</key>
+	<string>【活动截止倒计时】</string>
+	<key>actTime</key>
+	<string>@天@小时@分@秒</string>
+	<key>actDescribeTitle</key>
+	<string>#1FBDCE【活动描述】  #FCDC96</string>
+	<key>actIntro</key>
+	<string>活动介绍</string>
+	<key>actGetTitle</key>
+	<string>活动内容</string>
+	<key>actChargeTitle</key>
+	<string>#441C00单笔充值#005BFC@元#441C00可获得: </string>
+	<key>actChargeCountTitle</key>
+	<string>#441C00累计充值满#005BFC@元#441C00可获得: </string>
+	<key>getTitle1</key>
+	<string>可领取次数</string>
+	<key>getTitle2</key>
+	<string>可购买次数</string>
+	<key>getTitle3</key>
+	<string>可兑换次数</string>
+	<key>actMammonWord1</key>
+	<string>此处最高可获得</string>
+	<key>actMammonWord2</key>
+	<string>下注钻石:</string>
+	<key>actMammonWord3</key>
+	<string>现有钻石:</string>
+	<key>actMammonWord4</key>
+	<string>剩余次数:</string>
+</dict>
+</plist>

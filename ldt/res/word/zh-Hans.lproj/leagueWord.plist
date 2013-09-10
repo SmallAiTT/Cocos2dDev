@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>label_league_rank</key>
+	<string>帮派排名</string>
+	<key>label_league_search</key>
+	<string>搜索帮派</string>
+	<key>label_rank</key>
+	<string>排名</string>
+	<key>label_league</key>
+	<string>帮派</string>
+	<key>label_league_master</key>
+	<string>帮主</string>
+	<key>label_league_master - 2</key>
+	<string>帮       主</string>
+	<key>label_league_vice</key>
+	<string>副帮主</string>
+	<key>label_level</key>
+	<string>等级</string>
+	<key>label_members</key>
+	<string>人数</string>
+	<key>label_activities</key>
+	<string>活动</string>
+	<key>label_verify</key>
+	<string>审核</string>
+	<key>label_member</key>
+	<string>成员</string>
+	<key>btn_league_mine</key>
+	<string>我的帮派</string>
+	<key>btn_league_other</key>
+	<string>其他帮派</string>
+	<key>btn_league_weekly</key>
+	<string>周贡献</string>
+	<key>btn_league_create</key>
+	<string>创建帮派</string>
+	<key>label_league_notice</key>
+	<string>帮派公告</string>
+	<key>label_league_notice - 2</key>
+	<string>【帮派公告】</string>
+	<key>label_league_introduce</key>
+	<string>帮派介绍</string>
+	<key>label_league_introduce - 2</key>
+	<string>【帮派介绍】</string>
+	<key>label_league_name</key>
+	<string>帮派名称</string>
+	<key>label_league_level</key>
+	<string>帮派等级</string>
+	<key>label_league_exp</key>
+	<string>帮派经验</string>
+	<key>label_league_members</key>
+	<string>帮派人数</string>
+	<key>label_position</key>
+	<string>职务</string>
+	<key>label_devote</key>
+	<string>贡献值</string>
+	<key>label_devote_weekly</key>
+	<string>周贡献值</string>
+	<key>label_login</key>
+	<string>登入</string>
+	<key>label_arena_rank</key>
+	<string>竞技场排名</string>
+	<key>label_online</key>
+	<string>在线</string>
+	<key>label_offline</key>
+	<string>离线</string>
+	<key>activity_drum</key>
+	<string>鼓舞士气</string>
+	<key>activity_ege</key>
+	<string>幸运金蛋</string>
+	<key>activity_war</key>
+	<string>帮派战</string>
+	<key>activity_refine</key>
+	<string>组队炼魔</string>
+	<key>egg_info</key>
+	<string>每日一次免费砸金蛋</string>
+	<key>drum_info</key>
+	<string>每日一次鼓舞士气</string>
+	<key>drum_lab_spend</key>
+	<string>花费：</string>
+	<key>drum_lab_reward</key>
+	<string>奖励：</string>
+	<key>rule</key>
+	<string>帮派战规则
+1. 比赛规则
+•帮派战每周三00：00开战，需要帮派等级达到2级。
+•报名时间为周四00：00至次周三00：00分，由帮主或副帮主进行报名。
+•本周累计贡献度前8的帮派才可以晋级帮派战。
+•帮派贡献累计时间为周三00：00至次周三00：00
+•战斗规则：自动参战，按个人帮派贡献排行榜分派对手，排名靠后者先上场。
+2. 比赛时间
+正式比赛日为每周的周三全天
+•00:00  公布入围8强
+•12:00  8进4
+•18:00  半决赛
+•21:00  决赛
+3. 比赛奖励：
+•8进4：@声望/人、@金币/人、@礼券
+•4进2：@声望/人，@金币/人、@礼券
+•2进1（决赛）：@声望/人，@金币/人、@礼券
+注：帮派战奖励声望不计入“帮派周贡献”中。</string>
+	<key>league_refine</key>
+	<string>队伍满@人后即可完成七星魔阵，完成后每人将获得@声望，每人每日只获得1次奖励，已经完成的玩家可以继续协助他人，但不再获得奖励。</string>
+	<key>activity_0_0</key>
+	<string>(需要帮派等级@)
+奖励声望</string>
+	<key>activity_0_1</key>
+	<string>每人每日1次擂鼓，可以获得声望奖励。</string>
+	<key>activity_1_0</key>
+	<string>(需要帮派等级@)
+奖励金币、钻石、体力</string>
+	<key>activity_1_1</key>
+	<string>每人每日1次砸金蛋，可以获得金币，有机率获得钻石和体力。</string>
+	<key>activity_2_0</key>
+	<string>(需要帮派等级@)
+奖励声望、金币、礼券</string>
+	<key>activity_2_1</key>
+	<string>帮派战每周1次，胜利者可获得大量声望、金币和礼券。</string>
+	<key>activity_3_0</key>
+	<string>(需要帮派等级@)
+奖励声望</string>
+	<key>activity_3_1</key>
+	<string>与帮派成员一起练魔可以获得大量声望。</string>
+	<key>activity_4_0</key>
+	<string>(需要帮派等级@)
+奖励声望、体力</string>
+	<key>activity_4_1</key>
+	<string>与帮派成员一同分享仙泉将获得大量的声望和少量的体力。</string>
+	<key>tip1</key>
+	<string>成员每获得1点声望，帮派将同时获得1点经验。每个帮派每日最多添加20名玩家进入帮派。</string>
+	<key>league_spring</key>
+	<string>仙泉规则
+1.每个帮派每天只能召唤一次众仙泉。每日00：00后重置。
+2.召唤者需要花费900钻石，立即获得1000声望奖励。
+3.帮派成员可以参加饮泉，上限20人，饮泉者即可获得50点声望和20点体力值。
+4.每增加一名饮泉者，召唤者同时也会获得50点声望奖励加成。
+</string>
+	<key>league_spring_count</key>
+	<string>当前饮泉人数：</string>
+	<key>league_spring_summoner</key>
+	<string>仙泉召唤者</string>
+</dict>
+</plist>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>title0</key>
+	<string>外套合成</string>
+	<key>content0</key>
+	<string>可以提升人物属性成长。</string>
+	<key>title1</key>
+	<string>宝石镶嵌</string>
+	<key>content1</key>
+	<string>可以提升人物的属性。</string>
+	<key>title2</key>
+	<string>强化装备</string>
+	<key>content2</key>
+	<string>武器强化可提升攻击力，防具可以提升血量。</string>
+	<key>title3</key>
+	<string>宠物喂养</string>
+	<key>content3</key>
+	<string>可以提升宠物战斗力和主人的属性加成。</string>
+	<key>title4</key>
+	<string>炼 魂</string>
+	<key>content4</key>
+	<string>可以大幅度提升人物属性。</string>
+	<key>title5</key>
+	<string>购买装备</string>
+	<key>content5</key>
+	<string>购买品质更好的装备能大大提高战斗力！</string>
+	<key>title6</key>
+	<string>调配技能</string>
+	<key>content6</key>
+	<string>根据对手的弱点调配技能是克敌制胜的关键！</string>
+	<key>title7</key>
+	<string>佣 兵</string>
+	<key>content7</key>
+	<string>雇佣自己的好友成为佣兵，人多力量大！</string>
+	<key>tip</key>
+	<string>失败了怎么办？</string>
+</dict>
+</plist>

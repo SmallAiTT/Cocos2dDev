@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>31yun</key>
+	<array>
+		<string>0.1</string>
+		<string>effect/31/31-yun1.png</string>
+		<string>effect/31/31-yun2.png</string>
+		<string>effect/31/31-yun3.png</string>
+		<string>effect/31/31-yun4.png</string>
+		<string>effect/31/31-yun5.png</string>
+		<string>effect/31/31-yun6.png</string>
+		<string>effect/31/31-yun7.png</string>
+		<string>effect/31/31-yun8.png</string>
+	</array>
+</dict>
+</plist>

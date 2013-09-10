@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>tab_att</key>
+	<string>属性</string>
+	<key>tab_role</key>
+	<string>人物</string>
+	<key>tab_syn</key>
+	<string>合成</string>
+	<key>btn_reorder_auto</key>
+	<string>自动整理</string>
+	<key>btn_reorder_manual</key>
+	<string>手动整理</string>
+	<key>btn_back</key>
+	<string>返回</string>
+	<key>btn_syn</key>
+	<string>合成</string>
+	<key>btn_finishorder</key>
+	<string>完成整理</string>
+	<key>label_level</key>
+	<string>等级</string>
+	<key>label_weapon</key>
+	<string>武器</string>
+	<key>label_hp</key>
+	<string>HP</string>
+	<key>label_sp</key>
+	<string>SP</string>
+	<key>label_str</key>
+	<string>力量</string>
+	<key>label_agi</key>
+	<string>敏捷</string>
+	<key>label_sta</key>
+	<string>耐力</string>
+	<key>label_speed</key>
+	<string>速度</string>
+	<key>label_attack</key>
+	<string>攻击</string>
+	<key>label_hit</key>
+	<string>命中</string>
+	<key>label_dodge</key>
+	<string>闪避</string>
+	<key>label_break</key>
+	<string>破防</string>
+	<key>label_defend</key>
+	<string>防御</string>
+	<key>label_cri</key>
+	<string>暴击</string>
+	<key>label_tou</key>
+	<string>韧性</string>
+	<key>label_costgold</key>
+	<string>消耗</string>
+	<key>des_convert</key>
+	<string>转换目标</string>
+	<key>convert_content</key>
+	<string>提示：存量会预存在转换小屋内，额度不会消失。如需取回，请将存量设置为0即可。</string>
+</dict>
+</plist>

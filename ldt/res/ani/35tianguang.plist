@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>35tianguang</key>
+	<array>
+		<string>0.05</string>
+		<string>effect/35/35-tianguang1.png</string>
+		<string>effect/35/35-tianguang2.png</string>
+		<string>effect/35/35-tianguang3.png</string>
+		<string>effect/35/35-tianguang4.png</string>
+	</array>
+</dict>
+</plist>

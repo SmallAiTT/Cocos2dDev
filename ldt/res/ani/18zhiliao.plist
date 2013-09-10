@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>18zhiliao</key>
+	<array>
+		<string>0.05</string>
+		<string>effect/18/18-zhiliao1.png</string>
+		<string>effect/18/18-zhiliao2.png</string>
+		<string>effect/18/18-zhiliao3.png</string>
+		<string>effect/18/18-zhiliao4.png</string>
+		<string>effect/18/18-zhiliao5.png</string>
+		<string>effect/18/18-zhiliao6.png</string>
+		<string>effect/18/18-zhiliao7.png</string>
+		<string>effect/18/18-zhiliao8.png</string>
+		<string>effect/18/18-zhiliao9.png</string>
+		<string>effect/18/18-zhiliao10.png</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bianzi</key>
+	<array>
+		<string>0.1</string>
+		<string>effect/maltreatment/bianzi1.png</string>
+		<string>effect/maltreatment/bianzi2.png</string>
+		<string>effect/maltreatment/bianzi3.png</string>
+		<string>effect/maltreatment/bianzi4.png</string>
+		<string>effect/maltreatment/bianzi5.png</string>
+		<string>effect/maltreatment/bianzi6.png</string>
+		<string>effect/maltreatment/bianzi7.png</string>
+		<string>effect/maltreatment/bianzi8.png</string>
+		<string>effect/maltreatment/bianzi9.png</string>
+	</array>
+</dict>
+</plist>

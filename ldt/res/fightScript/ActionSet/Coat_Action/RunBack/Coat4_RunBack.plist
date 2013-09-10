@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actSet</key>
+	<dict>
+		<key>initProperty</key>
+		<dict>
+			<key>tag</key>
+			<string>0</string>
+			<key>pos</key>
+			<string>{0,0}</string>
+		</dict>
+		<key>type</key>
+		<string>ActionSpriteSet</string>
+		<key>actSpriteKeySet</key>
+		<string>Act3,Act4</string>
+		<key>actSpriteSet</key>
+		<dict>
+			<key>Act3</key>
+			<dict>
+				<key>actions</key>
+				<array>
+					<string>MoveBy(0.5,{-342,0})</string>
+				</array>
+				<key>actFile</key>
+				<string>jumpback-4.act</string>
+				<key>type</key>
+				<string>ActionSprite</string>
+				<key>playType</key>
+				<string>1</string>
+			</dict>
+			<key>Act4</key>
+			<dict>
+				<key>actFile</key>
+				<string>wait-4.act</string>
+				<key>type</key>
+				<string>ActionSprite</string>
+				<key>playType</key>
+				<string>2</string>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>

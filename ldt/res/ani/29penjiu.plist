@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>29penjiu</key>
+	<array>
+		<string>0.05</string>
+		<string>effect/29/29-penjiu1.png</string>
+		<string>effect/29/29-penjiu2.png</string>
+		<string>effect/29/29-penjiu3.png</string>
+		<string>effect/29/29-penjiu4.png</string>
+		<string>effect/29/29-penjiu5.png</string>
+		<string>effect/29/29-penjiu6.png</string>
+		<string>effect/29/29-penjiu7.png</string>
+		<string>effect/29/29-penjiu8.png</string>
+		<string>effect/29/29-penjiu9.png</string>
+	</array>
+</dict>
+</plist>

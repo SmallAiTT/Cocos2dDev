@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lianhun1-lan</key>
+	<array>
+		<string>0.1</string>
+		<string>effect/lianhun/lianhun-lan-2.png</string>
+		<string>effect/lianhun/lianhun-lan-3.png</string>
+		<string>effect/lianhun/lianhun-lan-4.png</string>
+		<string>effect/lianhun/lianhun-lan-5.png</string>
+		<string>effect/lianhun/lianhun-lan-1.png</string>
+	</array>
+</dict>
+</plist>

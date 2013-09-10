@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ui-fanghu</key>
+	<array>
+		<string>0.1</string>
+		<string>effect/ui/fanghu1.png</string>
+		<string>effect/ui/fanghu2.png</string>
+		<string>effect/ui/fanghu3.png</string>
+		<string>effect/ui/fanghu4.png</string>
+		<string>effect/ui/fanghu5.png</string>
+		<string>effect/ui/fanghu6.png</string>
+		<string>effect/ui/fanghu7.png</string>
+		<string>effect/ui/fanghu1.png</string>
+		<string>effect/ui/fanghu1.png</string>
+	</array>
+</dict>
+</plist>

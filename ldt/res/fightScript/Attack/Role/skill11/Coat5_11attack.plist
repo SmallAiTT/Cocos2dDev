@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>param</key>
+	<dict>
+		<key>bolResetData</key>
+		<string>0</string>
+		<key>time</key>
+		<string>1.65</string>
+	</dict>
+	<key>roleHead</key>
+	<dict>
+		<key>actSetPath</key>
+		<string>fightScript/ActionSet/Coat_Action/skill11/Coat5_skillAtt11.plist</string>
+		<key>fatherTagArray</key>
+		<string>0</string>
+		<key>action</key>
+		<string>(sequence:(moveBy:0.5,342,0);(delayTime:0.8))</string>
+		<key>nodeType</key>
+		<string>ActionRoleSet</string>
+		<key>tag</key>
+		<string>0</string>
+	</dict>
+</dict>
+</plist>

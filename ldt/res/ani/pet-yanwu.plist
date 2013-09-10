@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>pet-yanwu</key>
+	<array>
+		<string>0.1</string>
+		<string>effect/other/pet-yanwu1.png</string>
+		<string>effect/other/pet-yanwu2.png</string>
+		<string>effect/other/pet-yanwu3.png</string>
+		<string>effect/other/pet-yanwu4.png</string>
+		<string>effect/other/pet-yanwu5.png</string>
+		<string>effect/other/pet-yanwu6.png</string>
+	</array>
+</dict>
+</plist>

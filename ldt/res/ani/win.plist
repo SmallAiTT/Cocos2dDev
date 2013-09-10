@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>win</key>
+	<array>
+		<string>0.1</string>
+		<string>effect/win/win1.png</string>
+		<string>effect/win/win2.png</string>
+		<string>effect/win/win3.png</string>
+		<string>effect/win/win4.png</string>
+		<string>effect/win/win5.png</string>
+		<string>effect/win/win6.png</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animation</key>
+	<dict>
+		<key>action</key>
+		<string>(hide:)</string>
+		<key>nodeType</key>
+		<string>sprite</string>
+		<key>tag</key>
+		<string>20</string>
+	</dict>
+	<key>param</key>
+	<dict>
+		<key>bolResetData</key>
+		<string>1</string>
+		<key>time</key>
+		<string>0</string>
+	</dict>
+</dict>
+</plist>

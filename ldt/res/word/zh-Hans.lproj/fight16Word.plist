@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getbox_limit1</key>
+	<string>击败@次对手激活</string>
+	<key>getbox_limit2</key>
+	<string>击败@次</string>
+	<key>battle_times</key>
+	<string>今日可挑战次数：</string>
+	<key>type_name2</key>
+	<string>冠亚军组合</string>
+	<key>win_rate</key>
+	<string>胜率：@%</string>
+	<key>win_total</key>
+	<string>胜/场：@/@</string>
+	<key>rule</key>
+	<string>•每周世界比武16强选手化身为铜人（取比武时的数据），供@级以上的玩家挑战。
+ 
+•挑战时间为周日0:00到周二24:00。这三天内，玩家每天有8次挑战机会。
+ 
+•金钱和声望累计奖励的领取条件为周二挑战活动结束，领取时间延长至周四24:00。
+ 
+•系统按照比武成绩和声望排行来确定铜人的排序。
+ 
+•每战胜一个铜人可获得金钱和声望的累计奖励。失败可以继续挑战，连续挑战同一个铜人3次失败，可选择跳过挑战下一人。
+ 
+•当玩家获胜场次达到@、@、@、@、@，会分别获得宝箱奖励。（宝箱内含：钻石/礼券/宠物技能锁/铭刻水晶/ +0 珍稀铜人外套）。
+ 
+•设挑战积分榜。每次挑战胜利后，系统会根据是否有失败及失败次数给出 1-4 不等的积分。玩家可查看自己的积分排行。
+ 
+•挑战奖励保留至周四24:00，务必及时领取。
+ </string>
+	<key>rule_title</key>
+	<string>十八铜人规则</string>
+	<key>buff_rule1</key>
+	<string>点击相应选项获得状态提升需要消耗</string>
+	<key>buff_rule2</key>
+	<string>当玩家击败或者跳过当前的选手，则状态消失。</string>
+	<key>att_name1</key>
+	<string>力量增加</string>
+	<key>att_name2</key>
+	<string>敏捷增加</string>
+	<key>att_name3</key>
+	<string>耐力增加</string>
+	<key>att_name4</key>
+	<string>速度提升</string>
+	<key>att_name5</key>
+	<string>攻击提升</string>
+	<key>att_name6</key>
+	<string>最大攻击增加</string>
+	<key>att_name7</key>
+	<string>最小攻击增加</string>
+	<key>att_name8</key>
+	<string>防御增加</string>
+	<key>att_name9</key>
+	<string>破防增加</string>
+	<key>att_name10</key>
+	<string>HP提升</string>
+	<key>att_name11</key>
+	<string>SP提升</string>
+	<key>att_name12</key>
+	<string>HP增加</string>
+	<key>att_name13</key>
+	<string>SP增加</string>
+	<key>att_name14</key>
+	<string>暴击增加</string>
+	<key>att_name15</key>
+	<string>闪避增加</string>
+	<key>att_name16</key>
+	<string>命中增加</string>
+	<key>att_name17</key>
+	<string>韧性增加</string>
+	<key>my_score</key>
+	<string>我的积分：</string>
+	<key>my_pass_count</key>
+	<string>击败对手：</string>
+	<key>reward_warning</key>
+	<string>周二挑战结束到周四24点前可领取，逾期作废。</string>
+	<key>reward_subtitle</key>
+	<string>(结束领取)</string>
+</dict>
+</plist>

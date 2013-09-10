@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>30001</key>
+	<string>疾风狐</string>
+	<key>30002</key>
+	<string>通灵狗</string>
+	<key>30003</key>
+	<string>饭团</string>
+	<key>30004</key>
+	<string>史莱姆</string>
+	<key>30005</key>
+	<string>极地企鹅</string>
+	<key>30006</key>
+	<string>血蝙蝠</string>
+	<key>30007</key>
+	<string>蟾蜍王</string>
+</dict>
+</plist>

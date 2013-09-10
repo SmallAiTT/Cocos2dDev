@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>35cibang</key>
+	<array>
+		<string>0.1</string>
+		<string>effect/35/35-cibang1.png</string>
+		<string>effect/35/35-cibang2.png</string>
+		<string>effect/35/35-cibang3.png</string>
+		<string>effect/35/35-cibang4.png</string>
+		<string>effect/35/35-cibang5.png</string>
+		<string>effect/35/35-cibang6.png</string>
+		<string>effect/35/35-cibang7.png</string>
+		<string>effect/35/35-cibang8.png</string>
+		<string>effect/35/35-cibang9.png</string>
+		<string>effect/35/35-cibang10.png</string>
+		<string>effect/35/35-cibang11.png</string>
+		<string>effect/35/35-cibang12.png</string>
+		<string>effect/35/35-cibang10.png</string>
+		<string>effect/35/35-cibang6.png</string>
+		<string>effect/35/35-cibang3.png</string>
+		<string>effect/35/35-cibang1.png</string>
+	</array>
+</dict>
+</plist>

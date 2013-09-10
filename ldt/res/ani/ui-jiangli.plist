@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ui-jiangli</key>
+	<array>
+		<string>0.1</string>
+		<string>effect/ui/ui-jiangli1.png</string>
+		<string>effect/ui/ui-jiangli2.png</string>
+		<string>effect/ui/ui-jiangli3.png</string>
+		<string>effect/ui/ui-jiangli4.png</string>
+		<string>effect/ui/ui-jiangli5.png</string>
+	</array>
+</dict>
+</plist>

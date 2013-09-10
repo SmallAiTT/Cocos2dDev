@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1</key>
+	<string>Hi～我的勇士，欢迎来到充满神秘的幻想星球。现在起，我就是您的小秘书-小乱。</string>
+	<key>2</key>
+	<string>首先点击人物头像来打开背包，看看我为您准备了什么？</string>
+	<key>3</key>
+	<string></string>
+	<key>4</key>
+	<string></string>
+	<key>5</key>
+	<string>这是一把“@”，请“点击并拖动”背包中的武器图标来装备它吧！</string>
+	<key>6</key>
+	<string>看上去非常的称手。切记不同的外套将对应不同种类的武器哦。</string>
+	<key>7</key>
+	<string>好的！一切准备就绪！接下来，就开始我们的冒险之旅吧</string>
+	<key>8</key>
+	<string>看到地图上闪动的坐标了吗？这就是我们现在的位置，点击它并进入。</string>
+	<key>9</key>
+	<string>点击第1关，开始战斗吧！</string>
+	<key>10</key>
+	<string></string>
+	<key>11</key>
+	<string>成长过程中，您每提升1级都将获得1个新的技能，直至您学会了所有40个技能。</string>
+	<key>12</key>
+	<string>好的！接下来，让我们学习如何装备已经学会的技能吧！</string>
+	<key>13</key>
+	<string>点开功能按钮中的技能入口，或通过人物头像下方的快捷入口进入技能界面。</string>
+	<key>14</key>
+	<string>请点住技能图标并拖动至下方技能装备栏中。</string>
+	<key>15</key>
+	<string>很好，您已经学会如何使用技能了，我为您准备了一些初级强化符做为奖励！</string>
+	<key>16</key>
+	<string>强化符可以在铸造小屋中对武器进行升级强化！下面我们来学习如何强化一件装备吧！</string>
+	<key>17</key>
+	<string></string>
+	<key>18</key>
+	<string>请点击装备栏中的武器，然后点击“强化”按钮来进行强化。</string>
+	<key>19</key>
+	<string>在此需要说明的是，如果没有强化符，同样可以使用金币来进行直接强化.</string>
+	<key>19_1</key>
+	<string></string>
+	<key>20</key>
+	<string>当然，装备的强化仅仅是提升装备品质的其中一种途径。您还可以通过“铸造小屋”中的其他功能来提升装备品质！</string>
+	<key>21</key>
+	<string></string>
+	<key>22</key>
+	<string>至此，相信您已经对如何提升自己有了一定的了解了。接下去，您要做的是继续在关卡中磨练自己！请收下小乱为你送上的礼物，快到背包中去查看吧！</string>
+	<key>teach_getitem0</key>
+	<string>初级装备1套</string>
+	<key>teach_getitem1</key>
+	<string>11级武器1把</string>
+</dict>
+</plist>

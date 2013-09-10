@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>confirm</key>
+	<string>确定(待删除)</string>
+	<key>cancel</key>
+	<string>取消(待删除)</string>
+	<key>bag</key>
+	<string>背包</string>
+	<key>clothes</key>
+	<string>衣橱</string>
+	<key>server_status_0</key>
+	<string>新增</string>
+	<key>server_status_1</key>
+	<string>正常</string>
+	<key>server_status_2</key>
+	<string>拥挤</string>
+	<key>server_status_3</key>
+	<string>拥堵</string>
+	<key>probability</key>
+	<string>概率</string>
+	<key>exp</key>
+	<string>经验</string>
+	<key>gold</key>
+	<string>金钱</string>
+	<key>score</key>
+	<string>声望</string>
+	<key>new_skill</key>
+	<string>习得技能</string>
+	<key>new_master</key>
+	<string>获得专精</string>
+	<key>spend</key>
+	<string>消耗</string>
+	<key>get</key>
+	<string>获得</string>
+	<key>productName</key>
+	<string>钻石</string>
+	<key>productDesc</key>
+	<string>花费@元购买@钻石？</string>
+</dict>
+</plist>

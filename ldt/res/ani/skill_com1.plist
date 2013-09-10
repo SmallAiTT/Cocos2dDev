@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>skill_com1</key>
+	<array>
+		<string>0.05</string>
+		<string>effect/skill_com1/shanguang1.png</string>
+		<string>effect/skill_com1/shanguang2.png</string>
+		<string>effect/skill_com1/shanguang3.png</string>
+		<string>effect/skill_com1/shanguang4.png</string>
+		<string>effect/skill_com1/shanguang5.png</string>
+	</array>
+</dict>
+</plist>

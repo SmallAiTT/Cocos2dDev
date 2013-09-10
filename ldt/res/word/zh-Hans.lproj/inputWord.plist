@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>input_name</key>
+	<string>输入用户名</string>
+	<key>input_pwd</key>
+	<string>输入密码</string>
+	<key>input_pwd2</key>
+	<string>再次输入密码</string>
+	<key>input_gamename</key>
+	<string>输入名字</string>
+	<key>input_old_pwd</key>
+	<string>输入旧密码</string>
+	<key>input_new_pwd</key>
+	<string>输入新密码</string>
+	<key>input_new_pwd2</key>
+	<string>再次输入新密码</string>
+	<key>input_mail</key>
+	<string>输入邮箱</string>
+	<key>input_role_name</key>
+	<string>输入角色昵称</string>
+	<key>input_role_name2</key>
+	<string>再次输入角色昵称</string>
+	<key>name_limit</key>
+	<string>4~12个字母或数字</string>
+	<key>pwd_limit</key>
+	<string>6~16个字母或数字</string>
+</dict>
+</plist>

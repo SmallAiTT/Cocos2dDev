@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>03luoxuan</key>
+	<array>
+		<string>0.15</string>
+		<string>effect/03/03luoxuan1.png</string>
+		<string>effect/03/03luoxuan2.png</string>
+		<string>effect/03/03luoxuan3.png</string>
+		<string>effect/03/03luoxuan4.png</string>
+	</array>
+</dict>
+</plist>

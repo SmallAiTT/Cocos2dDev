@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>28mabi</key>
+	<array>
+		<string>0.05</string>
+		<string>effect/28/28-mabi1.png</string>
+		<string>effect/28/28-mabi2.png</string>
+		<string>effect/28/28-mabi3.png</string>
+		<string>effect/28/28-mabi4.png</string>
+	</array>
+</dict>
+</plist>

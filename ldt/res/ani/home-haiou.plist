@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>home-haiou</key>
+	<array>
+		<string>0.1</string>
+		<string>effect/home/haiou/haiou1.png</string>
+		<string>effect/home/haiou/haiou2.png</string>
+		<string>effect/home/haiou/haiou3.png</string>
+		<string>effect/home/haiou/haiou4.png</string>
+		<string>effect/home/haiou/haiou1.png</string>
+		<string>effect/home/haiou/haiou2.png</string>
+		<string>effect/home/haiou/haiou3.png</string>
+		<string>effect/home/haiou/haiou4.png</string>
+		<string>effect/home/haiou/haiou1.png</string>
+		<string>effect/home/haiou/haiou2.png</string>
+		<string>effect/home/haiou/haiou3.png</string>
+		<string>effect/home/haiou/haiou4.png</string>
+		<string>effect/home/haiou/haiou1.png</string>
+		<string>effect/home/haiou/haiou2.png</string>
+		<string>effect/home/haiou/haiou3.png</string>
+		<string>effect/home/haiou/haiou4.png</string>
+		<string>effect/home/haiou/haiou1.png</string>
+		<string>effect/home/haiou/haiou1.png</string>
+		<string>effect/home/haiou/haiou1.png</string>
+		<string>effect/home/haiou/haiou1.png</string>
+		<string>effect/home/haiou/haiou1.png</string>
+		<string>effect/home/haiou/haiou1.png</string>
+		<string>effect/home/haiou/haiou1.png</string>
+		<string>effect/home/haiou/haiou1.png</string>
+		<string>effect/home/haiou/haiou1.png</string>
+	</array>
+</dict>
+</plist>

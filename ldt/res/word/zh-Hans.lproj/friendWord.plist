@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>friend_0</key>
+	<string>我的好友</string>
+	<key>friend_1</key>
+	<string>好友请求</string>
+	<key>friend_2</key>
+	<string>网友</string>
+	<key>friend_3</key>
+	<string>网友查找</string>
+	<key>mail_0</key>
+	<string>收信人：</string>
+	<key>mail_1</key>
+	<string>写信</string>
+	<key>mail_2</key>
+	<string>输入收信人名字</string>
+	<key>mail_3</key>
+	<string>编辑内容</string>
+	<key>mer_0</key>
+	<string>可雇佣</string>
+	<key>mer_1</key>
+	<string>不可雇佣</string>
+	<key>mail_title0</key>
+	<string>系统公告</string>
+	<key>mail_title1</key>
+	<string>奴隶被抢</string>
+	<key>mail_title2</key>
+	<string>被抓为奴隶</string>
+	<key>mail_title3</key>
+	<string>训练位被抢</string>
+	<key>mail_title4</key>
+	<string>训练结束</string>
+	<key>mail_title5</key>
+	<string>被帮主开除</string>
+	<key>mail_title6</key>
+	<string>奴隶释放</string>
+	<key>mail_title7</key>
+	<string>奴隶赎身</string>
+	<key>mail_title8</key>
+	<string>奴隶反抗</string>
+	<key>mail_title9</key>
+	<string>奴隶解救</string>
+	<key>mail_title10</key>
+	<string>修炼完成</string>
+	<key>mail_title11</key>
+	<string>好友解救</string>
+	<key>mail_title12</key>
+	<string>修炼被打劫</string>
+	<key>mail_title13</key>
+	<string>炼魔完成</string>
+	<key>mail_title2000</key>
+	<string>订单处理</string>
+	<key>mail_title2001</key>
+	<string>充值活动返现</string>
+	<key>my_feedback</key>
+	<string>我的反馈:  </string>
+	<key>gm</key>
+	<string>GM:  </string>
+</dict>
+</plist>

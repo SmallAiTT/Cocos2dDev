@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict>
+    <key>origin</key>
+    <string>{522,294}</string>
+    <key>maxtime</key>
+    <string>0.4</string>
+    <key>children</key>
+    <array>
+        <dict>
+            <key>createMethod</key>
+            <dict>
+                <key>imageFile</key>
+                <string>effect/ui/bang-qi1.png</string>
+            </dict>
+            <key>initProperty</key>
+            <dict>
+                <key>pos</key>
+                <string>{524,291}</string>
+            </dict>
+            <key>frames</key>
+            <array>
+                <dict>
+                    <key>transit_type</key>
+                    <string>1</string>
+                    <key>start_time</key>
+                    <string>0</string>
+                    <key>during_time</key>
+                    <string>0</string>
+                    <key>actions</key>
+                    <array>
+                        <string>Delay(0)</string>
+                    </array>
+                </dict>
+                <dict>
+                    <key>transit_type</key>
+                    <string>0</string>
+                    <key>start_time</key>
+                    <string>0</string>
+                    <key>during_time</key>
+                    <string>0.4</string>
+                    <key>actions</key>
+                    <array/>
+                </dict>
+            </array>
+            <key>actions</key>
+            <array>
+                <string>Animation(bang-qi)</string>
+                <string>RepeatForever(Item 0)</string>
+            </array>
+            <key>runAction</key>
+            <string>Item 1</string>
+        </dict>
+    </array>
+    <key>images</key>
+    <string>effect/ui/bang-qi1.png</string>
+    <key>anis</key>
+    <string>bang-qi</string>
+</dict>

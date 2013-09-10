@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict>
+    <key>origin</key>
+    <string>{480,320}</string>
+    <key>maxtime</key>
+    <string>0.4</string>
+    <key>children</key>
+    <array>
+        <dict>
+            <key>createMethod</key>
+            <dict>
+                <key>imageFile</key>
+                <string>effect/fightbg/sw/sw-gz3-1.png</string>
+            </dict>
+            <key>initProperty</key>
+            <dict>
+                <key>pos</key>
+                <string>{480,320}</string>
+            </dict>
+            <key>frames</key>
+            <array>
+                <dict>
+                    <key>transit_type</key>
+                    <string>1</string>
+                    <key>start_time</key>
+                    <string>0</string>
+                    <key>during_time</key>
+                    <string>0</string>
+                    <key>actions</key>
+                    <array>
+                        <string>Delay(0)</string>
+                    </array>
+                </dict>
+                <dict>
+                    <key>transit_type</key>
+                    <string>0</string>
+                    <key>start_time</key>
+                    <string>0</string>
+                    <key>during_time</key>
+                    <string>0.4</string>
+                    <key>actions</key>
+                    <array>
+                        <string>MoveBy(0.4,0,3)</string>
+                    </array>
+                </dict>
+            </array>
+            <key>actions</key>
+            <array>
+                <string>Animation(sw-gz3)</string>
+                <string>RepeatForever(Item 0)</string>
+            </array>
+            <key>runAction</key>
+            <string>Item 1</string>
+        </dict>
+    </array>
+    <key>sheetimages</key>
+    <string>ani_images/sw-gz.png</string>
+    <key>anis</key>
+    <string>sw-gz3</string>
+</dict>

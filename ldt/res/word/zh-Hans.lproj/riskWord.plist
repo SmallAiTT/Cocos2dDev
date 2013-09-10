@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>risk_0</key>
+	<string>可打劫次数：</string>
+	<key>risk_1</key>
+	<string>可修炼次数：</string>
+	<key>risk_2</key>
+	<string>修炼时间</string>
+	<key>risk_3</key>
+	<string>金币奖励</string>
+	<key>risk_4</key>
+	<string>声望奖励</string>
+	<key>risk_5</key>
+	<string>祝福加成</string>
+	<key>risk_6</key>
+	<string>修炼</string>
+	<key>risk_7</key>
+	<string>拦截时间：</string>
+	<key>risk_8</key>
+	<string>有机会开启更高级的坐骑</string>
+	<key>mounts_name1</key>
+	<string>坐骑1</string>
+	<key>mounts_name2</key>
+	<string>坐骑2</string>
+	<key>mounts_name3</key>
+	<string>坐骑3</string>
+	<key>mounts_name4</key>
+	<string>坐骑4</string>
+	<key>mounts_name5</key>
+	<string>坐骑5</string>
+	<key>risk_9</key>
+	<string>分钟</string>
+	<key>risk_10</key>
+	<string>被拦截次数</string>
+	<key>risk_11</key>
+	<string>拦截获得</string>
+	<key>risk_12</key>
+	<string>召唤者:</string>
+	<key>risk_13</key>
+	<string>修炼所得:+@%</string>
+	<key>risk_14</key>
+	<string>协助者:</string>
+	<key>next_call</key>
+	<string>下次召唤成员</string>
+	<key>queue_tip</key>
+	<string>提示：#000000下次召唤还需超越 #ff0000@ #000000个玩家。</string>
+	<key>no_use</key>
+	<string>未使用</string>
+	<key>risk_queue_rule</key>
+	<string>佛光预约队列规则
+1.可以预约，最多有9次
+2.可以加价插队，位置越靠前能越早招佛光，每次取前三不同玩家预约
+3.成功招佛光即可获得1000声望，并且得到期间完成修炼的所有人5%的声望抽成</string>
+</dict>
+</plist>

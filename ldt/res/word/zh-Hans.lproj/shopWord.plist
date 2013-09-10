@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Explanation0_title</key>
+	<string>声望币兑换</string>
+	<key>Explanation1_title</key>
+	<string>礼券兑换</string>
+	<key>Explanation2_title</key>
+	<string>兑换码</string>
+	<key>Explanation0_content</key>
+	<string>1.用户每获得1点声望将对应获得1点声望币。
+2.消耗声望币，不会影响玩家声望数量和声望排行。</string>
+	<key>Explanation1_content</key>
+	<string>1.参加世界比武和比武押注活动可以获得大量礼券。
+2.参加帮派战可以获得大量礼券。</string>
+	<key>Explanation2_content</key>
+	<string>欢迎光临！请在输入框中准确填写您的兑换码，系统验证通过后，您将获得相应的奖品。兑换码不可以重复使用。</string>
+	<key>input_code</key>
+	<string>请输入兑换码</string>
+	<key>code_limit</key>
+	<string>12位字母或数字，不区分大小写</string>
+</dict>
+</plist>

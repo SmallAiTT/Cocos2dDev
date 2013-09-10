@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1</key>
+	<string>#FDF1D3你对#C5800C@#FDF1D3发起了挑战,你获胜了.</string>
+	<key>10</key>
+	<string>#C5800C@#FDF1D3#FDF1D3对你发起了挑战,你获胜了.</string>
+	<key>2</key>
+	<string>#FDF1D3你对#C5800C@#FDF1D3发起了挑战,你失败了.</string>
+	<key>20</key>
+	<string>#C5800C@#FDF1D3#FDF1D3对你发起了挑战,你失败了.</string>
+	<key>rev_win1</key>
+	<string>#FDF1D3你对#C5800C@#FDF1D3发起了复仇,你获胜了.</string>
+	<key>rev_win2</key>
+	<string>#C5800C@#FDF1D3#FDF1D3对你发起了复仇,你获胜了.</string>
+	<key>rev_lost1</key>
+	<string>#FDF1D3你对#C5800C@#FDF1D3发起了复仇,你失败了.</string>
+	<key>rev_lost2</key>
+	<string>#C5800C@#FDF1D3#FDF1D3对你发起了复仇,你失败了.</string>
+	<key>3</key>
+	<string>我的排名：</string>
+	<key>4</key>
+	<string>我的声望：</string>
+	<key>5</key>
+	<string>冷却时间：</string>
+	<key>6</key>
+	<string>今日可挑战次数：</string>
+</dict>
+</plist>

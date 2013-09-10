@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>16huoquan2</key>
+	<array>
+		<string>0.05</string>
+		<string>effect/16/16-huoquan8.png</string>
+		<string>effect/16/16-huoquan7.png</string>
+		<string>effect/16/16-huoquan6.png</string>
+		<string>effect/16/16-huoquan5.png</string>
+		<string>effect/16/16-huoquan4.png</string>
+		<string>effect/16/16-huoquan3.png</string>
+		<string>effect/16/16-huoquan2.png</string>
+		<string>effect/16/16-huoquan1.png</string>
+	</array>
+</dict>
+</plist>

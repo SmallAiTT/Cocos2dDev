@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>particle_fire</key>
+	<dict>
+		<key>fileName</key>
+		<string>particle/1-buff.plist</string>
+		<key>initProperty</key>
+		<dict>
+			<key>tag</key>
+			<string>1</string>
+			<key>pos</key>
+			<string>{0,0}</string>
+			<key>par_is_stop</key>
+			<string>1</string>
+			<key>par_pos_type</key>
+			<string>1</string>
+		</dict>
+		<key>actions</key>
+		<array>
+			<string>Delay(0.5)</string>
+			<string>ParStart()</string>
+			<string>Sequence(Item 0,Item 1)</string>
+		</array>
+		<key>runAction</key>
+		<string>Item 2</string>
+		<key>type</key>
+		<string>Particle</string>
+	</dict>
+</dict>
+</plist>

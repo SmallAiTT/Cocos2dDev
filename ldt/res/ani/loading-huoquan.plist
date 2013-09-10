@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>loading-huoquan</key>
+	<array>
+		<string>0.05</string>
+		<string>effect/loading/huoquan1.png</string>
+		<string>effect/loading/huoquan2.png</string>
+		<string>effect/loading/huoquan3.png</string>
+		<string>effect/loading/huoquan4.png</string>
+		<string>effect/loading/huoquan5.png</string>
+		<string>effect/loading/huoquan6.png</string>
+		<string>effect/loading/huoquan7.png</string>
+		<string>effect/loading/huoquan8.png</string>
+		<string>effect/loading/huoquan9.png</string>
+		<string>effect/loading/huoquan10.png</string>
+	</array>
+</dict>
+</plist>

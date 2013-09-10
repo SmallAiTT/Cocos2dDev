@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>weapon</key>
+	<string>XXXX</string>
+	<key>STR</key>
+	<string>XXXX</string>
+	<key>AGI</key>
+	<string>XXXX</string>
+	<key>STA</key>
+	<string>XXXX</string>
+	<key>TranSTR</key>
+	<string>XXXX</string>
+	<key>TranAGI</key>
+	<string>XXXX</string>
+	<key>TranSTA</key>
+	<string>XXXX</string>
+	<key>CoatSkill1</key>
+	<string>XXXX</string>
+	<key>CoatSkill2</key>
+	<string>XXXX</string>
+	<key>CoatSkill3</key>
+	<string>XXXX</string>
+	<key>CoatSkill4</key>
+	<string>XXXX</string>
+	<key>CoatSkill5</key>
+	<string>XXXX</string>
+	<key>CoatSkill6</key>
+	<string>XXXX</string>
+	<key>CoatSkill7</key>
+	<string>XXXX</string>
+	<key>CoatSkill8</key>
+	<string>XXXX</string>
+	<key>CoatSkill9</key>
+	<string>XXXX</string>
+	<key>CoatSkill10</key>
+	<string>XXXX</string>
+	<key>addskill</key>
+	<string>XXXX</string>
+</dict>
+</plist>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>02dubao</key>
+	<array>
+		<string>0.05</string>
+		<string>effect/02/02dubao1.png</string>
+		<string>effect/02/02dubao2.png</string>
+		<string>effect/02/02dubao3.png</string>
+		<string>effect/02/02dubao4.png</string>
+		<string>effect/02/02dubao5.png</string>
+		<string>effect/02/02dubao6.png</string>
+		<string>effect/02/02dubao7.png</string>
+	</array>
+</dict>
+</plist>

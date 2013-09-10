@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectPlay</key>
+	<dict>
+		<key>actSetPath</key>
+		<string>fightScript/ActionSet/Effect_Action/SkillAttack1_action.plist</string>
+		<key>nodeType</key>
+		<string>sprite</string>
+		<key>tag</key>
+		<string>501</string>
+		<key>scaleX</key>
+		<string>1</string>
+		<key>position</key>
+		<string>200,190</string>
+		<key>zOrder</key>
+		<string>14</string>
+	</dict>
+	<key>param</key>
+	<dict>
+		<key>bolResetData</key>
+		<string>0</string>
+		<key>time</key>
+		<string>2.1</string>
+	</dict>
+</dict>
+</plist>

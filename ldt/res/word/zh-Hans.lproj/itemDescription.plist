@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>10001</key>
+	<string>装备强化时可以放入此物品免费强化，只能为30级以下（包含30级）装备进行免费强化。</string>
+	<key>10002</key>
+	<string>装备强化时可以放入此物品免费强化，只能为31级-60级装备进行免费强化。</string>
+	<key>10003</key>
+	<string>装备强化时可以放入此物品免费强化，只能为61级-90级装备进行免费强化。</string>
+	<key>10004</key>
+	<string>装备洗炼时可以放入此物品免费洗炼，只能为30级以下（包含30级）装备进行免费洗炼。</string>
+	<key>10005</key>
+	<string>装备洗炼时可以放入此物品免费洗炼，只能为31级-60级装备进行免费洗炼。</string>
+	<key>10006</key>
+	<string>装备洗炼时可以放入此物品免费洗炼，只能为61级-90级装备进行免费洗炼。</string>
+	<key>10007</key>
+	<string>装备打孔时可以放入此物品免费打孔，只能为30级以下（包含30级）装备进行免费打孔。</string>
+	<key>10008</key>
+	<string>装备打孔时可以放入此物品免费打孔，只能为31级-60级装备进行免费打孔。</string>
+	<key>10009</key>
+	<string>装备打孔时可以放入此物品免费打孔，只能为61级-90级装备进行免费打孔。</string>
+	<key>10010</key>
+	<string>xx</string>
+	<key>10011</key>
+	<string>xx</string>
+	<key>10012</key>
+	<string>xx</string>
+	<key>10013</key>
+	<string>世界喊话（聊天）需要消耗的物品。</string>
+	<key>10014</key>
+	<string>镶嵌到武器上或者防具上将会提升装备的能力。</string>
+	<key>10015</key>
+	<string>镶嵌到武器上或者防具上将会提升装备的能力。</string>
+	<key>10016</key>
+	<string>镶嵌到武器上或者防具上将会提升装备的能力。</string>
+	<key>10017</key>
+	<string>将2颗该净化石作为催化材料，将能100%保证外套在合成升级。适用范围：+0至+9。</string>
+	<key>10018</key>
+	<string>将2颗该净化石作为催化材料，将能100%保证外套在合成升级。适用范围：+10至+19。</string>
+	<key>10019</key>
+	<string>将2颗该净化石作为催化材料，将能100%保证外套在合成升级。适用范围：+20至+29。</string>
+	<key>10020</key>
+	<string>将2颗该净化石作为催化材料，将能100%保证宠物在合成中升级。适用范围：+0至+9。</string>
+	<key>10021</key>
+	<string>将2颗该净化石作为催化材料，将能100%保证宠物在合成中升级。适用范围：+10至+19。</string>
+	<key>10022</key>
+	<string>将2颗该净化石作为催化材料，将能100%保证宠物在合成中升级。适用范围：+20至+29。</string>
+	<key>10023</key>
+	<string>将2颗该重铸符作为催化材料，将能100%保证装备在“重铸”中转化成比当前高10级的装备。适用范围：1级-30级。</string>
+	<key>10024</key>
+	<string>将2颗该重铸符作为催化材料，将能100%保证装备在“重铸”中转化成比当前高10级的装备。适用范围：31级-60级。</string>
+	<key>10025</key>
+	<string>将2颗该重铸符作为催化材料，将能100%保证装备在“重铸”中转化成比当前高10级的装备。适用范围：61级-90级。</string>
+	<key>10026</key>
+	<string>锁定宠物的某个技能，使其在一次领悟或者学习中不会被替换掉。</string>
+	<key>10027</key>
+	<string>宠物书：主人受到攻击时有20%几率进行协同攻击，对敌方造成主人基础攻击75%的伤害。在宠物小屋中通过学习该书，可以让宠物习得此技能。</string>
+	<key>10028</key>
+	<string>宠物书：主人受到攻击时有10%几率替主人抵挡本次攻击。在宠物小屋中通过学习该书，可以让宠物习得此技能。</string>
+	<key>10029</key>
+	<string>保证1小时内训练位置不会被他人抢占，每次训练只能使用1次。</string>
+	<key>10030</key>
+	<string>保证本次训练位置不会被他人抢占。</string>
+	<key>10031</key>
+	<string>提升装备铭刻成功概率的道具，多个使用效果叠加。</string>
+	<key>10032</key>
+	<string>在修仙台可免费刷新1次坐骑。</string>
+	<key>10033</key>
+	<string>在修仙台可免费召唤1次飞碟</string>
+	<key>10034</key>
+	<string>在修仙台修炼中，可免费1次立即完成修炼。</string>
+	<key>10035</key>
+	<string>在宠物小屋可免费刷新1次食物。</string>
+	<key>10036</key>
+	<string>在宠物小屋可免费刷新1次人参。</string>
+	<key>10038</key>
+	<string>额外增加1次寻宝的挖宝次数。</string>
+	<key>10039</key>
+	<string>额外增加1次寻宝的改运次数。</string>
+	<key>10040</key>
+	<string>在星运占卜中，可免费进行1次魔女占卜。</string>
+	<key>10041</key>
+	<string>在星运占卜中，可免费进行1次巫师占卜。</string>
+	<key>10042</key>
+	<string>在星运占卜中，可免费进行1次先知占卜。</string>
+	<key>10101</key>
+	<string>“端午节”活动卡牌（端）
+集齐“端”“午”“节”三张卡牌即可通过合成系统来获得“端午金粽”，内含“碎片”“传说外套”等大礼。</string>
+	<key>10102</key>
+	<string>“端午节”活动卡牌（午）
+集齐“端”“午”“节”三张卡牌即可通过合成系统来获得“端午金粽”，内含“碎片”“传说外套”等大礼。</string>
+	<key>10103</key>
+	<string>“端午节”活动卡牌（节）
+集齐“端”“午”“节”三张卡牌即可通过合成系统来获得“端午金粽”，内含“碎片”“传说外套”等大礼。</string>
+	<key>40001</key>
+	<string>随机开出一件初级外套</string>
+	<key>40002</key>
+	<string>随机开出一件中级外套</string>
+	<key>40003</key>
+	<string>随机开出一件高级外套</string>
+	<key>40099</key>
+	<string>随机开出一件传说外套</string>
+	<key>40004</key>
+	<string>随机开出一只初级宠物</string>
+	<key>40005</key>
+	<string>随机开出一只中级宠物</string>
+	<key>40006</key>
+	<string>随机开出一只高级宠物</string>
+	<key>boxdesc1</key>
+	<string>随机开出以下物品中的一种：</string>
+	<key>boxdesc2</key>
+	<string>打开将获得以下物品：</string>
+	<key>40010</key>
+	<string>打开将获得一定数量的金币</string>
+	<key>40011</key>
+	<string>打开将获得一定数量的钻石</string>
+	<key>40007</key>
+	<string>打开将获得10个蓝宝石</string>
+	<key>40008</key>
+	<string>打开将获得10个黄宝石</string>
+	<key>40009</key>
+	<string>打开将获得10个红宝石</string>
+	<key>40014</key>
+	<string>打开将获得少量经验</string>
+	<key>40015</key>
+	<string>打开将获得很多经验</string>
+	<key>40016</key>
+	<string>打开将获得大量经验</string>
+	<key>40200</key>
+	<string>打开将随机获得1件+8到+21的高级外套</string>
+	<key>40201</key>
+	<string>打开将随机获得1只+3到+12的宠物</string>
+	<key>40800</key>
+	<string>每日可以打开一次，每次随机开出10000-100000不定额的金币，有效期30日。</string>
+	<key>40801</key>
+	<string>每日可以打开一次，每次随机开出1件中级外套，有效期30日，从获得该宝物之日算起。</string>
+	<key>40802</key>
+	<string>每日可以打开一次，每次随机开出1颗宝石，有效期30日，从获得该宝物之日算起。</string>
+	<key>40803</key>
+	<string>每日可以打开一次，每次随机开出一只宠物，有效期30日，从获得该宝物之日算起。</string>
+	<key>40804</key>
+	<string>每日可以打开一次，每次随机开出1件高级外套，有效期30日，从获得该宝物之日算起。</string>
+	<key>41001</key>
+	<string>愚人节神秘礼物</string>
+	<key>41002</key>
+	<string>愚人节神秘礼物</string>
+	<key>40040</key>
+	<string>打开宝箱，将在以下物品中随机获得1件：
+大额金币
+大额钻石
+大量礼券
+大量声望
+大量体力
+高级外套
++N高级外套
+高级强化
+高级洗练符
+训练符
+大量经验
+宠物
++N宠物
+宠物锁
+铭刻水晶
+各色宝石
+幸运宝箱，祝君好运！</string>
+	<key>40900</key>
+	<string>打开获得+@的@级适配当前外套的武器</string>
+	<key>40901</key>
+	<string>打开获得+@的@级装备</string>
+	<key>40902</key>
+	<string>打开获得+@的“@”外套</string>
+	<key>40903</key>
+	<string>打开获得+@并带有@点能量的“@”宠物</string>
+	<key>40916</key>
+	<string>打开获得当前外套可装备的16级武器一把</string>
+	<key>40926</key>
+	<string>打开获得当前外套可装备的26级武器一把</string>
+	<key>49000</key>
+	<string>使用完该道具，在下次登录游戏时可进行一次更名。</string>
+</dict>
+</plist>

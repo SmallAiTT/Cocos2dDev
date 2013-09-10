@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>10daoguang</key>
+	<array>
+		<string>0.05</string>
+		<string>effect/10/10-daoguang1.png</string>
+		<string>effect/10/10-daoguang2.png</string>
+		<string>effect/10/10-daoguang3.png</string>
+		<string>effect/10/10-daoguang4.png</string>
+		<string>effect/10/10-daoguang5.png</string>
+		<string>effect/10/10-daoguang6.png</string>
+		<string>effect/10/10-daoguang7.png</string>
+		<string>effect/10/10-daoguang8.png</string>
+		<string>effect/10/10-daoguang9.png</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>turn_type0</key>
+	<string>魔女占卜</string>
+	<key>turn_type1</key>
+	<string>巫师占卜</string>
+	<key>turn_type2</key>
+	<string>先知占卜</string>
+	<key>my_reward</key>
+	<string>#FDEECA恭喜您获得 #@@*@</string>
+	<key>my_reward_title</key>
+	<string>累计奖励</string>
+	<key>turn_count</key>
+	<string>@次数：@</string>
+	<key>btn_divine</key>
+	<string>占卜@次</string>
+	<key>notice0</key>
+	<string>#1EAFFA@ #FDEECA运气极佳，通过 #FDAE2A@ #FDEECA获得 #@@*@</string>
+	<key>notice1</key>
+	<string>@ 运气极佳，通过 @ 获得 @*@</string>
+	<key>get_reward1</key>
+	<string>领取成功，一共领取@个奖品，请到背包中查收物品。</string>
+	<key>get_reward2</key>
+	<string>领取失败，没有奖品可以领取或背包已满。</string>
+	<key>divine10_help</key>
+	<string>点击占卜10次，将在占卜过程中额外获得1~2次双倍奖励。</string>
+	<key>reward0</key>
+	<string>外套</string>
+	<key>reward1</key>
+	<string>宠物</string>
+	<key>reward2</key>
+	<string>材料</string>
+	<key>reward3</key>
+	<string>金币</string>
+	<key>reward4</key>
+	<string>体力</string>
+	<key>reward5</key>
+	<string>声望</string>
+	<key>reward6</key>
+	<string>钻石</string>
+	<key>reward7</key>
+	<string>经验</string>
+	<key>reward8</key>
+	<string>星尘</string>
+	<key>reward9</key>
+	<string>优惠</string>
+	<key>reward10</key>
+	<string>稀有</string>
+	<key>reward11</key>
+	<string>活动</string>
+	<key>reward_subtitle</key>
+	<string>(未放入背包)</string>
+	<key>btn_free_divine</key>
+	<string>免费占卜</string>
+</dict>
+</plist>

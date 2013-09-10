@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>share_1</key>
+	<string>分享测试</string>
+	<key>share_succeed</key>
+	<string>分享成功</string>
+	<key>share_fail</key>
+	<string>分享失败</string>
+	<key>logout</key>
+	<string>注销</string>
+	<key>cancelAllAuthorize</key>
+	<string>取消授权</string>
+	<key>cancelAllAuthorize2</key>
+	<string>确定要取消授权吗？</string>
+	<key>share_atlas</key>
+	<string>好基友当佣兵，同心协力战囧怪！三五回合之后，小怪们跑的跑，屎的屎，妥妥哒！我在#乱斗堂# ，等你并肩战！</string>
+	<key>share_tower</key>
+	<string>无尽恶魔塔，一层一怪物。技能各不同，越打越精神！我在#乱斗堂# ，已经攀上第%d层了，你在几层仰望我？</string>
+	<key>share_skill</key>
+	<string>我正在玩年度最萌最劲爆的RPG互动网游#乱斗堂# ！拳打偃月关公，脚踢赤兔吕布，快来看看我强力的技能搭配吧！</string>
+	<key>share_equip</key>
+	<string>路漫漫其修远兮，独强力而求败！小show下我在#乱斗堂# 里的装备，想比划比划？好胆你就来！</string>
+	<key>share_att</key>
+	<string>百变属性，混搭出数十种流派玩法。相互克制，其乐无穷！我正在玩#乱斗堂# ，小show下我的属性！快来试试打败我吧！</string>
+	<key>share_soul</key>
+	<string>上古勇士的魂魄，只有最强者才配拥有！当它注入我的体内时，我顿时碉堡了！我在#乱斗堂# ，我是最强者！你呢？</string>
+	<key>share_slave</key>
+	<string>想折磨就挥鞭，心情好就施舍一个安抚，我的奴隶任我为所欲为！我是#乱斗堂# 里最牛奴隶主，奋起反抗吧我的奴隶们！</string>
+	<key>share_treasure</key>
+	<string>挖宝挖出大黄金，黄金里面藏外衣。逆天改运真给力，大便也能变黄金！请转告我的朋友们，我没空！我在#乱斗堂# 寻宝呢！</string>
+	<key>share_pet</key>
+	<string>看我的旷世神宠既萌又猛！不要太羡慕哦，赶快加入#乱斗堂# ，让我们比一比，谁才是最强驯宠者！</string>
+	<key>share_tour</key>
+	<string>#乱斗堂# 世界比武，萌系角色大乱斗！看关羽激情大战互撸娃，屌丝逆袭气死东方菇凉！有人比武有人下注，掐指这么一算，恩，下届冠军就是我！</string>
+	<key>share_arena</key>
+	<string>高人一出手，就知有没有！这不，又趴了一个！我在#乱斗堂# 里虐菜，求切磋求挑战！</string>
+	<key>weibo_id</key>
+	<string>@乱斗堂</string>
+	<key>tencent_id</key>
+	<string>@luandoutang</string>
+	<key>wechat_id</key>
+	<string>#乱斗堂#</string>
+</dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gu-bowen</key>
+	<array>
+		<string>0.1</string>
+		<string>effect/34/34bowen5.png</string>
+		<string>effect/34/34bowen4.png</string>
+		<string>effect/34/34bowen3.png</string>
+		<string>effect/34/34bowen2.png</string>
+		<string>effect/34/34bowen1.png</string>
+	</array>
+</dict>
+</plist>

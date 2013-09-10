@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1</key>
+	<string>挖宝剩余次数：</string>
+	<key>6</key>
+	<string>免费改运次数：</string>
+	<key>2</key>
+	<string>获得金币</string>
+</dict>
+</plist>

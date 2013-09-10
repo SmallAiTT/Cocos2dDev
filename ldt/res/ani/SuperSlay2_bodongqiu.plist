@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SuperSlay2_bodongqiu</key>
+	<array>
+		<string>0.05</string>
+		<string>effect/skill_SuperSlay_Qigong wave/bodongqiu1.png</string>
+		<string>effect/skill_SuperSlay_Qigong wave/bodongqiu2.png</string>
+		<string>effect/skill_SuperSlay_Qigong wave/bodongqiu3.png</string>
+		<string>effect/skill_SuperSlay_Qigong wave/bodongqiu4.png</string>
+		<string>effect/skill_SuperSlay_Qigong wave/bodongqiu5.png</string>
+		<string>effect/skill_SuperSlay_Qigong wave/bodongqiu6.png</string>
+		<string>effect/skill_SuperSlay_Qigong wave/bodongqiu7.png</string>
+		<string>effect/skill_SuperSlay_Qigong wave/bodongqiu8.png</string>
+	</array>
+</dict>
+</plist>

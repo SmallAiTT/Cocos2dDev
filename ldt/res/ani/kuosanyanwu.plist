@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>kuosanyanwu</key>
+	<array>
+		<string>0.05</string>
+		<string>effect/01/01-huoquishu-dibanpensheyan1.png</string>
+		<string>effect/01/01-huoquishu-dibanpensheyan2.png</string>
+		<string>effect/01/01-huoquishu-dibanpensheyan3.png</string>
+		<string>effect/01/01-huoquishu-dibanpensheyan4.png</string>
+		<string>effect/01/01-huoquishu-dibanpensheyan5.png</string>
+		<string>effect/01/01-huoquishu-dibanpensheyan6.png</string>
+		<string>effect/01/01-huoquishu-dibanpensheyan7.png</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>param</key>
+	<dict>
+		<key>bolResetData</key>
+		<string>1</string>
+	</dict>
+	<key>roleHead</key>
+	<dict>
+		<key>nodeType</key>
+		<string>sprite</string>
+		<key>position</key>
+		<string>200,190</string>
+		<key>tag</key>
+		<string>0</string>
+		<key>zOrder</key>
+		<string>5</string>
+	</dict>
+	<key>pet</key>
+	<dict>
+		<key>nodeType</key>
+		<string>sprite</string>
+		<key>position</key>
+		<string>68,214</string>
+		<key>tag</key>
+		<string>100</string>
+		<key>zOrder</key>
+		<string>4</string>
+	</dict>
+	<key>listValues</key>
+	<dict>
+		<key>nodeType</key>
+		<string>sprite</string>
+		<key>position</key>
+		<string>200,240</string>
+		<key>tag</key>
+		<string>2</string>
+		<key>zOrder</key>
+		<string>20</string>
+	</dict>
+</dict>
+</plist>

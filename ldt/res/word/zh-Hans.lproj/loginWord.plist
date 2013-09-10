@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>user_name</key>
+	<string>用户名</string>
+	<key>user_password</key>
+	<string>密    码</string>
+	<key>user_password2</key>
+	<string>确认密码</string>
+	<key>cur_account</key>
+	<string>当前角色：</string>
+	<key>cur_account2</key>
+	<string>当前帐号：</string>
+	<key>no_account</key>
+	<string>未绑定</string>
+	<key>cur_server</key>
+	<string>当前服务器：</string>
+	<key>cur_version</key>
+	<string>版本号：</string>
+	<key>system_setting1</key>
+	<string>音效</string>
+	<key>system_setting2</key>
+	<string>音乐</string>
+	<key>system_setting3</key>
+	<string>省电</string>
+	<key>system_setting4</key>
+	<string>片头</string>
+	<key>old_password</key>
+	<string>旧密码</string>
+	<key>new_password</key>
+	<string>新密码</string>
+	<key>new_password2</key>
+	<string>确认新密码</string>
+	<key>mail</key>
+	<string>邮箱</string>
+	<key>register_warning1</key>
+	<string>您目前为游客模式，误删游戏将丢失角色数据。建议您花几秒钟时间注册帐号或将角色捆绑至已有帐号后继续游戏。</string>
+	<key>register_warning2</key>
+	<string>您目前为游客模式，账号存在丢失风险，请注册账号或将角色捆绑至已有帐号后再充值。</string>
+	<key>new_role_name</key>
+	<string>新的昵称</string>
+	<key>new_role_name2</key>
+	<string>确认新的昵称</string>
+	<key>change_name_tip</key>
+	<string>您目前拥有1次更名机会，更名一旦生效则无法重置，请谨慎填写！</string>
+</dict>
+</plist>

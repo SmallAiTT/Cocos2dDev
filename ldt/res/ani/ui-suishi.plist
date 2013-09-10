@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ui-suishi</key>
+	<array>
+		<string>0.1</string>
+		<string>effect/ui/suishi1.png</string>
+		<string>effect/ui/suishi2.png</string>
+		<string>effect/ui/suishi3.png</string>
+		<string>effect/ui/suishi4.png</string>
+	</array>
+</dict>
+</plist>

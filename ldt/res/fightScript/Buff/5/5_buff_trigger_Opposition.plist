@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>param</key>
+	<dict>
+		<key>bolResetData</key>
+		<string>0</string>
+		<key>time</key>
+		<string>1</string>
+	</dict>
+	<key>roleHead</key>
+	<dict>
+		<key>action</key>
+		<string>(sequence:(repeat:(sequence:(moveBy:0.01,-5,0);(moveBy:0.01,5,0);(moveBy:0.01,5,0);(moveBy:0.01,-5,0));5))</string>
+		<key>nodeType</key>
+		<string>sprite</string>
+		<key>tag</key>
+		<string>0</string>
+	</dict>
+</dict>
+</plist>

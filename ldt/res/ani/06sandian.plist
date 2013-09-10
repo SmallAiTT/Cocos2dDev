@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>06sandian</key>
+	<array>
+		<string>0.05</string>
+		<string>effect/06/06-sandian1.png</string>
+		<string>effect/06/06-sandian2.png</string>
+		<string>effect/06/06-sandian3.png</string>
+		<string>effect/06/06-sandian4.png</string>
+	</array>
+</dict>
+</plist>

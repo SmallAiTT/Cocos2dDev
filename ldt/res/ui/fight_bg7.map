@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict>
+    <key>mapInfo</key>
+    <dict>
+        <key>mapName</key>
+        <string>mapName</string>
+        <key>mapSize</key>
+        <string>{100,100}</string>
+        <key>backgroundColor</key>
+        <string>{128,128,128,255}</string>
+        <key>gridInfo</key>
+        <string>{960,640,1,1}</string>
+    </dict>
+    <key>nodeGraph</key>
+    <dict>
+        <key>type</key>
+        <string>Layer</string>
+        <key>children</key>
+        <array>
+            <dict>
+                <key>type</key>
+                <string>Sprite</string>
+                <key>initProperty</key>
+                <dict>
+                    <key>pos</key>
+                    <string>{-98,715}</string>
+                    <key>anchor</key>
+                    <string>{0,0}</string>
+                    <key>tag</key>
+                    <string>0</string>
+                    <key>var</key>
+                    <string>main_bg</string>
+                    <key>imageFile</key>
+                    <string>fightbg/bg7_1.png</string>
+                    <key>textureRect</key>
+                    <string>{0,0,1024,788}</string>
+                </dict>
+                <key>children</key>
+                <array>
+                    <dict>
+                        <key>type</key>
+                        <string>Sprite</string>
+                        <key>initProperty</key>
+                        <dict>
+                            <key>pos</key>
+                            <string>{324,-702}</string>
+                            <key>tag</key>
+                            <string>1</string>
+                            <key>imageFile</key>
+                            <string>fightbg/bg7_3.png</string>
+                        </dict>
+                        <key>actions</key>
+                        <array>
+                            <string>Delay(5)</string>
+                            <string>Blink(1,5)</string>
+                            <string>Sequence(Item 0,Item 1)</string>
+                            <string>RepeatForever(Item 2)</string>
+                        </array>
+                        <key>runAction</key>
+                        <string>Item 3</string>
+                    </dict>
+                    <dict>
+                        <key>type</key>
+                        <string>Sprite</string>
+                        <key>initProperty</key>
+                        <dict>
+                            <key>pos</key>
+                            <string>{753,-660}</string>
+                            <key>tag</key>
+                            <string>2</string>
+                            <key>imageFile</key>
+                            <string>fightbg/bg7_2.png</string>
+                        </dict>
+                        <key>actions</key>
+                        <array>
+                            <string>FadeOut(5)</string>
+                            <string>FadeIn(5)</string>
+                            <string>Sequence(Item 0,Item 1)</string>
+                            <string>RepeatForever(Item 2)</string>
+                        </array>
+                        <key>runAction</key>
+                        <string>Item 3</string>
+                    </dict>
+                    <dict>
+                        <key>type</key>
+                        <string>Sprite</string>
+                        <key>initProperty</key>
+                        <dict>
+                            <key>pos</key>
+                            <string>{406,-527}</string>
+                            <key>tag</key>
+                            <string>3</string>
+                            <key>imageFile</key>
+                            <string>fightbg/bg7_5.png</string>
+                        </dict>
+                        <key>actions</key>
+                        <array>
+                            <string>Delay(3)</string>
+                            <string>FadeOut(3)</string>
+                            <string>FadeIn(3)</string>
+                            <string>Sequence(Item 0,Item 1,Item 2)</string>
+                            <string>RepeatForever(Item 3)</string>
+                        </array>
+                        <key>runAction</key>
+                        <string>Item 4</string>
+                    </dict>
+                    <dict>
+                        <key>type</key>
+                        <string>Sprite</string>
+                        <key>initProperty</key>
+                        <dict>
+                            <key>pos</key>
+                            <string>{439,-617}</string>
+                            <key>tag</key>
+                            <string>4</string>
+                            <key>imageFile</key>
+                            <string>fightbg/bg7_4.png</string>
+                        </dict>
+                        <key>actions</key>
+                        <array>
+                            <string>Delay(7)</string>
+                            <string>Blink(1,4)</string>
+                            <string>Sequence(Item 0,Item 1)</string>
+                            <string>RepeatForever(Item 2)</string>
+                        </array>
+                        <key>runAction</key>
+                        <string>Item 3</string>
+                    </dict>
+                    <dict>
+                        <key>type</key>
+                        <string>Sprite</string>
+                        <key>initProperty</key>
+                        <dict>
+                            <key>pos</key>
+                            <string>{413,-563}</string>
+                            <key>tag</key>
+                            <string>0</string>
+                            <key>imageFile</key>
+                            <string>fightbg/bg7_6.png</string>
+                        </dict>
+                        <key>actions</key>
+                        <array>
+                            <string>FadeOut(1)</string>
+                            <string>FadeIn(1)</string>
+                            <string>Sequence(Item 0,Item 1)</string>
+                            <string>RepeatForever(Item 2)</string>
+                        </array>
+                        <key>runAction</key>
+                        <string>Item 3</string>
+                    </dict>
+                    <dict>
+                        <key>type</key>
+                        <string>Sprite</string>
+                        <key>initProperty</key>
+                        <dict>
+                            <key>pos</key>
+                            <string>{1090,-395}</string>
+                            <key>rotation</key>
+                            <string>270</string>
+                            <key>tag</key>
+                            <string>0</string>
+                            <key>imageFile</key>
+                            <string>fightbg/bg7_1.png</string>
+                            <key>textureRect</key>
+                            <string>{0,788,788,132}</string>
+                        </dict>
+                    </dict>
+                </array>
+            </dict>
+        </array>
+    </dict>
+    <key>images</key>
+    <string>fightbg/bg7_1.png,fightbg/bg7_3.png,fightbg/bg7_2.png,fightbg/bg7_5.png,fightbg/bg7_4.png,fightbg/bg7_6.png</string>
+</dict>

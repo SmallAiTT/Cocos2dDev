@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arena</key>
+	<string>太棒了！您的成长已经证明了您的实力。接下来您需要接受竞技场的磨练！在那里，您可以与众多勇士交流切磋，以赢得众人的声望。</string>
+	<key>arena2</key>
+	<string>-解锁新的系统-竞技场-</string>
+	<key>mer</key>
+	<string>几日不见，您又有了新的进步!相信此时您已经在征途中结识了不少好伙伴吧？在接下去的日子里，征途将越加艰辛，您需要与伙伴们相互协助，共同战斗！</string>
+	<key>mer-2</key>
+	<string>恭喜哦！此时的您声望已经享誉了整个部族，相信您已经拥有了越来越多的追随者了吧？为了应对越发艰难的征途，您需要更多的伙伴与您同行！</string>
+	<key>mer-2_2</key>
+	<string>-获得了第二个佣兵位-</string>
+	<key>mer2</key>
+	<string>-解锁新的系统-佣兵-</string>
+	<key>pet</key>
+	<string>在漫长的征途之中有一个小伙伴常伴左右是一件多么快乐的事呀～宠物将是您战斗中最强有力的伙伴，所以……请一定要善待它们哦！</string>
+	<key>pet2</key>
+	<string>-解锁新的系统-宠物屋-</string>
+	<key>risk</key>
+	<string>Hello～这么快又见面了哟！现在的您在战力方面已经有很大的提升了，但在紧张的战斗中，也需要偶尔静下心来提升自己的修为。</string>
+	<key>risk2</key>
+	<string>-解锁新的系统-修仙台-</string>
+	<key>slave</key>
+	<string>奴隶不但是您实力的表现，更加是您财富的象征！每个奴隶每天都将为您带来可观的收入。快去奴隶牢一探究竟吧！</string>
+	<key>slave2</key>
+	<string>-解锁新的系统-奴隶牢-</string>
+	<key>soul</key>
+	<string>听说在部族的上古神坛中，居住着数名上古法师。他们能召唤上古勇士的魂魄，拥有了他们的魂魄便等同拥有了他们的英勇。</string>
+	<key>soul2</key>
+	<string>-解锁新的系统-炼魂炉-</string>
+	<key>tower</key>
+	<string>很好！您的实力又到达了一个新的高度了。您已经初步具备了挑战恶魔塔的能力了！但是恶魔塔中层层皆不易，您需要多多观察和总结，以提升您对装备和技能的理解。</string>
+	<key>tower2</key>
+	<string>-解锁新的系统-恶魔塔-</string>
+	<key>train</key>
+	<string>提升自己需要争分夺秒，训练房可以在您休息时继续维持少量的经验提升。可以大大的提升您成长的速度哦！快去看看吧！</string>
+	<key>train2</key>
+	<string>-解锁新的系统-训练房-</string>
+	<key>transform</key>
+	<string>转换小屋是幻想星球最新高科技产品，它可以对您的外套和宠物进行转换，让您得偿所愿。</string>
+	<key>transform2</key>
+	<string>-解锁新的系统-转换小屋-</string>
+	<key>treasure</key>
+	<string>Hi～据说部族西北角有座宝山，山中有许多珍贵的宝藏。您也快去试试运气吧！</string>
+	<key>treasure2</key>
+	<string>-解锁新的系统-寻宝山-</string>
+	<key>chaltour</key>
+	<string>恭喜~您又上了一个新的台阶，是时候和世界高手们过招来提升您对各个流派的理解，星球东北方的十八铜人阵已经开启，快去看看吧！</string>
+	<key>chaltour2</key>
+	<string>-解锁新的系统-十八铜人-</string>
+	<key>star</key>
+	<string>浩瀚的星空暗藏着各式各样的能量。收集星尘，点亮星座，星图的奥秘等你探寻。</string>
+	<key>star2</key>
+	<string>-解锁新的系统-观星坛-</string>
+</dict>
+</plist>

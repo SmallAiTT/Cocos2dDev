@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>yq-shuihua</key>
+	<array>
+		<string>0.1</string>
+		<string>effect/ui/yq-shuihua1.png</string>
+		<string>effect/ui/yq-shuihua2.png</string>
+		<string>effect/ui/yq-shuihua3.png</string>
+		<string>effect/ui/yq-shuihua4.png</string>
+		<string>effect/ui/yq-shuihua5.png</string>
+	</array>
+</dict>
+</plist>

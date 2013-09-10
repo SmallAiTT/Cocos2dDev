@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>3_days_offline</key>
+	<string>小乱温馨提醒您：体力已经为您备足！副本体力减半活动已经开启！您准备好了吗？</string>
+	<key>6_days_offline</key>
+	<string>小乱温馨提醒您：按时吃饭，有益身体健康！酒足饭饱之后别忘记回来与朋友们一起战斗哟！</string>
+	<key>2_weeks_offline</key>
+	<string>小乱：在您离开的日子里，星球上发生许多的变化，有时间请一定回来看看哦！</string>
+	<key>4_weeks_offline</key>
+	<string>《乱斗堂》新全新服务器火爆开启，在线活动精彩不断！让我们重拾荣耀，开始新的征途吧！</string>
+	<key>restart</key>
+	<string>操作成功，游戏将重新启动！</string>
+</dict>
+</plist>

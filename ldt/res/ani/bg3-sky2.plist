@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bg3-sky2</key>
+	<array>
+		<string>0.2</string>
+		<string>effect/fightbg/bg3/sky2.png</string>
+		<string>effect/fightbg/bg3/sky3.png</string>
+		<string>effect/fightbg/bg3/sky4.png</string>
+		<string>effect/fightbg/bg3/sky5.png</string>
+		<string>effect/fightbg/bg3/sky6.png</string>
+		<string>effect/fightbg/bg3/sky1.png</string>
+	</array>
+</dict>
+</plist>

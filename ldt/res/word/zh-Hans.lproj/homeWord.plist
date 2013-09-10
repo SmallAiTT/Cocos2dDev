@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>day1</key>
+	<string>第一天</string>
+	<key>day2</key>
+	<string>第二天</string>
+	<key>day3</key>
+	<string>第三天</string>
+	<key>day4</key>
+	<string>第四天</string>
+	<key>day5</key>
+	<string>第五天</string>
+	<key>day6</key>
+	<string>第六天</string>
+	<key>day7</key>
+	<string>第七天</string>
+	<key>buff0</key>
+	<string>活动期间组队副本体力消耗减半。5点/次。</string>
+	<key>buff1</key>
+	<string>活动期间声望双倍</string>
+	<key>buff2</key>
+	<string>活动期间经验双倍</string>
+	<key>buff3</key>
+	<string>活动期间充值即返钻石</string>
+	<key>buff4</key>
+	<string>活动期间商店所有物品打折优惠</string>
+	<key>buff5</key>
+	<string>在冒险、组队副本和恶魔塔的战斗中，提高角色攻击力和血量上限</string>
+	<key>exgold</key>
+	<string>使用点石成金可以获得大量金币</string>
+	<key>keep</key>
+	<string>不再提醒</string>
+</dict>
+</plist>

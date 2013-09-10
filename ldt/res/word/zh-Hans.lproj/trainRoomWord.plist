@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>normal_room</key>
+	<string>普通训练房</string>
+	<key>vip_room</key>
+	<string>VIP.训练房</string>
+	<key>train0</key>
+	<string>#390a00特训@ #004465(@/@)</string>
+	<key>seat0</key>
+	<string>名      字</string>
+	<key>seat1</key>
+	<string>时      间</string>
+	<key>seat2</key>
+	<string>累计获得</string>
+	<key>seat3</key>
+	<string>保护</string>
+	<key>seat4</key>
+	<string>中止训练</string>
+	<key>seat5</key>
+	<string>每分钟获得经验：</string>
+	<key>seat6</key>
+	<string>抢位子</string>
+	<key>seat7</key>
+	<string>坐下</string>
+	<key>seat8</key>
+	<string>抢位子剩余次数：</string>
+	<key>protect_title</key>
+	<string>选择保护符</string>
+</dict>
+</plist>

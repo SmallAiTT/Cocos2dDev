@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1</key>
+	<string>第</string>
+	<key>2</key>
+	<string>层</string>
+	<key>3</key>
+	<string>第 @ 层</string>
+	<key>4</key>
+	<string>今日爬塔次数：</string>
+	<key>5</key>
+	<string>下层怪物经验：</string>
+	<key>6</key>
+	<string>累计经验：</string>
+	<key>7</key>
+	<string>下一层</string>
+	<key>8</key>
+	<string>快速战斗</string>
+	<key>9</key>
+	<string>领奖离开</string>
+	<key>10</key>
+	<string>暂时离开</string>
+	<key>11</key>
+	<string>获得经验</string>
+	<key>12</key>
+	<string>已到最高层。</string>
+</dict>
+</plist>

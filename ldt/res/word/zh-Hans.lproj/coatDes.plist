@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>20001</key>
+	<string>攻防型</string>
+	<key>20004</key>
+	<string>敏捷型</string>
+	<key>20005</key>
+	<string>敏捷型</string>
+	<key>20006</key>
+	<string>力量型</string>
+	<key>20008</key>
+	<string>敏捷型</string>
+	<key>20009</key>
+	<string>平均型</string>
+	<key>20010</key>
+	<string>力量型</string>
+	<key>20014</key>
+	<string>耐力型</string>
+	<key>20016</key>
+	<string>平均型</string>
+	<key>20020</key>
+	<string>攻防型</string>
+	<key>20025</key>
+	<string>耐力型</string>
+	<key>20026</key>
+	<string>平均型</string>
+	<key>20029</key>
+	<string>耐力型</string>
+</dict>
+</plist>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actSet</key>
+	<dict>
+		<key>initProperty</key>
+		<dict>
+			<key>tag</key>
+			<string>0</string>
+			<key>pos</key>
+			<string>{0,0}</string>
+		</dict>
+		<key>type</key>
+		<string>ActionSpriteSet</string>
+		<key>actSpriteKeySet</key>
+		<string>Act1,Act2,Act3,Act4</string>
+		<key>actSpriteSet</key>
+		<dict>
+			<key>Act1</key>
+			<dict>
+				<key>actFile</key>
+				<string>ssAtt2.act</string>
+				<key>type</key>
+				<string>ActionSprite</string>
+				<key>playType</key>
+				<string>1</string>
+				<key>delayTime</key>
+				<string>1.15</string>
+			</dict>
+			<key>Act2</key>
+			<dict>
+				<key>initProperty</key>
+				<dict>
+					<key>tag</key>
+					<string>0</string>
+					<key>anchor</key>
+					<string>{0.5,0.5}</string>
+					<key>pos</key>
+					<string>{0,0}</string>
+				</dict>
+				<key>actions</key>
+				<array>
+					<string>MoveTo(0,{400,400})</string>
+					<string>MoveTo(0.8,{0,0})</string>
+					<string>RotateBy(0.8,-360)</string>
+					<string>Spawn(Item 1,Item 2)</string>
+					<string>Sequence(Item 0,Item 3)</string>
+				</array>
+				<key>runAction</key>
+				<string>Item 4</string>
+				<key>actFile</key>
+				<string>startFight1-3.act</string>
+				<key>type</key>
+				<string>ActionSprite</string>
+				<key>playType</key>
+				<string>0</string>
+				<key>delayTime</key>
+				<string>0.8</string>
+			</dict>
+			<key>Act3</key>
+			<dict>
+				<key>actFile</key>
+				<string>startFight-3.act</string>
+				<key>type</key>
+				<string>ActionSprite</string>
+				<key>playType</key>
+				<string>3</string>
+			</dict>
+			<key>Act4</key>
+			<dict>
+				<key>actFile</key>
+				<string>wait-3.act</string>
+				<key>type</key>
+				<string>ActionSprite</string>
+				<key>playType</key>
+				<string>2</string>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>40dun</key>
+	<array>
+		<string>0.05</string>
+		<string>effect/40/40-dun1.png</string>
+		<string>effect/40/40-dun2.png</string>
+		<string>effect/40/40-dun3.png</string>
+		<string>effect/40/40-dun4.png</string>
+		<string>effect/40/40-dun5.png</string>
+		<string>effect/40/40-dun6.png</string>
+		<string>effect/40/40-dun7.png</string>
+		<string>effect/40/40-dun8.png</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boss0</key>
+	<string>一键喊话</string>
+	<key>boss1</key>
+	<string>@-@人</string>
+	<key>boss_talk0</key>
+	<string>组队副本【@】红手队开组啦～速来人唷～</string>
+	<key>boss_talk1</key>
+	<string>【@】组队副本开组，刷他个天昏地暗，来各路好手唷～</string>
+	<key>boss_talk2</key>
+	<string>【@】副本现开组，各路神仙来相助，不管饭也不管酒，只管极品都到手～</string>
+	<key>boss_talk3</key>
+	<string>【@】组队副本打手招募中……速来！</string>
+	<key>boss_talk4</key>
+	<string>【@】组队副本稀缺黄金坑位，不来你会后悔的哦。</string>
+	<key>boss_talk5</key>
+	<string>你还在为装备不好而发愁吗？快来参加【@】组队副本吧！专治各种虚弱！</string>
+	<key>boss_talk6</key>
+	<string>小弟【@】来开组，诚邀好手和霸主。声望金币皆浮云，只想套装刷一组～</string>
+	<key>boss_talk7</key>
+	<string>你是风儿我是沙，快来【@】刷一刷。拿完套装拿外套，金币经验齐刷刷！</string>
+	<key>boss_talk8</key>
+	<string>今天天气真不错，一起刷本好快活！【@】正开组中，跪求大神来帮手！</string>
+	<key>boss_talk9</key>
+	<string>【@】组队副本开房中，求基友数名……</string>
+	<key>wipe1</key>
+	<string>消耗完剩余体力</string>
+	<key>wipe10</key>
+	<string>只允许帮派成员加入。</string>
+	<key>wipe11</key>
+	<string>人数</string>
+	<key>wipe12</key>
+	<string>当前人数</string>
+	<key>wipe2</key>
+	<string>@ 轮</string>
+	<key>wipe3</key>
+	<string>自动售出获得物品</string>
+	<key>wipe4</key>
+	<string>第 @ 次战斗</string>
+	<key>wipe5</key>
+	<string>经验：</string>
+	<key>wipe6</key>
+	<string>金钱：</string>
+	<key>wipe7</key>
+	<string>物品：</string>
+	<key>wipe8</key>
+	<string>攻击对象：</string>
+	<key>wipe9</key>
+	<string>限制人数：</string>
+</dict>
+</plist>

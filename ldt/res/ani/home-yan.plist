@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>home-yan</key>
+	<array>
+		<string>0.2</string>
+		<string>effect/home/yan/home-yan1.png</string>
+		<string>effect/home/yan/home-yan2.png</string>
+		<string>effect/home/yan/home-yan3.png</string>
+		<string>effect/home/yan/home-yan4.png</string>
+		<string>effect/home/yan/home-yan5.png</string>
+		<string>effect/home/yan/home-yan6.png</string>
+	</array>
+</dict>
+</plist>

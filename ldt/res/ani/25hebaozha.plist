@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>25hebaozha</key>
+	<array>
+		<string>0.1</string>
+		<string>effect/25/25-hebaozha1.png</string>
+		<string>effect/25/25-hebaozha2.png</string>
+		<string>effect/25/25-hebaozha3.png</string>
+		<string>effect/25/25-hebaozha4.png</string>
+		<string>effect/25/25-hebaozha5.png</string>
+		<string>effect/25/25-hebaozha6.png</string>
+		<string>effect/25/25-hebaozha7.png</string>
+		<string>effect/25/25-hebaozha8.png</string>
+		<string>effect/25/25-hebaozha9.png</string>
+		<string>effect/25/25-hebaozha10.png</string>
+	</array>
+</dict>
+</plist>

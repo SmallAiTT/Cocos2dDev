@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>18shizi</key>
+	<array>
+		<string>0.05</string>
+		<string>effect/18/18-shizi1.png</string>
+		<string>effect/18/18-shizi2.png</string>
+		<string>effect/18/18-shizi3.png</string>
+		<string>effect/18/18-shizi4.png</string>
+		<string>effect/18/18-shizi5.png</string>
+		<string>effect/18/18-shizi6.png</string>
+		<string>effect/18/18-shizi7.png</string>
+		<string>effect/18/18-shizi8.png</string>
+	</array>
+</dict>
+</plist>

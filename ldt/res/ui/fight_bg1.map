@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict>
+    <key>mapInfo</key>
+    <dict>
+        <key>mapName</key>
+        <string>fight_bg</string>
+        <key>mapSize</key>
+        <string>{100,100}</string>
+        <key>backgroundColor</key>
+        <string>{128,128,128,255}</string>
+        <key>gridInfo</key>
+        <string>{960,640,1,1}</string>
+    </dict>
+    <key>nodeGraph</key>
+    <dict>
+        <key>type</key>
+        <string>Layer</string>
+        <key>children</key>
+        <array>
+            <dict>
+                <key>type</key>
+                <string>Sprite</string>
+                <key>initProperty</key>
+                <dict>
+                    <key>pos</key>
+                    <string>{421,322}</string>
+                    <key>tag</key>
+                    <string>0</string>
+                    <key>var</key>
+                    <string>main_bg</string>
+                    <key>imageFile</key>
+                    <string>fightbg/bg1_1.png</string>
+                    <key>textureRect</key>
+                    <string>{0,0,1024,778}</string>
+                </dict>
+                <key>actions</key>
+                <array>
+                    <string>MoveBy(2.0,{0,5})</string>
+                    <string>Reverse(Item 0)</string>
+                    <string>Sequence(Item 0,Item 1)</string>
+                    <string>Repeat(Item 2,3)</string>
+                    <string>MoveBy(3.0,{0,8})</string>
+                    <string>Reverse(Item 4)</string>
+                    <string>Sequence(Item 4,Item 5)</string>
+                    <string>Repeat(Item 6,3)</string>
+                    <string>Sequence(Item 3,Item 7)</string>
+                    <string>RepeatForever(Item 8)</string>
+                </array>
+                <key>runAction</key>
+                <string>Item 9</string>
+                <key>children</key>
+                <array>
+                    <dict>
+                        <key>type</key>
+                        <string>Sprite</string>
+                        <key>initProperty</key>
+                        <dict>
+                            <key>pos</key>
+                            <string>{573,0}</string>
+                            <key>rotation</key>
+                            <string>270</string>
+                            <key>tag</key>
+                            <string>1</string>
+                            <key>imageFile</key>
+                            <string>fightbg/bg1_1.png</string>
+                            <key>textureRect</key>
+                            <string>{0,778,778,122}</string>
+                        </dict>
+                    </dict>
+                </array>
+            </dict>
+            <dict>
+                <key>type</key>
+                <string>Sprite</string>
+                <key>initProperty</key>
+                <dict>
+                    <key>pos</key>
+                    <string>{419,516}</string>
+                    <key>tag</key>
+                    <string>0</string>
+                    <key>var</key>
+                    <string>bg1</string>
+                    <key>imageFile</key>
+                    <string>fightbg/bg1_2.png</string>
+                    <key>textureRect</key>
+                    <string>{0,122,1024,390}</string>
+                </dict>
+                <key>children</key>
+                <array>
+                    <dict>
+                        <key>type</key>
+                        <string>Sprite</string>
+                        <key>initProperty</key>
+                        <dict>
+                            <key>pos</key>
+                            <string>{573,-85}</string>
+                            <key>rotation</key>
+                            <string>270</string>
+                            <key>tag</key>
+                            <string>0</string>
+                            <key>imageFile</key>
+                            <string>fightbg/bg1_2.png</string>
+                            <key>textureRect</key>
+                            <string>{0,0,560,122}</string>
+                        </dict>
+                    </dict>
+                    <dict>
+                        <key>type</key>
+                        <string>Sprite</string>
+                        <key>initProperty</key>
+                        <dict>
+                            <key>pos</key>
+                            <string>{463,-256}</string>
+                            <key>tag</key>
+                            <string>1</string>
+                            <key>imageFile</key>
+                            <string>fightbg/bg1_2.png</string>
+                            <key>textureRect</key>
+                            <string>{924,0,100,122}</string>
+                        </dict>
+                    </dict>
+                </array>
+            </dict>
+        </array>
+    </dict>
+    <key>images</key>
+    <string>fightbg/bg1_1.png,fightbg/bg1_2.png</string>
+</dict>

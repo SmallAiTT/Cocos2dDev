@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>slave0</key>
+	<string>我的身份：</string>
+	<key>slave1</key>
+	<string>奴隶数量：</string>
+	<key>slave2</key>
+	<string>你的主人：</string>
+	<key>slave3</key>
+	<string>服役剩余时间：</string>
+	<key>slave_status1</key>
+	<string>奴隶</string>
+	<key>slave_status0</key>
+	<string>自由身</string>
+	<key>slave_status2</key>
+	<string>奴隶主</string>
+	<key>slave7</key>
+	<string>每天只能对每个奴隶折磨和安抚各一次。</string>
+	<key>slave8</key>
+	<string>打败奴隶主，成功解救好友，将获得@点声望！</string>
+	<key>slave9</key>
+	<string>今日剩余解救次数：</string>
+	<key>slave10</key>
+	<string>注：竞技场中@级以上的手下败将，你可以在这里将他们抓捕为奴隶！若你抓捕的对象当前身份为“奴隶”，那么你将与他的奴隶主进行战斗。若你抓捕的对象当前身份为“奴隶主”，那么当你战胜对方后，将从他所拥有的奴隶中随机获得1名奴隶。</string>
+	<key>slave11</key>
+	<string>主人：</string>
+	<key>slave12</key>
+	<string>好友：</string>
+	<key>slave13</key>
+	<string>身份：</string>
+	<key>slave14</key>
+	<string>名字：</string>
+	<key>slave15</key>
+	<string>今日剩余抓捕次数：</string>
+	<key>slave16</key>
+	<string>手下败将</string>
+	<key>slave17</key>
+	<string>抓捕奴隶</string>
+</dict>
+</plist>

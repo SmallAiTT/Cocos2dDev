@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>soul_name3</key>
+	<string>之石</string>
+	<key>soul_name4</key>
+	<string>之晶</string>
+	<key>soul_name5</key>
+	<string>之钻</string>
+	<key>soul_name6</key>
+	<string>之魂</string>
+	<key>soul_name7</key>
+	<string>之魄</string>
+	<key>soul_name1</key>
+	<string>碎片</string>
+	<key>soul_name2</key>
+	<string>矿石</string>
+	<key>soul_0</key>
+	<string>碎片数量：</string>
+	<key>att_name1</key>
+	<string>力量</string>
+	<key>att_name2</key>
+	<string>敏捷</string>
+	<key>att_name3</key>
+	<string>耐力</string>
+	<key>att_name4</key>
+	<string>速度</string>
+	<key>att_name5</key>
+	<string></string>
+	<key>att_name6</key>
+	<string>凶猛</string>
+	<key>att_name7</key>
+	<string>勇气</string>
+	<key>att_name8</key>
+	<string>防御</string>
+	<key>att_name9</key>
+	<string>破防</string>
+	<key>att_name10</key>
+	<string></string>
+	<key>att_name11</key>
+	<string></string>
+	<key>att_name12</key>
+	<string>生命</string>
+	<key>att_name13</key>
+	<string>魔力</string>
+	<key>att_name14</key>
+	<string>暴击</string>
+	<key>att_name15</key>
+	<string>闪避</string>
+	<key>att_name16</key>
+	<string>命中</string>
+	<key>att_name17</key>
+	<string>韧性</string>
+</dict>
+</plist>

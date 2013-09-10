@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>talk0</key>
+	<string>世界</string>
+	<key>talk1</key>
+	<string>帮派</string>
+	<key>talk2</key>
+	<string>私聊</string>
+	<key>talk3</key>
+	<string>系统</string>
+	<key>talk_input</key>
+	<string>在此输入你想说的话。</string>
+	<key>talk4</key>
+	<string> 对 </string>
+	<key>talk_showitem</key>
+	<string>非常自豪的拿出了#00D6F6【@】#f0cedf炫耀了一番。</string>
+</dict>
+</plist>

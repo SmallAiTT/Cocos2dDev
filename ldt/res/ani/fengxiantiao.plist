@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fengxiantiao</key>
+	<array>
+		<string>0.03</string>
+		<string>effect/08/08-fenliyiji-feng1.png</string>
+		<string>effect/08/08-fenliyiji-feng2.png</string>
+		<string>effect/08/08-fenliyiji-feng3.png</string>
+		<string>effect/08/08-fenliyiji-feng4.png</string>
+	</array>
+</dict>
+</plist>

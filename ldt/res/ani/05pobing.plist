@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>05pobing</key>
+	<array>
+		<string>0.05</string>
+		<string>effect/05/05-pobing1.png</string>
+		<string>effect/05/05-pobing2.png</string>
+		<string>effect/05/05-pobing3.png</string>
+		<string>effect/05/05-pobing4.png</string>
+		<string>effect/05/05-pobing5.png</string>
+	</array>
+</dict>
+</plist>

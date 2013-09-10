@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>half</key>
+	<string>消耗减半</string>
+	<key>stage</key>
+	<string>星座阶段</string>
+	<key>progress</key>
+	<string>点亮进度</string>
+	<key>add_att</key>
+	<string>点亮属性</string>
+	<key>dec_double</key>
+	<string>分解翻倍</string>
+	<key>get_star</key>
+	<string>预计获得星尘</string>
+	<key>fire_star_tip</key>
+	<string>，点亮成功率</string>
+	<key>fire_star_tip2</key>
+	<string>，同象2个星座点亮@激活</string>
+	<key>fire_star_tip3</key>
+	<string>，当前星座已点满</string>
+	<key>star_eng1</key>
+	<string>消耗体力领取@星尘</string>
+	<key>star_eng2</key>
+	<string>消耗@体力</string>
+	<key>browse1</key>
+	<string>星座总览</string>
+	<key>browse2</key>
+	<string>星象总览</string>
+	<key>full_tip</key>
+	<string>(已满级)</string>
+	<key>star0</key>
+	<string>白羊座</string>
+	<key>star1</key>
+	<string>金牛座</string>
+	<key>star2</key>
+	<string>双子座</string>
+	<key>star3</key>
+	<string>巨蟹座</string>
+	<key>star4</key>
+	<string>狮子座</string>
+	<key>star5</key>
+	<string>处女座</string>
+	<key>star6</key>
+	<string>天秤座</string>
+	<key>star7</key>
+	<string>天蝎座</string>
+	<key>star8</key>
+	<string>射手座</string>
+	<key>star9</key>
+	<string>摩羯座</string>
+	<key>star10</key>
+	<string>水瓶座</string>
+	<key>star11</key>
+	<string>双鱼座</string>
+	<key>star_dust1</key>
+	<string>火星尘</string>
+	<key>star_dust2</key>
+	<string>土星尘</string>
+	<key>star_dust3</key>
+	<string>风星尘</string>
+	<key>star_dust4</key>
+	<string>水星尘</string>
+</dict>
+</plist>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>pet-3-body.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{98,83}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{98,83}}</string>
+                <key>sourceSize</key>
+                <string>{98,83}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>pet3.png</string>
+            <key>size</key>
+            <string>{102,87}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:f9eb65dd6e8f5a0e4027c329fe1a8b3a$</string>
+            <key>textureFileName</key>
+            <string>pet3.png</string>
+        </dict>
+    </dict>
+</plist>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>05suibing</key>
+	<array>
+		<string>0.05</string>
+		<string>effect/05/05-bingpo1.png</string>
+		<string>effect/05/05-bingpo2.png</string>
+		<string>effect/05/05-bingpo3.png</string>
+	</array>
+</dict>
+</plist>

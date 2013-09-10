@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>12xuanfeng</key>
+	<array>
+		<string>0.05</string>
+		<string>effect/12/12xuanfeng1.png</string>
+		<string>effect/12/12xuanfeng2.png</string>
+		<string>effect/12/12xuanfeng3.png</string>
+		<string>effect/12/12xuanfeng4.png</string>
+		<string>effect/12/12xuanfeng5.png</string>
+		<string>effect/12/12xuanfeng6.png</string>
+		<string>effect/12/12xuanfeng7.png</string>
+	</array>
+</dict>
+</plist>

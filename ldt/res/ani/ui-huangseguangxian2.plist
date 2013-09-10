@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ui-huangseguangxian2</key>
+	<array>
+		<string>0.1</string>
+		<string>effect/ui/huangseguangxian1.png</string>
+		<string>effect/ui/huangseguangxian2.png</string>
+		<string>effect/ui/huangseguangxian3.png</string>
+		<string>effect/ui/huangseguangxian4.png</string>
+		<string>effect/ui/huangseguangxian5.png</string>
+		<string>effect/ui/huangseguangxian6.png</string>
+	</array>
+</dict>
+</plist>

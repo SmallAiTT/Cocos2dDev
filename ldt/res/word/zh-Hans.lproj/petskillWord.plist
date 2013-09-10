@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>skill_name1</key>
+	<string>牢固</string>
+	<key>skill_name2</key>
+	<string>强化牢固</string>
+	<key>skill_name3</key>
+	<string>破甲</string>
+	<key>skill_name4</key>
+	<string>强化破甲</string>
+	<key>skill_name5</key>
+	<string>坚韧</string>
+	<key>skill_name6</key>
+	<string>强化坚韧</string>
+	<key>skill_name7</key>
+	<string>暴怒</string>
+	<key>skill_name8</key>
+	<string>强化暴怒</string>
+	<key>skill_name9</key>
+	<string>活力</string>
+	<key>skill_name10</key>
+	<string>强化活力</string>
+	<key>skill_name11</key>
+	<string>鲁莽</string>
+	<key>skill_name12</key>
+	<string>强化鲁莽</string>
+	<key>skill_name13</key>
+	<string>精准</string>
+	<key>skill_name14</key>
+	<string>强化精准</string>
+	<key>skill_name15</key>
+	<string>睿智</string>
+	<key>skill_name16</key>
+	<string>强化睿智</string>
+	<key>skill_name17</key>
+	<string>凶猛</string>
+	<key>skill_name18</key>
+	<string>强化凶猛</string>
+	<key>skill_name19</key>
+	<string>灵动</string>
+	<key>skill_name20</key>
+	<string>强化灵动</string>
+	<key>skill_name21</key>
+	<string>狂血</string>
+	<key>skill_name22</key>
+	<string>强化狂血</string>
+	<key>skill_name23</key>
+	<string>疾风</string>
+	<key>skill_name24</key>
+	<string>强化疾风</string>
+	<key>skill_name25</key>
+	<string>攻击</string>
+	<key>skill_name26</key>
+	<string>防御</string>
+	<key>skill_name27_6</key>
+	<string>残暴</string>
+	<key>skill_name27_1</key>
+	<string>幻影</string>
+	<key>skill_name27_3</key>
+	<string>热血</string>
+	<key>skill_name27_5</key>
+	<string>冰墙</string>
+	<key>skill_name27_2</key>
+	<string>冲撞</string>
+	<key>skill_name27_4</key>
+	<string>坚固</string>
+	<key>skill_name27_7</key>
+	<string>神速</string>
+	<key>skill_name28_6</key>
+	<string>嗜血</string>
+	<key>skill_name28_1</key>
+	<string>晕眩</string>
+	<key>skill_name28_3</key>
+	<string>治疗</string>
+	<key>skill_name28_5</key>
+	<string>冰封</string>
+	<key>skill_name28_2</key>
+	<string>封印</string>
+	<key>skill_name28_4</key>
+	<string>施毒</string>
+	<key>skill_name28_7</key>
+	<string>虚弱</string>
+	<key>skill_des1</key>
+	<string>防御+30</string>
+	<key>skill_des2</key>
+	<string>防御+60</string>
+	<key>skill_des3</key>
+	<string>破防+50</string>
+	<key>skill_des4</key>
+	<string>破防+100</string>
+	<key>skill_des5</key>
+	<string>韧性+50</string>
+	<key>skill_des6</key>
+	<string>韧性+100</string>
+	<key>skill_des7</key>
+	<string>暴击+50</string>
+	<key>skill_des8</key>
+	<string>暴击+100</string>
+	<key>skill_des9</key>
+	<string>HP+5%</string>
+	<key>skill_des10</key>
+	<string>HP+10%</string>
+	<key>skill_des11</key>
+	<string>最大攻+10</string>
+	<key>skill_des12</key>
+	<string>最大攻+20</string>
+	<key>skill_des13</key>
+	<string>命中+50</string>
+	<key>skill_des14</key>
+	<string>命中+100</string>
+	<key>skill_des15</key>
+	<string>SP+10</string>
+	<key>skill_des16</key>
+	<string>SP+20</string>
+	<key>skill_des17</key>
+	<string>攻击+5%</string>
+	<key>skill_des18</key>
+	<string>攻击+10%</string>
+	<key>skill_des19</key>
+	<string>闪避+25</string>
+	<key>skill_des20</key>
+	<string>闪避+50</string>
+	<key>skill_des21</key>
+	<string>HP+30</string>
+	<key>skill_des22</key>
+	<string>HP+60</string>
+	<key>skill_des23</key>
+	<string>速度+5</string>
+	<key>skill_des24</key>
+	<string>速度+10</string>
+	<key>skill_des25</key>
+	<string>20%几率追加1次攻击，攻击力为主人的50%</string>
+	<key>skill_des26</key>
+	<string>10%几率替主人抵挡攻击</string>
+	<key>skill_des27_6</key>
+	<string>暴击+150 (血蝙蝠专属被动技)</string>
+	<key>skill_des27_1</key>
+	<string>闪避+50 (疾风狐专属被动技)</string>
+	<key>skill_des27_3</key>
+	<string>HP+60 (饭团专属被动技)</string>
+	<key>skill_des27_5</key>
+	<string>防御+60 (极地企鹅专属被动技)</string>
+	<key>skill_des27_2</key>
+	<string>破防+150 (通灵狗专属被动技)</string>
+	<key>skill_des27_4</key>
+	<string>韧性+150 (史莱姆专属被动技)</string>
+	<key>skill_des27_7</key>
+	<string>速度+10 (蟾蜍王专属被动技)</string>
+	<key>skill_des28_6</key>
+	<string>10%几率，攻击力为主人的50%，并把伤害的50%血量补给主人 (血蝙蝠专属主动技)</string>
+	<key>skill_des28_1</key>
+	<string>10%几率，攻击力为主人的50%，并晕眩对手 (疾风狐专属主动技)</string>
+	<key>skill_des28_3</key>
+	<string>10%几率，攻击力为主人的50%，并给补主人HP上限的10%血量 (饭团专属主动技)</string>
+	<key>skill_des28_5</key>
+	<string>10%几率，攻击力为主人的50%，并冰冻对手 (极地企鹅专属主动技)</string>
+	<key>skill_des28_2</key>
+	<string>10%几率，攻击力为主人的50%，并封印对手 (通灵狗专属主动技)</string>
+	<key>skill_des28_4</key>
+	<string>10%几率，攻击力为主人的50%，并使对手中毒 (史莱姆专属主动技)</string>
+	<key>skill_des28_7</key>
+	<string>10%几率，攻击力为主人的50%，并使对手虚弱 (蟾蜍王专属主动技)</string>
+</dict>
+</plist>

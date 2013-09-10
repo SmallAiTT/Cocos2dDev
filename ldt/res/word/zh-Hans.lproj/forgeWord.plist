@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>forge_1</key>
+	<string>强化</string>
+	<key>forge_2</key>
+	<string>洗炼</string>
+	<key>forge_3</key>
+	<string>打孔</string>
+	<key>forge_4</key>
+	<string>镶钻</string>
+	<key>forge_5</key>
+	<string>摘除</string>
+	<key>forge_6</key>
+	<string>铭刻</string>
+	<key>forge_7</key>
+	<string>清除</string>
+	<key>forge_8</key>
+	<string>宝石</string>
+	<key>forge_spend</key>
+	<string>消耗</string>
+	<key>forge_times</key>
+	<string>x@/次</string>
+	<key>tag_coat</key>
+	<string>外套</string>
+	<key>tag_pet</key>
+	<string>宠物</string>
+	<key>tag_gem</key>
+	<string>宝石</string>
+	<key>reinforce_fail</key>
+	<string>强化失败！</string>
+	<key>gem_quick_syn_wrod1</key>
+	<string>提醒：系统将自动帮您从商城中购买所需宝石，相关费用将自动扣除。</string>
+	<key>gem_quick_syn_wrod2</key>
+	<string>宝石费用：</string>
+	<key>gem_quick_syn_wrod3</key>
+	<string>合成费用：</string>
+	<key>gem_quick_syn_wrod4</key>
+	<string>总计：</string>
+	<key>btn_quick_reinforce</key>
+	<string>一键强化</string>
+	<key>froge_att_intro</key>
+	<string>实时人物属性，玩家可以在强化、洗炼以及宝石镶嵌的同时查看人物整体属性变化。</string>
+	<key>forge_gem_intro</key>
+	<string>宝石快速升级规则：
+1.使用宝石快速升级不需要摘除装备上的宝石。
+2.宝石等级不得大于装备所能镶嵌的最大等级。
+3.宝石快速升级将直接扣除宝石和镶嵌的相关金币费用。
+4.宝石快速升级不使用背包中的宝石。
+</string>
+	<key>froge_syn_intro</key>
+	<string>1.宝石、外套、宠物可在此进行合成升级。
+2.加成越高的物品，合成失败概率越大。
+3.合成公式为：物品本体+2件相同的+0物品
+4.合成基础价格1000金币，每次递增50金币。
+5.合成价格每日24点重置为1000金币。 </string>
+	<key>forge_syn_intro_title</key>
+	<string>合成规则</string>
+</dict>
+</plist>

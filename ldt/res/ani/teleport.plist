@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>teleport</key>
+	<array>
+		<string>0.05</string>
+		<string>effect/teleport/shunyi1.png</string>
+		<string>effect/teleport/shunyi2.png</string>
+		<string>effect/teleport/shunyi3.png</string>
+		<string>effect/teleport/shunyi4.png</string>
+		<string>effect/teleport/shunyi5.png</string>
+	</array>
+</dict>
+</plist>
