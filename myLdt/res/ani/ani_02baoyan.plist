@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>02baoyan</key>
+	<array>
+		<string>0.05</string>
+		<string>effect/02/02baoyan1.png</string>
+		<string>effect/02/02baoyan2.png</string>
+		<string>effect/02/02baoyan3.png</string>
+		<string>effect/02/02baoyan4.png</string>
+		<string>effect/02/02baoyan5.png</string>
+		<string>effect/02/02baoyan6.png</string>
+	</array>
+</dict>
+</plist>

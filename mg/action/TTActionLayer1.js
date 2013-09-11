@@ -7,11 +7,14 @@
  */
 
 tt.ActionLayer1 = cc.Layer.extend({
+    _resPlist : null,
+    _animTime : null,
     init : function(){
         this._super();
 
         var animFrames = [];
         var cache = cc.SpriteFrameCache.getInstance();
+        cache.addSpriteFrames(this.resPlist);
         for(var i = 0; i < l; ++i){
             var frame = this.animTexs[i];
             animFrames.push(cache.getSpriteFrame(frame));
