@@ -11,12 +11,14 @@ import java.util.List;
 public class ResGen {
 
 	public static void main(String[] args) {
-		ResGen gen = new ResGen("/Users/small/WebstormProjects/Dev/mg/", "res", "src", "test", "cfg/Res.js");
+//		String basePath = "/Users/small/WebstormProjects/Dev/mg/";
+		String basePath = "/Users/small/WebstormProjects/Dev/myLdt/";
+		ResGen gen = new ResGen(basePath, "res", "src", "test", "cfg/Res.js");
 		gen.gen();
 	}
-
+	
 	//res, appJs, testJs
-
+	
 	private List<String> resList = new ArrayList<String>();
 	private String baseDir = "";
 	private String resDir = "";
@@ -49,7 +51,7 @@ public class ResGen {
 		fileTypeList.add("json");
 		fileTypeList.add("js");
 	}
-
+	
 	public ResGen(String baseDir, String resDir, String jsDir, String testJsDir, String outputPath){
 		this.baseDir = baseDir;
 		this.resDir = resDir;
@@ -77,15 +79,6 @@ public class ResGen {
 			}
 		}
 	}
-	private String getKeyName(String name, String keyPre){
-		int index = name.lastIndexOf("/");
-		index = index < 0 ? 0 : index;
-		String fileName = name.substring(index + 1);
-		fileName = fileName.replaceAll("\\.", "_");
-		fileName = fileName.replaceAll("-", "_");
-		return keyPre == null ? fileName : keyPre + fileName;
-	}
-
 	public void gen(){
 		parse(new File(baseDir + resDir));
 		parse(new File(baseDir + jsDir));
@@ -98,7 +91,7 @@ public class ResGen {
             ps.println("Res = {");
     		for(int i = 0; i < resList.size(); ++i){
     			StringBuffer sb = new StringBuffer();
-    			sb.append("    ").append(this.getKeyName(resList.get(i), null)).append(" : '").append(resList.get(i)).append("'");
+    			sb.append("    ").append(GameUtils.getKeyName(resList.get(i))).append(" : '").append(resList.get(i)).append("'");
     			if(i < resList.size() - 1) sb.append(",");
     			ps.println(sb);
     		}
@@ -115,5 +108,5 @@ public class ResGen {
 				}
         }
 	};
-
+	
 }

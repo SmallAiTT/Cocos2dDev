@@ -10,9 +10,12 @@ dm.AniTestLayer = cc.Layer.extend({
     aniInfo : null,
     init : function(){
         this._super();
+        var aniGen = tt.AniGen.create();
+        var animate = aniGen.getAnimate(AniCfg._02baoyan);
         var sprite = cc.Sprite.create();
-        sprite.runAction(cc.RepeatForever.create(tt.genAnimate(this.aniInfo)));
+        sprite.runAction(cc.RepeatForever.create(animate));
         this.addChild(sprite);
+        sprite.setPosition(tt.WIN_SIZE.width/2, tt.WIN_SIZE.height/2);
         return true;
     }
 });

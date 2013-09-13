@@ -10,42 +10,22 @@
 
     var canvas = document.getElementById('canvas');
     var ctx = canvas.getContext('2d');
-    var _canvasBuffer = document.createElement('canvas');
-    _canvasBuffer.width = canvas.width;
-    _canvasBuffer.height = canvas.height;
-    var _canvasBufferContext = _canvasBuffer.getContext('2d');
 
-    fillStype = "red";
-
-    function draw(){
-        if(fillStype == "red"){
-            ctx.fillStyle = fillStype ;
-            console.log(fillStype)
-            ctx.fillRect(0,0,150,150);
-        }else{
-            ctx.clearRect(0, 0, canvas.width, canvas.height);
-            ctx.drawImage(_canvasBuffer, 0, 0);
+    var a = {
+        log : function(){
+            console.log("-aaa----")
         }
+    };
+    function draw(){
+        ctx.fillStyle = "red" ;
+        a.arr = [];
+        eval("(console.log('gggg'))");
+        a["log"]();
+        ctx.fillRect(0,0,150,150);
     }
 
-
-    i = 0;
-    png = null;
     window.onload = function() {
-//        canvas =document.getElementById("canvas");
-//        _canvasBuffer = document.createElement('canvas');
-//        _canvasBuffer.width = canvas.width;
-//        _canvasBuffer.height = canvas.height;
-//        _canvasBufferContext = _canvasBuffer.getContext('2d');
-//        context2D =canvas.getContext("2d");
-        var pic = new Image();
-        pic.onload=function(){
-            fillStype = "red1";
-            _canvasBufferContext.clearRect(0, 0, canvas.width, canvas.height);
-            _canvasBufferContext.drawImage(pic, 0, 0);
-        }
-        pic.src ="mg/res/graph/background/background-001.png";
-        var interval = setInterval(draw, 10);
+        setInterval(draw, 10);
     }
 </script>
 </body>
