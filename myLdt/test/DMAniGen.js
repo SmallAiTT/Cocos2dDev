@@ -6,12 +6,12 @@
  * To change this template use File | Settings | File Templates.
  */
 
-dm.AniTestLayer = cc.Layer.extend({
+dm.AniGenLayer = cc.Layer.extend({
     aniInfo : null,
     init : function(){
         this._super();
         var aniGen = tt.AniGen.create();
-        var animate = aniGen.getAnimate(AniCfg._02baoyan);
+        var animate = aniGen.getAnimate(this.aniInfo);
         var sprite = cc.Sprite.create();
         sprite.runAction(cc.RepeatForever.create(animate));
         this.addChild(sprite);
@@ -19,8 +19,8 @@ dm.AniTestLayer = cc.Layer.extend({
         return true;
     }
 });
-dm.AniTestLayer.create = function(args){
-    var layer = new dm.AniTestLayer();
+dm.AniGenLayer.create = function(args){
+    var layer = new dm.AniGenLayer();
     layer.aniInfo = args.aniInfo;
     return layer.init() ? layer : null;
 };

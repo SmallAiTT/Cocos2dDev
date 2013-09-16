@@ -18,8 +18,9 @@
         engineDir : "../../HTML5/cocos2d/",
 //        engineDir : "../../../123G/HTML5Test/cocos2d/",
 
+        ttDir : "../tt/",
         runMode : "test",
-        testCfg : Res.AniGen_js
+        testCfg : Res.DMAniGen_js
     };
 
     window.addEventListener("DOMContentLoaded", function(){

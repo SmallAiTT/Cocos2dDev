@@ -8,8 +8,11 @@
 
 var ResCfg = ResCfg || {};
 
-ResCfg[Res.AniGen_js] = {
-    testFiles : [Res.AniTest_js],
-    testRes : [Res._02baoyan_plist, Res._02baoyan_png],
-    layer : "dm.AniTestLayer"
+ResCfg[Res.DMAniGen_js] = {
+    ttFiles : [Res.TTAniGen_js],
+    testRes : [Res._02baoyan_plist, Res._02baoyan_png, Res._02dubao_plist, Res._02dubao_png],
+    layer : "dm.AniGenLayer",
+    args : {
+        aniInfo : AniCfg._02dubao
+    }
 };

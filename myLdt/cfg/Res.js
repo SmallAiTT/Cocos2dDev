@@ -1,4 +1,6 @@
 Res = {
+    TTAniGen_js : 'src/ani/TTAniGen.js',
+    tt_js : 'src/tt.js',
     _02baoyan_plist : 'res/ani/02baoyan.plist',
     _02baoyan_png : 'res/ani/02baoyan.png',
     _02dubao_plist : 'res/ani/02dubao.plist',
@@ -167,6 +169,5 @@ Res = {
     yq_shuihua_png : 'res/ani/yq-shuihua.png',
     yq_shuizhu_plist : 'res/ani/yq-shuizhu.plist',
     yq_shuizhu_png : 'res/ani/yq-shuizhu.png',
-    AniGen_js : 'src/ani/AniGen.js',
-    AniTest_js : 'test/AniTest.js'
+    DMAniGen_js : 'test/DMAniGen.js'
 };
