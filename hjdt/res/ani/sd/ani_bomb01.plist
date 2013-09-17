@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>about</key>
+	<dict>
+		<key>app</key>
+		<string>SpriteHelper</string>
+		<key>author</key>
+		<string>Vladu Bogdan</string>
+		<key>web</key>
+		<string>http://www.gamedevhelper.com</string>
+	</dict>
+	<key>frames</key>
+	<dict>
+		<key>bomb01_01.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{94, 85}, {26, 67}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {26, 67}}</string>
+			<key>sourceSize</key>
+			<string>{26, 67}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>bomb01_02.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{97, 1}, {29, 82}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {29, 82}}</string>
+			<key>sourceSize</key>
+			<string>{29, 82}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>bomb01_03.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 161}, {38, 89}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {89, 38}}</string>
+			<key>sourceSize</key>
+			<string>{38, 89}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>bomb01_04.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 121}, {38, 90}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {90, 38}}</string>
+			<key>sourceSize</key>
+			<string>{38, 90}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>bomb01_05.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 82}, {38, 91}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {91, 38}}</string>
+			<key>sourceSize</key>
+			<string>{38, 91}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>bomb01_06.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {39, 94}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {94, 39}}</string>
+			<key>sourceSize</key>
+			<string>{39, 94}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>bomb01_07.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 42}, {38, 91}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {91, 38}}</string>
+			<key>sourceSize</key>
+			<string>{38, 91}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>bomb01_08.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 200}, {39, 81}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {81, 39}}</string>
+			<key>sourceSize</key>
+			<string>{39, 81}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>bomb01_09.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{84, 219}, {39, 76}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {39, 76}}</string>
+			<key>sourceSize</key>
+			<string>{39, 76}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>bomb01_10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 241}, {41, 67}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {67, 41}}</string>
+			<key>sourceSize</key>
+			<string>{41, 67}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>bomb01_11.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 283}, {40, 58}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {58, 40}}</string>
+			<key>sourceSize</key>
+			<string>{40, 58}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>bomb01_12.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{61, 296}, {39, 58}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {58, 39}}</string>
+			<key>sourceSize</key>
+			<string>{39, 58}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>bomb01_13.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 325}, {37, 50}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {50, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 50}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>bomb01_14.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{93, 154}, {25, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {25, 37}}</string>
+			<key>sourceSize</key>
+			<string>{25, 37}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+		<key>bomb01_15.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{92, 192}, {25, 32}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {32, 25}}</string>
+			<key>sourceSize</key>
+			<string>{25, 32}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{255, 255}, {255, 255}}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{128, 364}</string>
+		<key>textureFileName</key>
+		<string>ani_bomb01.png</string>
+	</dict>
+</dict>
+</plist>
