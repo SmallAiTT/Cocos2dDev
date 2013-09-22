@@ -36,7 +36,7 @@ var cocos2dApp = cc.Application.extend({
         director.setDisplayStats(this.config.showFPS);
         //设置FPS，默认为 1.0/60
         director.setAnimationInterval(1.0 / this.config.frameRate);
-        director.setContentScaleFactor(320/480);
+//        director.setContentScaleFactor(320/480);
         cc.EGLView.getInstance().setDesignResolutionSize(480,800,cc.RESOLUTION_POLICY.SHOW_ALL)
 
         if(this.config.runMode == "test") tt.test(this.config.testCfg);
